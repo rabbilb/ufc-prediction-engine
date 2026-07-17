@@ -50,13 +50,6 @@ def clean_text(node: Any) -> str:
 
 
 def extract_parts(cell: Any) -> list[str]:
-    # Each stat cell wraps one value per fighter in its own <p> tag. Only
-    # look at <p> tags directly -- searching divs/spans/a's too caused the
-    # fighter-name cell to be double-counted, since its <p> wraps an <a>
-    # with the same text, e.g. <p><a>Conor McGregor</a></p>. That produced
-    # ["Conor McGregor", "Conor McGregor", "Max Holloway", "Max Holloway"]
-    # instead of ["Conor McGregor", "Max Holloway"], and values[:2] grabbed
-    # both entries from fighter 1 and never reached fighter 2.
     parts = [clean_text(p) for p in cell.find_all("p")]
     parts = [p for p in parts if p]
     if not parts:
@@ -96,8 +89,6 @@ def parse_event_list(html: str) -> list[dict[str, str]]:
 
 
 def filter_completed_events(events: list[dict[str, str]]) -> list[dict[str, str]]:
-    """Drop the pinned 'NEXT' upcoming card and anything else dated in the future --
-    those pages have no results yet, so there's nothing to scrape."""
     today = datetime.now()
     completed = []
     for e in events:
@@ -151,7 +142,14 @@ def parse_event_fights(html: str) -> list[dict[str, Any]]:
     return fights
 
 
-def parse_fight_details(html: str, event_name: str, event_url: str, fight_url: str, fight_summary: dict[str, Any]) -> dict[str, Any]:
+def parse_fight_details(
+    html: str,
+    event_name: str,
+    event_url: str,
+    event_date: str,  # PATCH: new param, threaded in from the events-list page
+    fight_url: str,
+    fight_summary: dict[str, Any],
+) -> dict[str, Any]:
     soup = BeautifulSoup(html, "html.parser")
 
     fighter_names = []
@@ -161,9 +159,6 @@ def parse_fight_details(html: str, event_name: str, event_url: str, fight_url: s
         name_tag = person.select_one("a")
         status_tag = person.select_one("i.b-fight-details__person-status")
         name = clean_text(name_tag) if name_tag else ""
-        # The URL slug is a permanent per-fighter ID that doesn't change even
-        # if the display name does (e.g. Bobby Green -> King Green in 2024).
-        # Use this, not the name string, as the join key for fighter history.
         fighter_id = name_tag["href"].rstrip("/").split("/")[-1] if name_tag and name_tag.get("href") else ""
         if name:
             fighter_names.append(name)
@@ -225,6 +220,7 @@ def parse_fight_details(html: str, event_name: str, event_url: str, fight_url: s
     return {
         "event_name": event_name,
         "event_url": event_url,
+        "event_date": event_date,  # PATCH: now included in every record
         "fight_url": fight_url,
         "fighter_names": fighter_names,
         "fighter_ids": fighter_ids,
@@ -241,7 +237,6 @@ def parse_fight_details(html: str, event_name: str, event_url: str, fight_url: s
 
 
 def load_existing_records(output_dir: str) -> list[dict[str, Any]]:
-    """Load whatever's already been scraped, so a re-run only fetches new events."""
     json_path = os.path.join(output_dir, "ufc_fights.json")
     if not os.path.exists(json_path):
         return []
@@ -258,7 +253,7 @@ def write_outputs(records: list[dict[str, Any]], output_dir: str) -> None:
         json.dump(records, fh, indent=2)
 
     fieldnames = [
-        "event_name", "event_url", "fight_url", "fighter_names", "fighter_ids", "winner",
+        "event_name", "event_url", "event_date", "fight_url", "fighter_names", "fighter_ids", "winner",  # PATCH: event_date added
         "result_raw", "method", "round", "time", "weight_class",
         "totals", "per_round_breakdown",
     ]
@@ -326,6 +321,7 @@ def main() -> None:
                     fight_html,
                     event_name=event["name"],
                     event_url=event["url"],
+                    event_date=event["date"],  # PATCH: pass the date through
                     fight_url=fight_summary["fight_url"],
                     fight_summary=fight_summary,
                 )
