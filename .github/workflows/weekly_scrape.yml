@@ -29,10 +29,13 @@ jobs:
       - name: Run scraper
         run: python ufc_scraper.py --output-dir data
 
+      - name: Scrape fighter bios
+        run: python scrape_fighter_bios.py --fights-json data/ufc_fights.json --output-dir data
+        
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ufc_fights.json data/ufc_fights.csv
+          git add data/ufc_fights.json data/ufc_fights.csv data/ufc_fighters.json data/ufc_fighters.csv
           git diff --cached --quiet && echo "No new data this run" || git commit -m "Weekly UFC data update"
           git push
