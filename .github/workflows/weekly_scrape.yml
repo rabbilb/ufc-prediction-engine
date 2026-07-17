@@ -1,0 +1,38 @@
+name: Weekly UFC Scrape
+
+on:
+  schedule:
+    # Runs every Monday at 13:00 UTC (~8am Central) 
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write  
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright beautifulsoup4
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: python ufc_scraper.py --output-dir data
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ufc_fights.json data/ufc_fights.csv
+          git diff --cached --quiet && echo "No new data this run" || git commit -m "Weekly UFC data update"
+          git push
