@@ -271,7 +271,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape UFC event and fight statistics into JSON/CSV")
     parser.add_argument("--events-url", default=f"{BASE_URL}/statistics/events/completed?page=all")
     parser.add_argument("--limit", type=int, default=None, help="cap the number of NEW events scraped this run (omit for no cap)")
-    parser.add_argument("--output-dir", default="data")
+    parser.add_argument("--output-dir", default="data/raw")
     parser.add_argument("--delay", type=float, default=2.0, help="seconds to wait between requests")
     args = parser.parse_args()
 

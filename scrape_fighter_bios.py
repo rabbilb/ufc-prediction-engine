@@ -75,8 +75,8 @@ def load_existing(output_path: str) -> dict:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape UFC fighter bio pages for unique fighters in your fight data")
-    parser.add_argument("--fights-json", default="data/ufc_fights.json")
-    parser.add_argument("--output-dir", default="data")
+    parser.add_argument("--fights-json", default="data/raw/ufc_fights.json")
+    parser.add_argument("--output-dir", default="data/raw")
     parser.add_argument("--delay", type=float, default=2.0)
     parser.add_argument("--limit", type=int, default=None, help="cap number of NEW fighters scraped this run")
     args = parser.parse_args()
