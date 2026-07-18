@@ -23,11 +23,9 @@ def fetch(page: Page, url: str, delay: float = 1.0, retries: int = 3) -> str:
         time.sleep(delay)
         try:
             page.goto(url, timeout=30000, wait_until="domcontentloaded")
-            # give any JS challenge a moment to resolve on its own
             page.wait_for_timeout(3000)
             text = page.content()
             if any(signal in text for signal in BLOCK_SIGNALS):
-                # one more, longer wait before giving up on this attempt
                 page.wait_for_timeout(5000)
                 text = page.content()
             if any(signal in text for signal in BLOCK_SIGNALS):
@@ -146,7 +144,7 @@ def parse_fight_details(
     html: str,
     event_name: str,
     event_url: str,
-    event_date: str,  # PATCH: new param, threaded in from the events-list page
+    event_date: str,  
     fight_url: str,
     fight_summary: dict[str, Any],
 ) -> dict[str, Any]:
@@ -220,7 +218,7 @@ def parse_fight_details(
     return {
         "event_name": event_name,
         "event_url": event_url,
-        "event_date": event_date,  # PATCH: now included in every record
+        "event_date": event_date,  
         "fight_url": fight_url,
         "fighter_names": fighter_names,
         "fighter_ids": fighter_ids,
@@ -321,7 +319,7 @@ def main() -> None:
                     fight_html,
                     event_name=event["name"],
                     event_url=event["url"],
-                    event_date=event["date"],  # PATCH: pass the date through
+                    event_date=event["date"],  
                     fight_url=fight_summary["fight_url"],
                     fight_summary=fight_summary,
                 )
