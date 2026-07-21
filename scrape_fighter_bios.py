@@ -1,7 +1,6 @@
 
 
 import argparse
-import csv
 import json
 import os
 import re
@@ -127,12 +126,6 @@ def main() -> None:
 
     with open(out_path, "w", encoding="utf-8") as fh:
         json.dump(records, fh, indent=2)
-
-    fieldnames = sorted({k for r in records for k in r.keys()})
-    with open(os.path.join(args.output_dir, "ufc_fighters.csv"), "w", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(records)
 
     print(f"Wrote {len(records)} fighter bio records to {out_path}")
 

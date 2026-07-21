@@ -1,5 +1,4 @@
 import argparse
-import csv
 import json
 import os
 import re
@@ -245,26 +244,11 @@ def load_existing_records(output_dir: str) -> list[dict[str, Any]]:
 def write_outputs(records: list[dict[str, Any]], output_dir: str) -> None:
     os.makedirs(output_dir, exist_ok=True)
     json_path = os.path.join(output_dir, "ufc_fights.json")
-    csv_path = os.path.join(output_dir, "ufc_fights.csv")
 
     with open(json_path, "w", encoding="utf-8") as fh:
         json.dump(records, fh, indent=2)
 
-    fieldnames = [
-        "event_name", "event_url", "event_date", "fight_url", "fighter_names", "fighter_ids", "winner",  # PATCH: event_date added
-        "result_raw", "method", "round", "time", "weight_class",
-        "totals", "per_round_breakdown",
-    ]
-    with open(csv_path, "w", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=fieldnames)
-        writer.writeheader()
-        for record in records:
-            row = {key: record.get(key, "") for key in fieldnames}
-            row["fighter_names"] = " | ".join(record.get("fighter_names", []))
-            row["fighter_ids"] = " | ".join(record.get("fighter_ids", []))
-            row["totals"] = json.dumps(record.get("totals", {}), ensure_ascii=False)
-            row["per_round_breakdown"] = record.get("per_round_breakdown", "")
-            writer.writerow(row)
+    
 
 
 def main() -> None:
