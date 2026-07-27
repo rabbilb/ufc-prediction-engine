@@ -631417,5 +631417,869 @@
     },
     "per_round_breakdown": "Per round RD1 2 of 6 - 33% 5 of 7 - 71% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Du Plessis vs. Usman L Anna Melisano \"Bandana\" W Dione Barbosa \"The Witch\" Women's Flyweight Bout Method: Submission Round: 1 Time: 4:04 Time format: 3 Rnd (5-5-5) Referee: Kevin Nix Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Anna Melisano Dione Barbosa 0 0 2 of 6 5 of 7 33% 71% 6 of 10 22 of 29 0 of 0 1 of 2 --- 50% 0 2 0 0 0:00 3:31 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Anna Melisano Dione Barbosa 0 0 2 of 6 5 of "
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/9009ec7b91f2be14",
+    "fighter_names": [
+      "Magomed Ankalaev",
+      "Bogdan Guskov"
+    ],
+    "fighter_ids": [
+      "d802174b0c0c1f4e",
+      "ef5dcb10d2bd4b0f"
+    ],
+    "winner": "Magomed Ankalaev",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "5",
+    "time": "2:41",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Magomed Ankalaev",
+            "Bogdan Guskov"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "54 of 113",
+            "39 of 63"
+          ],
+          "Sig. str. %": [
+            "47%",
+            "61%"
+          ],
+          "Total str.": [
+            "156 of 235",
+            "45 of 70"
+          ],
+          "Td": [
+            "2 of 4",
+            "0 of 0"
+          ],
+          "Td %": [
+            "50%",
+            "---"
+          ],
+          "Sub. att": [
+            "3",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "8:26",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Magomed Ankalaev",
+        "Bogdan Guskov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 19 of 39 - 48% 11 of 22 - 50% RD2 14 of 29 - 48% 12 of 17 - 70% RD3 15 of 33 - 45% 15 of 22 - 68% RD4 3 of 5 - 60% 1 of 1 - 100% RD5 3 of 7 - 42% 0 of 1 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov W Magomed Ankalaev L Bogdan Guskov \"Hitman\" Light Heavyweight Bout Method: KO/TKO Round: 5 Time: 2:41 Time format: 5 Rnd (5-5-5-5-5) Referee: Marc Goddard Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Magomed Ankalaev Bogdan Guskov 0 0 54 of 113 39 of 63 47% 61% 156 of 235 45 of 70 2 of 4 0 of 0 50% --- 3 1 0 0 8:26 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Magomed Ankalaev Bogdan Guskov 0"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/c36cd04f8f560f0a",
+    "fighter_names": [
+      "Steve Erceg",
+      "Ramazan Temirov"
+    ],
+    "fighter_ids": [
+      "32ab52e5de93092d",
+      "7d0a1968b38ca439"
+    ],
+    "winner": "Ramazan Temirov",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:21",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Steve Erceg",
+            "Ramazan Temirov"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "11 of 42",
+            "27 of 61"
+          ],
+          "Sig. str. %": [
+            "26%",
+            "44%"
+          ],
+          "Total str.": [
+            "11 of 42",
+            "32 of 67"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:08",
+            "0:06"
+          ]
+        }
+      ],
+      "fighters": [
+        "Steve Erceg",
+        "Ramazan Temirov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 42 - 26% 27 of 61 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov L Steve Erceg \"Astroboy\" W Ramazan Temirov \"Temurlan\" Flyweight Bout Method: KO/TKO Round: 1 Time: 4:21 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Steve Erceg Ramazan Temirov 0 2 11 of 42 27 of 61 26% 44% 11 of 42 32 of 67 0 of 1 0 of 0 0% --- 0 0 0 0 0:08 0:06 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Steve Erceg Ramazan Temirov 0 2 11 of 4"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/4ace64aa144389c5",
+    "fighter_names": [
+      "Magomed Zaynukov",
+      "Damian Rzepecki"
+    ],
+    "fighter_ids": [
+      "04ff3a711504d6b3",
+      "99223fbb4a05326b"
+    ],
+    "winner": "Magomed Zaynukov",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Magomed Zaynukov",
+            "Damian Rzepecki"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "74 of 131",
+            "16 of 62"
+          ],
+          "Sig. str. %": [
+            "56%",
+            "25%"
+          ],
+          "Total str.": [
+            "109 of 167",
+            "32 of 80"
+          ],
+          "Td": [
+            "2 of 6",
+            "1 of 7"
+          ],
+          "Td %": [
+            "33%",
+            "14%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:54",
+            "5:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Magomed Zaynukov",
+        "Damian Rzepecki"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 22 of 43 - 51% 7 of 16 - 43% RD2 29 of 49 - 59% 4 of 18 - 22% RD3 23 of 39 - 58% 5 of 28 - 17% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov W Magomed Zaynukov \"Wild Chanko\" L Damian Rzepecki \"The Butcher\" Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Ben Cartlidge 27 - 30. Vito Paolillo 27 - 30. Cezary Wojciechowski 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Magomed Zaynukov Damian Rzepecki 0 0 74 of 131 16 of 62 56% 25% 109 of 167 32 of 80 2 of 6 1 of 7 33% 14% 0 0 0 0 0:54 5:02 Per round Fighter KD Sig. str. Sig. str. % Tot"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/5ffb251c6ea48b65",
+    "fighter_names": [
+      "Rizvan Kuniev",
+      "Tyrell Fortune"
+    ],
+    "fighter_ids": [
+      "739fd4fbb5d862f4",
+      "bc7f4b2d4c2724a2"
+    ],
+    "winner": "Rizvan Kuniev",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "1:12",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rizvan Kuniev",
+            "Tyrell Fortune"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "66 of 120",
+            "20 of 43"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "46%"
+          ],
+          "Total str.": [
+            "68 of 122",
+            "29 of 52"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 2"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:21",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rizvan Kuniev",
+        "Tyrell Fortune"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 24 of 49 - 48% 10 of 23 - 43% RD2 34 of 58 - 58% 8 of 16 - 50% RD3 8 of 13 - 61% 2 of 4 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov W Rizvan Kuniev L Tyrell Fortune Heavyweight Bout Method: KO/TKO Round: 3 Time: 1:12 Time format: 3 Rnd (5-5-5) Referee: Jim Perdios Details: Knee to Head In Clinch Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rizvan Kuniev Tyrell Fortune 1 0 66 of 120 20 of 43 55% 46% 68 of 122 29 of 52 0 of 0 0 of 2 --- 0% 0 0 0 0 2:21 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Rizvan Kuniev Tyrell Fortune 0 0 24 of 49 10 of 23 48% 43% 25"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/61280e5644189c61",
+    "fighter_names": [
+      "Abubakar Vagaev",
+      "Saygid Izagakhmaev"
+    ],
+    "fighter_ids": [
+      "f7adc1fd115f8fdd",
+      "de26d906f2874dd4"
+    ],
+    "winner": "Abubakar Vagaev",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Abubakar Vagaev",
+            "Saygid Izagakhmaev"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "27 of 70",
+            "33 of 83"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "39%"
+          ],
+          "Total str.": [
+            "91 of 138",
+            "73 of 124"
+          ],
+          "Td": [
+            "4 of 10",
+            "2 of 7"
+          ],
+          "Td %": [
+            "40%",
+            "28%"
+          ],
+          "Sub. att": [
+            "0",
+            "3"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "7:46",
+            "2:46"
+          ]
+        }
+      ],
+      "fighters": [
+        "Abubakar Vagaev",
+        "Saygid Izagakhmaev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 6 - 50% 7 of 12 - 58% RD2 20 of 45 - 44% 13 of 37 - 35% RD3 4 of 19 - 21% 13 of 34 - 38% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov W Abubakar Vagaev L Saygid Izagakhmaev Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Vito Paolillo 28 - 29. Clemens Werner 28 - 29. Cezary Wojciechowski 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Abubakar Vagaev Saygid Izagakhmaev 0 0 27 of 70 33 of 83 38% 39% 91 of 138 73 of 124 4 of 10 2 of 7 40% 28% 0 3 0 0 7:46 2:46 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub."
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d7070ab1b2144f8d",
+    "fighter_names": [
+      "Valter Walker",
+      "Thomas Petersen"
+    ],
+    "fighter_ids": [
+      "f5779a2303ed76ec",
+      "764d39074a352e33"
+    ],
+    "winner": "Valter Walker",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "1:32",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Valter Walker",
+            "Thomas Petersen"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "1 of 1",
+            "0 of 1"
+          ],
+          "Sig. str. %": [
+            "100%",
+            "0%"
+          ],
+          "Total str.": [
+            "3 of 3",
+            "6 of 7"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 1"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "2",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:09",
+            "0:37"
+          ]
+        }
+      ],
+      "fighters": [
+        "Valter Walker",
+        "Thomas Petersen"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 1 - 100% 0 of 1 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov W Valter Walker \"The Clean Monster\" L Thomas Petersen \"The Train\" Heavyweight Bout Method: Submission Round: 1 Time: 1:32 Time format: 3 Rnd (5-5-5) Referee: Daniel Movahedi Details: Calf Slicer On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Valter Walker Thomas Petersen 0 0 1 of 1 0 of 1 100% 0% 3 of 3 6 of 7 0 of 0 0 of 1 --- 0% 2 0 0 0 0:09 0:37 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Valter Walker Thomas Petersen "
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/05bc7a042156b6f6",
+    "fighter_names": [
+      "Dustin Jacoby",
+      "Muhammad Saidov"
+    ],
+    "fighter_ids": [
+      "e4277e87a789d687",
+      "b01a5e0dcd9f231d"
+    ],
+    "winner": "Muhammad Saidov",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "4:49",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Dustin Jacoby",
+            "Muhammad Saidov"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "34 of 93",
+            "60 of 133"
+          ],
+          "Sig. str. %": [
+            "36%",
+            "45%"
+          ],
+          "Total str.": [
+            "34 of 93",
+            "60 of 133"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Dustin Jacoby",
+        "Muhammad Saidov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 17 of 44 - 38% 16 of 50 - 32% RD2 17 of 49 - 34% 44 of 83 - 53% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov L Dustin Jacoby \"The Hanyak\" W Muhammad Saidov \"Kubik\" Light Heavyweight Bout Method: KO/TKO Round: 2 Time: 4:49 Time format: 3 Rnd (5-5-5) Referee: Jim Perdios Details: Kick to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Dustin Jacoby Muhammad Saidov 0 2 34 of 93 60 of 133 36% 45% 34 of 93 60 of 133 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Dustin Jacoby Muhammad Saidov"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f6e6b004f07363e9",
+    "fighter_names": [
+      "Santiago Ponzinibbio",
+      "Sam Patterson"
+    ],
+    "fighter_ids": [
+      "6d1bffff14897645",
+      "8b6e5dc2ba1edbe7"
+    ],
+    "winner": "Sam Patterson",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "3:06",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Santiago Ponzinibbio",
+            "Sam Patterson"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "14 of 86",
+            "64 of 132"
+          ],
+          "Sig. str. %": [
+            "16%",
+            "48%"
+          ],
+          "Total str.": [
+            "14 of 86",
+            "65 of 133"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:08"
+          ]
+        }
+      ],
+      "fighters": [
+        "Santiago Ponzinibbio",
+        "Sam Patterson"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 52 - 19% 29 of 75 - 38% RD2 4 of 34 - 11% 35 of 57 - 61% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov L Santiago Ponzinibbio \"Argentine Dagger\" W Sam Patterson Welterweight Bout Method: KO/TKO Round: 2 Time: 3:06 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Santiago Ponzinibbio Sam Patterson 0 2 14 of 86 64 of 132 16% 48% 14 of 86 65 of 133 0 of 1 0 of 0 0% --- 0 0 0 0 0:00 0:08 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Santiago Ponzinibbio Sa"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a122306d0ce5fbfb",
+    "fighter_names": [
+      "Ismael Bonfim",
+      "Axel Sola"
+    ],
+    "fighter_ids": [
+      "eb393afdbe3293d5",
+      "1d2d98ddd05b38fb"
+    ],
+    "winner": "Axel Sola",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "4:44",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ismael Bonfim",
+            "Axel Sola"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "1 of 3",
+            "33 of 44"
+          ],
+          "Sig. str. %": [
+            "33%",
+            "75%"
+          ],
+          "Total str.": [
+            "1 of 3",
+            "77 of 96"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "33%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:03",
+            "2:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ismael Bonfim",
+        "Axel Sola"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 3 - 33% 33 of 44 - 75% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov L Ismael Bonfim \"Marreta\" W Axel Sola Lightweight Bout Method: Submission Round: 1 Time: 4:44 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: D'Arce Choke On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ismael Bonfim Axel Sola 0 1 1 of 3 33 of 44 33% 75% 1 of 3 77 of 96 1 of 3 0 of 0 33% --- 0 1 0 0 2:03 2:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Ismael Bonfim Axel Sola 0 1 1 of 3 33 of 44 33% 75% 1 of 3 77"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/3ac870d6e7d323b7",
+    "fighter_names": [
+      "Magomed Tuchalov",
+      "Brendson Ribeiro"
+    ],
+    "fighter_ids": [
+      "bc5a51159ec2fdf2",
+      "49edd0d90f60fb7d"
+    ],
+    "winner": "Magomed Tuchalov",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Magomed Tuchalov",
+            "Brendson Ribeiro"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "35 of 80",
+            "39 of 118"
+          ],
+          "Sig. str. %": [
+            "43%",
+            "33%"
+          ],
+          "Total str.": [
+            "57 of 110",
+            "49 of 130"
+          ],
+          "Td": [
+            "8 of 14",
+            "0 of 1"
+          ],
+          "Td %": [
+            "57%",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:20",
+            "0:08"
+          ]
+        }
+      ],
+      "fighters": [
+        "Magomed Tuchalov",
+        "Brendson Ribeiro"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 9 of 23 - 39% 18 of 51 - 35% RD2 22 of 45 - 48% 13 of 50 - 26% RD3 4 of 12 - 33% 8 of 17 - 47% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov W Magomed Tuchalov \"Tiger\" L Brendson Ribeiro \"The Gorilla\" Light Heavyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Daniel Movahedi Details: Eric Colon 28 - 29. Clemens Werner 28 - 29. Cezary Wojciechowski 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Magomed Tuchalov Brendson Ribeiro 0 0 35 of 80 39 of 118 43% 33% 57 of 110 49 of 130 8 of 14 0 of 1 57% 0% 1 0 0 0 4:20 0:08 Per round Fighter KD Sig. str. Sig. str. % "
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/3859314324918eeb",
+    "fighter_names": [
+      "Nurullo Aliev",
+      "Mike Davis"
+    ],
+    "fighter_ids": [
+      "ca28cdf526d6b6e9",
+      "fb3e61720be4690c"
+    ],
+    "winner": "Nurullo Aliev",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Nurullo Aliev",
+            "Mike Davis"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "13 of 34",
+            "22 of 37"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "59%"
+          ],
+          "Total str.": [
+            "81 of 106",
+            "55 of 71"
+          ],
+          "Td": [
+            "8 of 13",
+            "0 of 0"
+          ],
+          "Td %": [
+            "61%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "2"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "12:25",
+            "0:36"
+          ]
+        }
+      ],
+      "fighters": [
+        "Nurullo Aliev",
+        "Mike Davis"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 2 of 4 - 50% 5 of 5 - 100% RD2 10 of 25 - 40% 10 of 18 - 55% RD3 1 of 5 - 20% 7 of 14 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov W Nurullo Aliev \"Tajik Eagle\" L Mike Davis \"Beast Boy\" Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jim Perdios Details: David Lethaby 27 - 30. Darryl Ransom 27 - 30. Clemens Werner 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Nurullo Aliev Mike Davis 0 0 13 of 34 22 of 37 38% 59% 81 of 106 55 of 71 8 of 13 0 of 0 61% --- 1 2 1 0 12:25 0:36 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. at"
+  },
+  {
+    "event_name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "event_url": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "event_date": "July 25, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/532340708f0500bd",
+    "fighter_names": [
+      "Cody Gibson",
+      "Abdul Hussein"
+    ],
+    "fighter_ids": [
+      "700a674c042b7a96",
+      "0e6bc8d1d6c0ad90"
+    ],
+    "winner": "Abdul Hussein",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "3:07",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Cody Gibson",
+            "Abdul Hussein"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "44 of 81",
+            "65 of 99"
+          ],
+          "Sig. str. %": [
+            "54%",
+            "65%"
+          ],
+          "Total str.": [
+            "53 of 94",
+            "91 of 133"
+          ],
+          "Td": [
+            "1 of 3",
+            "1 of 2"
+          ],
+          "Td %": [
+            "33%",
+            "50%"
+          ],
+          "Sub. att": [
+            "3",
+            "3"
+          ],
+          "Rev.": [
+            "0",
+            "2"
+          ],
+          "Ctrl": [
+            "1:16",
+            "7:47"
+          ]
+        }
+      ],
+      "fighters": [
+        "Cody Gibson",
+        "Abdul Hussein"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 49 - 42% 30 of 47 - 63% RD2 3 of 6 - 50% 13 of 24 - 54% RD3 20 of 26 - 76% 22 of 28 - 78% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov L Cody Gibson \"The Renegade\" W Abdul Hussein \"King\" Bantamweight Bout Method: Submission Round: 3 Time: 3:07 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Arm Triangle From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Cody Gibson Abdul Hussein 0 1 44 of 81 65 of 99 54% 65% 53 of 94 91 of 133 1 of 3 1 of 2 33% 50% 3 3 0 2 1:16 7:47 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Cody Gibson Abdul Hussein 0 0 21 "
   }
 ]
