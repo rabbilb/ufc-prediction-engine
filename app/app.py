@@ -10,8 +10,8 @@ from streamlit_searchbox import st_searchbox
 st.set_page_config(page_title="UFC Fight Predictor", page_icon="\U0001F94A", layout="wide")
 
 BASE_DIR = Path(__file__).resolve().parent
-APP_DIR = BASE_DIR / "app"
-DATA_DIR = BASE_DIR / "data" / "processed"
+APP_DIR = BASE_DIR
+DATA_DIR = BASE_DIR.parent / "data" / "processed"
 
 # Okabe-Ito colorblind-safe pair. Color is assigned to fighter identity
 # (A always blue, B always vermillion) and never to who is favored.
