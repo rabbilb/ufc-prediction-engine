@@ -1,0 +1,10 @@
+streamlit==1.60.0
+streamlit-searchbox==0.1.24
+pandas==3.0.3
+numpy==2.4.6
+xgboost==3.3.0
+joblib==1.5.3
+shap==0.52.0
+plotly==6.9.0
+matplotlib==3.11.1
+pyarrow==24.0.0
