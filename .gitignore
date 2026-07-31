@@ -1,0 +1,9 @@
+data/raw/*.json
+data/processed/*.parquet
+data/processed/fighters_clean.csv
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
