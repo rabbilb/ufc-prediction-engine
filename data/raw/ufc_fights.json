@@ -632281,5 +632281,1013 @@
     },
     "per_round_breakdown": "Per round RD1 21 of 49 - 42% 30 of 47 - 63% RD2 3 of 6 - 50% 13 of 24 - 54% RD3 20 of 26 - 76% 22 of 28 - 78% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Ankalaev vs. Guskov L Cody Gibson \"The Renegade\" W Abdul Hussein \"King\" Bantamweight Bout Method: Submission Round: 3 Time: 3:07 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Arm Triangle From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Cody Gibson Abdul Hussein 0 1 44 of 81 65 of 99 54% 65% 53 of 94 91 of 133 1 of 3 1 of 2 33% 50% 3 3 0 2 1:16 7:47 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Cody Gibson Abdul Hussein 0 0 21 "
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/68ae50dbf98dc15f",
+    "fighter_names": [
+      "Uros Medic",
+      "Daniel Rodriguez"
+    ],
+    "fighter_ids": [
+      "681399317dbf4701",
+      "8a1f3b5c526cd6e6"
+    ],
+    "winner": "Uros Medic",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "0:30",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Uros Medic",
+            "Daniel Rodriguez"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "11 of 14",
+            "1 of 3"
+          ],
+          "Sig. str. %": [
+            "78%",
+            "33%"
+          ],
+          "Total str.": [
+            "11 of 14",
+            "1 of 3"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:04",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Uros Medic",
+        "Daniel Rodriguez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 14 - 78% 1 of 3 - 33% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez W Uros Medic \"The Doctor\" L Daniel Rodriguez \"D-Rod\" Welterweight Bout Method: KO/TKO Round: 1 Time: 0:30 Time format: 5 Rnd (5-5-5-5-5) Referee: Jason Herzog Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Uros Medic Daniel Rodriguez 1 0 11 of 14 1 of 3 78% 33% 11 of 14 1 of 3 0 of 0 0 of 0 --- --- 0 0 0 0 0:04 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Uros Medic Daniel Rodriguez 1 0 11 o"
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/0c3c835e681972d3",
+    "fighter_names": [
+      "Jan Blachowicz",
+      "Navajo Stirling"
+    ],
+    "fighter_ids": [
+      "99df7d0a2a08a8a8",
+      "b4b496ec2197ee3e"
+    ],
+    "winner": "Navajo Stirling",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:56",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jan Blachowicz",
+            "Navajo Stirling"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "3 of 7",
+            "35 of 46"
+          ],
+          "Sig. str. %": [
+            "42%",
+            "76%"
+          ],
+          "Total str.": [
+            "6 of 11",
+            "36 of 47"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 1"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:04",
+            "1:04"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jan Blachowicz",
+        "Navajo Stirling"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 7 - 42% 35 of 46 - 76% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Jan Blachowicz W Navajo Stirling Light Heavyweight Bout Method: KO/TKO Round: 1 Time: 2:56 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jan Blachowicz Navajo Stirling 0 0 3 of 7 35 of 46 42% 76% 6 of 11 36 of 47 0 of 0 0 of 1 --- 0% 0 0 0 0 0:04 1:04 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jan Blachowicz Navajo Stirling 0 0 3 of 7 35 of 46 4"
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/eb8753ed0476b3d1",
+    "fighter_names": [
+      "Aleksandar Rakic",
+      "Marcin Tybura"
+    ],
+    "fighter_ids": [
+      "333b9e5c723ac873",
+      "c9cf753cfdf77fc2"
+    ],
+    "winner": "Aleksandar Rakic",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Aleksandar Rakic",
+            "Marcin Tybura"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "71 of 136",
+            "33 of 129"
+          ],
+          "Sig. str. %": [
+            "52%",
+            "25%"
+          ],
+          "Total str.": [
+            "83 of 149",
+            "37 of 133"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 2"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "3:11",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Aleksandar Rakic",
+        "Marcin Tybura"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 36 of 60 - 60% 10 of 56 - 17% RD2 18 of 43 - 41% 14 of 50 - 28% RD3 17 of 33 - 51% 9 of 23 - 39% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez W Aleksandar Rakic \"Rocket\" L Marcin Tybura \"Tybur\" Heavyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Mark Collett 27 - 30. David Lethaby 27 - 30. Darryl Ransom 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Aleksandar Rakic Marcin Tybura 0 0 71 of 136 33 of 129 52% 25% 83 of 149 37 of 133 0 of 0 0 of 2 --- 0% 0 0 0 0 3:11 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. "
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f425b7a527dd53aa",
+    "fighter_names": [
+      "Dusko Todorovic",
+      "Robert Valentin"
+    ],
+    "fighter_ids": [
+      "866fd7b1a6c90e7f",
+      "0cd0456d6029cec2"
+    ],
+    "winner": "Robert Valentin",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "4:14",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Dusko Todorovic",
+            "Robert Valentin"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "1 of 1",
+            "1 of 3"
+          ],
+          "Sig. str. %": [
+            "100%",
+            "33%"
+          ],
+          "Total str.": [
+            "1 of 1",
+            "13 of 15"
+          ],
+          "Td": [
+            "2 of 3",
+            "1 of 1"
+          ],
+          "Td %": [
+            "66%",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "2"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "1:00",
+            "2:37"
+          ]
+        }
+      ],
+      "fighters": [
+        "Dusko Todorovic",
+        "Robert Valentin"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 1 - 100% 1 of 3 - 33% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Dusko Todorovic \"Thunder\" W Robert Valentin \"Robzilla\" Middleweight Bout Method: Submission Round: 1 Time: 4:14 Time format: 3 Rnd (5-5-5) Referee: Jacob Montalvo Details: Guillotine Choke From Bottom Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Dusko Todorovic Robert Valentin 0 0 1 of 1 1 of 3 100% 33% 1 of 1 13 of 15 2 of 3 1 of 1 66% 100% 0 2 0 1 1:00 2:37 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Dusko Todorovic Rob"
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/7ecb154439aca0f9",
+    "fighter_names": [
+      "Vlasto Cepo",
+      "Gilbert Urbina"
+    ],
+    "fighter_ids": [
+      "025c1ee70b2cedf4",
+      "b12fb759e02378de"
+    ],
+    "winner": "Gilbert Urbina",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:01",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Vlasto Cepo",
+            "Gilbert Urbina"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "7 of 24",
+            "30 of 48"
+          ],
+          "Sig. str. %": [
+            "29%",
+            "62%"
+          ],
+          "Total str.": [
+            "7 of 24",
+            "36 of 54"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:22"
+          ]
+        }
+      ],
+      "fighters": [
+        "Vlasto Cepo",
+        "Gilbert Urbina"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 24 - 29% 30 of 48 - 62% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Vlasto Cepo \"El Chapo\" W Gilbert Urbina \"The RGV Bad Boy\" Middleweight Bout Method: KO/TKO Round: 1 Time: 1:01 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Elbows to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Vlasto Cepo Gilbert Urbina 0 1 7 of 24 30 of 48 29% 62% 7 of 24 36 of 54 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:22 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Vlasto Cepo Gilbert Urbina 0 1 7 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/fec91da886d80200",
+    "fighter_names": [
+      "Milos Janicic",
+      "Noah Gugnon"
+    ],
+    "fighter_ids": [
+      "dfcadfcbd3a3f097",
+      "6266abf6e4245c72"
+    ],
+    "winner": "Noah Gugnon",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "1:21",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Milos Janicic",
+            "Noah Gugnon"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "6 of 19",
+            "5 of 11"
+          ],
+          "Sig. str. %": [
+            "31%",
+            "45%"
+          ],
+          "Total str.": [
+            "7 of 20",
+            "6 of 13"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:40"
+          ]
+        }
+      ],
+      "fighters": [
+        "Milos Janicic",
+        "Noah Gugnon"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 6 of 19 - 31% 5 of 11 - 45% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Milos Janicic \"The Cobra\" W Noah Gugnon \"Guns\" Lightweight Bout Method: Submission Round: 1 Time: 1:21 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Milos Janicic Noah Gugnon 0 0 6 of 19 5 of 11 31% 45% 7 of 20 6 of 13 0 of 0 0 of 0 --- --- 0 1 0 0 0:00 0:40 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Milos Janicic Noah Gugnon 0 0 6 of 19 5 of 11 31% 45% "
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/fbd99ae7e1ff993a",
+    "fighter_names": [
+      "Ludovit Klein",
+      "Tofiq Musayev"
+    ],
+    "fighter_ids": [
+      "5b86d491d63890c5",
+      "ae81a3ac7b260411"
+    ],
+    "winner": "Tofiq Musayev",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "4:07",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ludovit Klein",
+            "Tofiq Musayev"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "46 of 87",
+            "46 of 110"
+          ],
+          "Sig. str. %": [
+            "52%",
+            "41%"
+          ],
+          "Total str.": [
+            "47 of 88",
+            "59 of 128"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 1"
+          ],
+          "Td %": [
+            "0%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "1:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ludovit Klein",
+        "Tofiq Musayev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 42 - 50% 17 of 44 - 38% RD2 25 of 45 - 55% 29 of 66 - 43% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Ludovit Klein \"Mr. Highlight\" W Tofiq Musayev Lightweight Bout Method: KO/TKO Round: 2 Time: 4:07 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ludovit Klein Tofiq Musayev 0 1 46 of 87 46 of 110 52% 41% 47 of 88 59 of 128 0 of 1 0 of 1 0% 0% 0 0 0 0 0:00 1:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Ludovit Klein Tofiq Musayev 0 0 21 of 42 17 "
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f1bce0c9a3fa4bcb",
+    "fighter_names": [
+      "Oban Elliott",
+      "Michael Oliveira"
+    ],
+    "fighter_ids": [
+      "6b56e94a59b7b134",
+      "037cfd34a27d59e9"
+    ],
+    "winner": "Michael Oliveira",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:49",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Oban Elliott",
+            "Michael Oliveira"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "6 of 11",
+            "14 of 25"
+          ],
+          "Sig. str. %": [
+            "54%",
+            "56%"
+          ],
+          "Total str.": [
+            "6 of 11",
+            "18 of 29"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:15"
+          ]
+        }
+      ],
+      "fighters": [
+        "Oban Elliott",
+        "Michael Oliveira"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 6 of 11 - 54% 14 of 25 - 56% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Oban Elliott \"The Welsh Gangster\" W Michael Oliveira \"PQD\" Welterweight Bout Method: KO/TKO Round: 1 Time: 1:49 Time format: 3 Rnd (5-5-5) Referee: Jacob Montalvo Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Oban Elliott Michael Oliveira 0 2 6 of 11 14 of 25 54% 56% 6 of 11 18 of 29 0 of 1 0 of 0 0% --- 0 0 0 0 0:00 0:15 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Oban Elliott Michael Oliveira"
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/4350abb4f1933f88",
+    "fighter_names": [
+      "Borislav Nikolic",
+      "Mark Vologdin"
+    ],
+    "fighter_ids": [
+      "5f926979c980b87e",
+      "0e6b611451a9a7d8"
+    ],
+    "winner": "Borislav Nikolic",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Borislav Nikolic",
+            "Mark Vologdin"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "57 of 147",
+            "42 of 102"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "41%"
+          ],
+          "Total str.": [
+            "87 of 189",
+            "43 of 103"
+          ],
+          "Td": [
+            "1 of 1",
+            "3 of 8"
+          ],
+          "Td %": [
+            "100%",
+            "37%"
+          ],
+          "Sub. att": [
+            "2",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "4:05",
+            "1:11"
+          ]
+        }
+      ],
+      "fighters": [
+        "Borislav Nikolic",
+        "Mark Vologdin"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 34 - 32% 14 of 39 - 35% RD2 18 of 63 - 28% 22 of 48 - 45% RD3 28 of 50 - 56% 6 of 15 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez W Borislav Nikolic \"Zombee\" L Mark Vologdin Bantamweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Sal D'amato 27 - 29. Vito Paolillo 27 - 29. Clemens Werner 27 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Borislav Nikolic Mark Vologdin 0 1 57 of 147 42 of 102 38% 41% 87 of 189 43 of 103 1 of 1 3 of 8 100% 37% 2 0 1 0 4:05 1:11 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att R"
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/13aa6688d0538095",
+    "fighter_names": [
+      "Dennis Buzukja",
+      "Bogdan Grad"
+    ],
+    "fighter_ids": [
+      "c4d039123e62f6a9",
+      "fb37795db81f93f3"
+    ],
+    "winner": "Bogdan Grad",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "2",
+    "time": "4:33",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Dennis Buzukja",
+            "Bogdan Grad"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "46 of 89",
+            "44 of 74"
+          ],
+          "Sig. str. %": [
+            "51%",
+            "59%"
+          ],
+          "Total str.": [
+            "68 of 111",
+            "67 of 100"
+          ],
+          "Td": [
+            "0 of 0",
+            "4 of 12"
+          ],
+          "Td %": [
+            "---",
+            "33%"
+          ],
+          "Sub. att": [
+            "0",
+            "2"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "4:24"
+          ]
+        }
+      ],
+      "fighters": [
+        "Dennis Buzukja",
+        "Bogdan Grad"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 22 of 39 - 56% 27 of 40 - 67% RD2 24 of 50 - 48% 17 of 34 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Dennis Buzukja \"The Great\" W Bogdan Grad \"The Unleashed\" Featherweight Bout Method: Submission Round: 2 Time: 4:33 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Arm Triangle From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Dennis Buzukja Bogdan Grad 0 0 46 of 89 44 of 74 51% 59% 68 of 111 67 of 100 0 of 0 4 of 12 --- 33% 0 2 0 0 0:00 4:24 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Dennis Buzukja Bogdan "
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/5425c577ed4f50b3",
+    "fighter_names": [
+      "Mateusz Rebecki",
+      "Kyle Prepolec"
+    ],
+    "fighter_ids": [
+      "849c5d9979df5357",
+      "873626e5547b5235"
+    ],
+    "winner": "Mateusz Rebecki",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:41",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mateusz Rebecki",
+            "Kyle Prepolec"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "75 of 98",
+            "2 of 13"
+          ],
+          "Sig. str. %": [
+            "76%",
+            "15%"
+          ],
+          "Total str.": [
+            "132 of 174",
+            "11 of 23"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:04",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mateusz Rebecki",
+        "Kyle Prepolec"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 75 of 98 - 76% 2 of 13 - 15% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez W Mateusz Rebecki L Kyle Prepolec \"Killshot\" Lightweight Bout Method: KO/TKO Round: 1 Time: 4:41 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mateusz Rebecki Kyle Prepolec 0 0 75 of 98 2 of 13 76% 15% 132 of 174 11 of 23 1 of 1 0 of 0 100% --- 0 0 0 0 4:04 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Mateusz Rebecki Kyle Prepolec 0 0 75 of 98 "
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f78f34ef2ee7b02c",
+    "fighter_names": [
+      "Nina Milosevic",
+      "Hailey Cowan"
+    ],
+    "fighter_ids": [
+      "eabece0edc2d62ca",
+      "3c26c420584d912d"
+    ],
+    "winner": "Nina Milosevic",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:41",
+    "weight_class": "Women's Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Nina Milosevic",
+            "Hailey Cowan"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "21 of 39",
+            "13 of 48"
+          ],
+          "Sig. str. %": [
+            "53%",
+            "27%"
+          ],
+          "Total str.": [
+            "21 of 39",
+            "13 of 48"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 2"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Nina Milosevic",
+        "Hailey Cowan"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 39 - 53% 13 of 48 - 27% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez W Nina Milosevic \"Queen Beast\" L Hailey Cowan \"All Hail\" Women's Bantamweight Bout Method: KO/TKO Round: 1 Time: 3:41 Time format: 3 Rnd (5-5-5) Referee: Jacob Montalvo Details: Punch to Body At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Nina Milosevic Hailey Cowan 1 0 21 of 39 13 of 48 53% 27% 21 of 39 13 of 48 0 of 0 0 of 2 --- 0% 0 0 0 0 0:00 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Nina Milosevic Hailey Cow"
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/94cef172179c9778",
+    "fighter_names": [
+      "Jovan Leka",
+      "Alexander Poppeck"
+    ],
+    "fighter_ids": [
+      "182a73d5b4e57871",
+      "56bf3ed155bd0fcd"
+    ],
+    "winner": "Jovan Leka",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:22",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jovan Leka",
+            "Alexander Poppeck"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "10 of 16",
+            "8 of 18"
+          ],
+          "Sig. str. %": [
+            "62%",
+            "44%"
+          ],
+          "Total str.": [
+            "10 of 16",
+            "8 of 18"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:02",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jovan Leka",
+        "Alexander Poppeck"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 16 - 62% 8 of 18 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez W Jovan Leka L Alexander Poppeck \"Ironside\" Heavyweight Bout Method: KO/TKO Round: 1 Time: 2:22 Time format: 3 Rnd (5-5-5) Referee: Vladimir Badrljica Details: Kick to Body At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jovan Leka Alexander Poppeck 1 0 10 of 16 8 of 18 62% 44% 10 of 16 8 of 18 0 of 0 0 of 0 --- --- 0 0 0 0 0:02 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jovan Leka Alexander Poppeck 1 0 10 of 16 8 "
+  },
+  {
+    "event_name": "UFC Fight Night: Medic vs. Rodriguez",
+    "event_url": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "event_date": "August 01, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/878a7e6fec3e4573",
+    "fighter_names": [
+      "Marina Spasic",
+      "Stephanie Luciano"
+    ],
+    "fighter_ids": [
+      "5847c1a960bb23af",
+      "1b35af4d1529adf6"
+    ],
+    "winner": "Stephanie Luciano",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "3:20",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Marina Spasic",
+            "Stephanie Luciano"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "25 of 53",
+            "20 of 47"
+          ],
+          "Sig. str. %": [
+            "47%",
+            "42%"
+          ],
+          "Total str.": [
+            "25 of 53",
+            "22 of 49"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 2"
+          ],
+          "Td %": [
+            "---",
+            "50%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:26"
+          ]
+        }
+      ],
+      "fighters": [
+        "Marina Spasic",
+        "Stephanie Luciano"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 53 - 47% 20 of 47 - 42% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Marina Spasic \"Maki Beki\" W Stephanie Luciano \"Rondinha\" Women's Strawweight Bout Method: Submission Round: 1 Time: 3:20 Time format: 3 Rnd (5-5-5) Referee: Dejan Tesic Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Marina Spasic Stephanie Luciano 0 0 25 of 53 20 of 47 47% 42% 25 of 53 22 of 49 0 of 0 1 of 2 --- 50% 0 1 0 0 0:00 0:26 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Marina Spasic Stephanie Luc"
   }
 ]
