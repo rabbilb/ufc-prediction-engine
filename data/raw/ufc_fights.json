@@ -633289,5 +633289,869 @@
     },
     "per_round_breakdown": "Per round RD1 25 of 53 - 47% 20 of 47 - 42% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Medic vs. Rodriguez L Marina Spasic \"Maki Beki\" W Stephanie Luciano \"Rondinha\" Women's Strawweight Bout Method: Submission Round: 1 Time: 3:20 Time format: 3 Rnd (5-5-5) Referee: Dejan Tesic Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Marina Spasic Stephanie Luciano 0 0 25 of 53 20 of 47 47% 42% 25 of 53 22 of 49 0 of 0 1 of 2 --- 50% 0 1 0 0 0:00 0:26 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Marina Spasic Stephanie Luc"
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a10deecfb8558335",
+    "fighter_names": [
+      "Mateusz Gamrot",
+      "Quillan Salkilld"
+    ],
+    "fighter_ids": [
+      "72db2a14ffa73ece",
+      "17734443a833cdf7"
+    ],
+    "winner": "Quillan Salkilld",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "4:25",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mateusz Gamrot",
+            "Quillan Salkilld"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "3 of 10",
+            "10 of 24"
+          ],
+          "Sig. str. %": [
+            "30%",
+            "41%"
+          ],
+          "Total str.": [
+            "3 of 10",
+            "20 of 35"
+          ],
+          "Td": [
+            "0 of 1",
+            "1 of 1"
+          ],
+          "Td %": [
+            "0%",
+            "100%"
+          ],
+          "Sub. att": [
+            "2",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:20",
+            "2:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mateusz Gamrot",
+        "Quillan Salkilld"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 10 - 30% 10 of 24 - 41% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld L Mateusz Gamrot \"Gamer\" W Quillan Salkilld Lightweight Bout Method: Submission Round: 1 Time: 4:25 Time format: 5 Rnd (5-5-5-5-5) Referee: Jason Herzog Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mateusz Gamrot Quillan Salkilld 0 0 3 of 10 10 of 24 30% 41% 3 of 10 20 of 35 0 of 1 1 of 1 0% 100% 2 1 0 0 0:20 2:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Mateusz Gamrot Quillan Salkilld 0 0 3 of 10 10 "
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d5245f5b96b8afdf",
+    "fighter_names": [
+      "Diego Ferreira",
+      "Billy Quarantillo"
+    ],
+    "fighter_ids": [
+      "f53d4f21d1b5f2dc",
+      "aa171d55d4b5208f"
+    ],
+    "winner": "Diego Ferreira",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Diego Ferreira",
+            "Billy Quarantillo"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "116 of 236",
+            "73 of 208"
+          ],
+          "Sig. str. %": [
+            "49%",
+            "35%"
+          ],
+          "Total str.": [
+            "124 of 246",
+            "113 of 249"
+          ],
+          "Td": [
+            "4 of 9",
+            "1 of 3"
+          ],
+          "Td %": [
+            "44%",
+            "33%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:47",
+            "1:48"
+          ]
+        }
+      ],
+      "fighters": [
+        "Diego Ferreira",
+        "Billy Quarantillo"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 31 of 65 - 47% 12 of 45 - 26% RD2 46 of 97 - 47% 32 of 91 - 35% RD3 39 of 74 - 52% 29 of 72 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld W Diego Ferreira L Billy Quarantillo Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Eric Colon 27 - 30. Chris Lee 27 - 30. Ron McCarthy 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Diego Ferreira Billy Quarantillo 0 0 116 of 236 73 of 208 49% 35% 124 of 246 113 of 249 4 of 9 1 of 3 44% 33% 0 0 0 0 2:47 1:48 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round"
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/06bfde3e3577906f",
+    "fighter_names": [
+      "Darren Elkins",
+      "Yadier del Valle"
+    ],
+    "fighter_ids": [
+      "92a9aa9c93192871",
+      "70380ccdc81915b8"
+    ],
+    "winner": "Yadier del Valle",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "0:35",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Darren Elkins",
+            "Yadier del Valle"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "0 of 2",
+            "5 of 6"
+          ],
+          "Sig. str. %": [
+            "0%",
+            "83%"
+          ],
+          "Total str.": [
+            "0 of 2",
+            "5 of 6"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:09"
+          ]
+        }
+      ],
+      "fighters": [
+        "Darren Elkins",
+        "Yadier del Valle"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 0 of 2 - 0% 5 of 6 - 83% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld L Darren Elkins \"The Damage\" W Yadier del Valle \"The Cuban Problem\" Featherweight Bout Method: KO/TKO Round: 1 Time: 0:35 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Darren Elkins Yadier del Valle 0 1 0 of 2 5 of 6 0% 83% 0 of 2 5 of 6 0 of 1 0 of 0 0% --- 0 0 0 0 0:00 0:09 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Darren Elkins Yadier del Vall"
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/13f31f7a784013a3",
+    "fighter_names": [
+      "Amanda Lemos",
+      "Alexia Thainara"
+    ],
+    "fighter_ids": [
+      "3df5493bb279226f",
+      "545092d13c67aa49"
+    ],
+    "winner": "Alexia Thainara",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Amanda Lemos",
+            "Alexia Thainara"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "56 of 100",
+            "81 of 125"
+          ],
+          "Sig. str. %": [
+            "56%",
+            "64%"
+          ],
+          "Total str.": [
+            "68 of 115",
+            "199 of 246"
+          ],
+          "Td": [
+            "0 of 2",
+            "2 of 6"
+          ],
+          "Td %": [
+            "0%",
+            "33%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:22",
+            "7:43"
+          ]
+        }
+      ],
+      "fighters": [
+        "Amanda Lemos",
+        "Alexia Thainara"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 17 of 36 - 47% 27 of 38 - 71% RD2 20 of 34 - 58% 24 of 44 - 54% RD3 19 of 30 - 63% 30 of 43 - 69% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld L Amanda Lemos W Alexia Thainara \"Burguesinha\" Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Mike Bell 28 - 29. Ron McCarthy 28 - 29. Eric Colon 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Amanda Lemos Alexia Thainara 0 0 56 of 100 81 of 125 56% 64% 68 of 115 199 of 246 0 of 2 2 of 6 0% 33% 0 0 0 0 0:22 7:43 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att "
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f44ab9e9e4a89735",
+    "fighter_names": [
+      "Billy Ray Goff",
+      "Ty Miller"
+    ],
+    "fighter_ids": [
+      "fa07345cc9db5cc9",
+      "0859524157a19045"
+    ],
+    "winner": "Ty Miller",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "0:15",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Billy Ray Goff",
+            "Ty Miller"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "25 of 57",
+            "133 of 221"
+          ],
+          "Sig. str. %": [
+            "43%",
+            "60%"
+          ],
+          "Total str.": [
+            "35 of 67",
+            "163 of 251"
+          ],
+          "Td": [
+            "0 of 8",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:46",
+            "1:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Billy Ray Goff",
+        "Ty Miller"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 16 of 31 - 51% 22 of 48 - 45% RD2 8 of 25 - 32% 107 of 168 - 63% RD3 1 of 1 - 100% 4 of 5 - 80% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld L Billy Ray Goff W Ty Miller \"Thriller\" Welterweight Bout Method: KO/TKO Round: 3 Time: 0:15 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Billy Ray Goff Ty Miller 0 2 25 of 57 133 of 221 43% 60% 35 of 67 163 of 251 0 of 8 0 of 0 0% --- 0 0 0 0 2:46 1:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Billy Ray Goff Ty Miller 0 0 16 of 31 22 of 48 51"
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/3050549d19395f6f",
+    "fighter_names": [
+      "Steven Asplund",
+      "Guilherme Pat"
+    ],
+    "fighter_ids": [
+      "e56cee1ad697db04",
+      "ba15006c804a8de0"
+    ],
+    "winner": "Steven Asplund",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Steven Asplund",
+            "Guilherme Pat"
+          ],
+          "KD": [
+            "2",
+            "1"
+          ],
+          "Sig. str.": [
+            "66 of 109",
+            "45 of 76"
+          ],
+          "Sig. str. %": [
+            "60%",
+            "59%"
+          ],
+          "Total str.": [
+            "134 of 180",
+            "72 of 103"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:44",
+            "2:50"
+          ]
+        }
+      ],
+      "fighters": [
+        "Steven Asplund",
+        "Guilherme Pat"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 38 of 49 - 77% 13 of 17 - 76% RD2 12 of 32 - 37% 18 of 30 - 60% RD3 16 of 28 - 57% 14 of 29 - 48% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld W Steven Asplund \"Concrete\" L Guilherme Pat \"Kong\" Heavyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Derek Cleary 28 - 29. Chris Lee 28 - 29. Tony Weeks 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Steven Asplund Guilherme Pat 2 1 66 of 109 45 of 76 60% 59% 134 of 180 72 of 103 0 of 1 0 of 0 0% --- 1 0 0 0 4:44 2:50 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl"
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/13380a8d6cdbb381",
+    "fighter_names": [
+      "Diyar Nurgozhay",
+      "Bruno Lopes"
+    ],
+    "fighter_ids": [
+      "709fadb644ee3f51",
+      "0abcf6bc47191219"
+    ],
+    "winner": "Diyar Nurgozhay",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:59",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Diyar Nurgozhay",
+            "Bruno Lopes"
+          ],
+          "KD": [
+            "2",
+            "0"
+          ],
+          "Sig. str.": [
+            "48 of 70",
+            "14 of 25"
+          ],
+          "Sig. str. %": [
+            "68%",
+            "56%"
+          ],
+          "Total str.": [
+            "48 of 70",
+            "14 of 25"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 1"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:08",
+            "0:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Diyar Nurgozhay",
+        "Bruno Lopes"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 48 of 70 - 68% 14 of 25 - 56% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld W Diyar Nurgozhay L Bruno Lopes \"The Brazilian Cowboy\" Light Heavyweight Bout Method: KO/TKO Round: 1 Time: 4:59 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Diyar Nurgozhay Bruno Lopes 2 0 48 of 70 14 of 25 68% 56% 48 of 70 14 of 25 0 of 0 1 of 1 --- 100% 0 0 0 0 0:08 0:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Diyar Nurgozhay Bruno Lopes "
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/64829a32c78ab656",
+    "fighter_names": [
+      "Louie Sutherland",
+      "Jose Montanha"
+    ],
+    "fighter_ids": [
+      "cdb7b38b1b357f26",
+      "1f8cd7634e8286ff"
+    ],
+    "winner": "Jose Montanha",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "1:50",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Louie Sutherland",
+            "Jose Montanha"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "3 of 4",
+            "2 of 7"
+          ],
+          "Sig. str. %": [
+            "75%",
+            "28%"
+          ],
+          "Total str.": [
+            "3 of 4",
+            "7 of 12"
+          ],
+          "Td": [
+            "0 of 1",
+            "1 of 2"
+          ],
+          "Td %": [
+            "0%",
+            "50%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:11",
+            "1:01"
+          ]
+        }
+      ],
+      "fighters": [
+        "Louie Sutherland",
+        "Jose Montanha"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 4 - 75% 2 of 7 - 28% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld L Louie Sutherland \"Vanilla Gorilla\" W Jose Montanha Heavyweight Bout Method: Submission Round: 1 Time: 1:50 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Neck Crank From Back Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Louie Sutherland Jose Montanha 0 0 3 of 4 2 of 7 75% 28% 3 of 4 7 of 12 0 of 1 1 of 2 0% 50% 0 1 0 0 0:11 1:01 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Louie Sutherland Jose Montanha 0 0 3"
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/81ae2a465e0dfa4f",
+    "fighter_names": [
+      "Manoel Sousa",
+      "Richie Miranda"
+    ],
+    "fighter_ids": [
+      "5870c541798124ae",
+      "abde3388a589103c"
+    ],
+    "winner": "Manoel Sousa",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Manoel Sousa",
+            "Richie Miranda"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "67 of 119",
+            "46 of 119"
+          ],
+          "Sig. str. %": [
+            "56%",
+            "38%"
+          ],
+          "Total str.": [
+            "89 of 141",
+            "126 of 213"
+          ],
+          "Td": [
+            "1 of 1",
+            "1 of 9"
+          ],
+          "Td %": [
+            "100%",
+            "11%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:49",
+            "3:51"
+          ]
+        }
+      ],
+      "fighters": [
+        "Manoel Sousa",
+        "Richie Miranda"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 16 - 43% 17 of 30 - 56% RD2 36 of 50 - 72% 12 of 35 - 34% RD3 24 of 53 - 45% 17 of 54 - 31% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld W Manoel Sousa \"Manumito\" L Richie Miranda \"El Machete\" Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Derek Cleary 28 - 29. Sal D'amato 28 - 29. Junichiro Kamijo 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Manoel Sousa Richie Miranda 1 0 67 of 119 46 of 119 56% 38% 89 of 141 126 of 213 1 of 1 1 of 9 100% 11% 0 0 0 0 2:49 3:51 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % "
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1168a8e59aacfd72",
+    "fighter_names": [
+      "Miles Johns",
+      "Gianni Vazquez"
+    ],
+    "fighter_ids": [
+      "46e0d677f91bacc0",
+      "51ec9dc3b4964f19"
+    ],
+    "winner": "Miles Johns",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:09",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Miles Johns",
+            "Gianni Vazquez"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "12 of 28",
+            "7 of 25"
+          ],
+          "Sig. str. %": [
+            "42%",
+            "28%"
+          ],
+          "Total str.": [
+            "12 of 28",
+            "7 of 25"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:04",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Miles Johns",
+        "Gianni Vazquez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 12 of 28 - 42% 7 of 25 - 28% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld W Miles Johns \"Chapo\" L Gianni Vazquez \"Kriptonita\" Featherweight Bout Method: KO/TKO Round: 1 Time: 3:09 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Miles Johns Gianni Vazquez 1 0 12 of 28 7 of 25 42% 28% 12 of 28 7 of 25 0 of 0 0 of 0 --- --- 0 0 0 0 0:04 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Miles Johns Gianni Vazquez 1 0 12 of 28 7 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d463229133909215",
+    "fighter_names": [
+      "Juliana Miller",
+      "Ravena Oliveira"
+    ],
+    "fighter_ids": [
+      "aa0c573da7119292",
+      "4948e412fa6ab67d"
+    ],
+    "winner": "Juliana Miller",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "2",
+    "time": "1:38",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Juliana Miller",
+            "Ravena Oliveira"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "24 of 44",
+            "7 of 18"
+          ],
+          "Sig. str. %": [
+            "54%",
+            "38%"
+          ],
+          "Total str.": [
+            "45 of 70",
+            "18 of 30"
+          ],
+          "Td": [
+            "2 of 4",
+            "0 of 0"
+          ],
+          "Td %": [
+            "50%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:42",
+            "0:06"
+          ]
+        }
+      ],
+      "fighters": [
+        "Juliana Miller",
+        "Ravena Oliveira"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 38 - 55% 7 of 13 - 53% RD2 3 of 6 - 50% 0 of 5 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld W Juliana Miller \"Killer\" L Ravena Oliveira \"Kenoudy\" Women's Flyweight Bout Method: Submission Round: 2 Time: 1:38 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Juliana Miller Ravena Oliveira 0 0 24 of 44 7 of 18 54% 38% 45 of 70 18 of 30 2 of 4 0 of 0 50% --- 1 0 0 0 4:42 0:06 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Juliana Miller Ravena Oliveira 0 0 "
+  },
+  {
+    "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+    "event_url": "http://ufcstats.com/event-details/495add4fbede0a44",
+    "event_date": "August 08, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ded584e13276cbcb",
+    "fighter_names": [
+      "Gigi Canuto",
+      "Carol Foro"
+    ],
+    "fighter_ids": [
+      "651d209fa8c8cd83",
+      "77ba5b2939c4018b"
+    ],
+    "winner": "Carol Foro",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Gigi Canuto",
+            "Carol Foro"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "56 of 107",
+            "106 of 173"
+          ],
+          "Sig. str. %": [
+            "52%",
+            "61%"
+          ],
+          "Total str.": [
+            "102 of 159",
+            "125 of 192"
+          ],
+          "Td": [
+            "4 of 7",
+            "0 of 0"
+          ],
+          "Td %": [
+            "57%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "6:10",
+            "0:50"
+          ]
+        }
+      ],
+      "fighters": [
+        "Gigi Canuto",
+        "Carol Foro"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 24 of 50 - 48% 43 of 73 - 58% RD2 2 of 6 - 33% 0 of 2 - 0% RD3 30 of 51 - 58% 63 of 98 - 64% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld L Gigi Canuto \"Diamond\" W Carol Foro \"Anabelle\" Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Eric Colon 28 - 29. Chris Lee 28 - 29. Tony Weeks 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Gigi Canuto Carol Foro 0 0 56 of 107 106 of 173 52% 61% 102 of 159 125 of 192 4 of 7 0 of 0 57% --- 1 0 0 1 6:10 0:50 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev."
   }
 ]
