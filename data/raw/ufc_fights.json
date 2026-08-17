@@ -634153,5 +634153,869 @@
     },
     "per_round_breakdown": "Per round RD1 24 of 50 - 48% 43 of 73 - 58% RD2 2 of 6 - 33% 0 of 2 - 0% RD3 30 of 51 - 58% 63 of 98 - 64% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Gamrot vs. Salkilld L Gigi Canuto \"Diamond\" W Carol Foro \"Anabelle\" Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Eric Colon 28 - 29. Chris Lee 28 - 29. Tony Weeks 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Gigi Canuto Carol Foro 0 0 56 of 107 106 of 173 52% 61% 102 of 159 125 of 192 4 of 7 0 of 0 57% --- 1 0 0 1 6:10 0:50 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev."
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/365fd759c03e93cf",
+    "fighter_names": [
+      "Islam Makhachev",
+      "Ian Machado Garry"
+    ],
+    "fighter_ids": [
+      "275aca31f61ba28c",
+      "442c9011034ae1fd"
+    ],
+    "winner": "Islam Makhachev",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "5",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Islam Makhachev",
+            "Ian Machado Garry"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "22 of 44",
+            "29 of 65"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "44%"
+          ],
+          "Total str.": [
+            "78 of 114",
+            "89 of 141"
+          ],
+          "Td": [
+            "7 of 15",
+            "0 of 0"
+          ],
+          "Td %": [
+            "46%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "12:30",
+            "0:34"
+          ]
+        }
+      ],
+      "fighters": [
+        "Islam Makhachev",
+        "Ian Machado Garry"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 5 - 60% 0 of 2 - 0% RD2 11 of 20 - 55% 6 of 18 - 33% RD3 5 of 10 - 50% 9 of 25 - 36% RD4 3 of 6 - 50% 7 of 11 - 63% RD5 0 of 3 - 0% 7 of 9 - 77% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Islam Makhachev L Ian Machado Garry \"The Future\" UFC Welterweight Title Bout Method: Decision - Unanimous Round: 5 Time: 5:00 Time format: 5 Rnd (5-5-5-5-5) Referee: Herb Dean Details: Sal D'amato 46 - 49. Mike Bell 46 - 49. Eric Colon 47 - 48. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Islam Makhachev Ian Machado Garry 1 0 22 of 44 29 of 65 50% 44% 78 of 114 89 of 141 7 of 15 0 of 0 46% --- 0 0 0 0 12:30 0:34 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td "
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/4700d42c9869674a",
+    "fighter_names": [
+      "Mackenzie Dern",
+      "Gillian Robertson"
+    ],
+    "fighter_ids": [
+      "7447e9f28508106a",
+      "38c7f72747f4f712"
+    ],
+    "winner": "Mackenzie Dern",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "5",
+    "time": "5:00",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mackenzie Dern",
+            "Gillian Robertson"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "65 of 168",
+            "49 of 131"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "37%"
+          ],
+          "Total str.": [
+            "122 of 239",
+            "136 of 237"
+          ],
+          "Td": [
+            "4 of 6",
+            "1 of 3"
+          ],
+          "Td %": [
+            "66%",
+            "33%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "2"
+          ],
+          "Ctrl": [
+            "10:48",
+            "6:47"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mackenzie Dern",
+        "Gillian Robertson"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 19 of 60 - 31% 3 of 27 - 11% RD2 3 of 9 - 33% 0 of 6 - 0% RD3 30 of 70 - 42% 26 of 63 - 41% RD4 5 of 15 - 33% 6 of 11 - 54% RD5 8 of 14 - 57% 14 of 24 - 58% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Mackenzie Dern L Gillian Robertson \"The Savage\" UFC Women's Strawweight Title Bout Method: Decision - Unanimous Round: 5 Time: 5:00 Time format: 5 Rnd (5-5-5-5-5) Referee: Keith Peterson Details: Sal D'amato 46 - 49. Chris Bolinski 46 - 49. Rick Winter 47 - 48. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mackenzie Dern Gillian Robertson 0 0 65 of 168 49 of 131 38% 37% 122 of 239 136 of 237 4 of 6 1 of 3 66% 33% 1 0 0 2 10:48 6:47 Per round Fighter KD Sig. str. Sig. str. % "
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d4bd456d70965734",
+    "fighter_names": [
+      "Jalin Turner",
+      "Kaue Fernandes"
+    ],
+    "fighter_ids": [
+      "4d8fa64202cee4c1",
+      "ec13c393d029297d"
+    ],
+    "winner": "Jalin Turner",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "0:39",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jalin Turner",
+            "Kaue Fernandes"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "9 of 14",
+            "2 of 4"
+          ],
+          "Sig. str. %": [
+            "64%",
+            "50%"
+          ],
+          "Total str.": [
+            "9 of 14",
+            "2 of 4"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:05",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jalin Turner",
+        "Kaue Fernandes"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 9 of 14 - 64% 2 of 4 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Jalin Turner \"The Tarantula\" L Kaue Fernandes Lightweight Bout Method: KO/TKO Round: 1 Time: 0:39 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jalin Turner Kaue Fernandes 1 0 9 of 14 2 of 4 64% 50% 9 of 14 2 of 4 0 of 0 0 of 0 --- --- 0 0 0 0 0:05 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jalin Turner Kaue Fernandes 1 0 9 of 14 2 of 4 64%"
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/53902dcb3e213b18",
+    "fighter_names": [
+      "Mansur Abdul-Malik",
+      "Dustin Stoltzfus"
+    ],
+    "fighter_ids": [
+      "841695e02c99a521",
+      "71505842fb6455c3"
+    ],
+    "winner": "Dustin Stoltzfus",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "2",
+    "time": "4:25",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mansur Abdul-Malik",
+            "Dustin Stoltzfus"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "34 of 67",
+            "43 of 70"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "61%"
+          ],
+          "Total str.": [
+            "34 of 68",
+            "61 of 92"
+          ],
+          "Td": [
+            "1 of 1",
+            "2 of 7"
+          ],
+          "Td %": [
+            "100%",
+            "28%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:37",
+            "3:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mansur Abdul-Malik",
+        "Dustin Stoltzfus"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 12 of 28 - 42% 29 of 46 - 63% RD2 22 of 39 - 56% 14 of 24 - 58% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry L Mansur Abdul-Malik W Dustin Stoltzfus Middleweight Bout Method: Submission Round: 2 Time: 4:25 Time format: 3 Rnd (5-5-5) Referee: Keith Peterson Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mansur Abdul-Malik Dustin Stoltzfus 0 0 34 of 67 43 of 70 50% 61% 34 of 68 61 of 92 1 of 1 2 of 7 100% 28% 0 1 0 0 0:37 3:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Mansur Abdul-Malik Dustin Stoltzfus 0 0 12 of"
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/8e482cead0c7eb15",
+    "fighter_names": [
+      "Edson Barboza",
+      "Esteban Ribovics"
+    ],
+    "fighter_ids": [
+      "64a50dad704d1d49",
+      "323d4ca260dfa0ba"
+    ],
+    "winner": "Esteban Ribovics",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "1:32",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Edson Barboza",
+            "Esteban Ribovics"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "30 of 64",
+            "63 of 126"
+          ],
+          "Sig. str. %": [
+            "46%",
+            "50%"
+          ],
+          "Total str.": [
+            "30 of 64",
+            "70 of 133"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:19"
+          ]
+        }
+      ],
+      "fighters": [
+        "Edson Barboza",
+        "Esteban Ribovics"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 24 of 49 - 48% 41 of 89 - 46% RD2 6 of 15 - 40% 22 of 37 - 59% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry L Edson Barboza \"Junior\" W Esteban Ribovics \"El Gringo\" Lightweight Bout Method: KO/TKO Round: 2 Time: 1:32 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Edson Barboza Esteban Ribovics 0 0 30 of 64 63 of 126 46% 50% 30 of 64 70 of 133 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:19 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Edson Barboza Esteban Ribovics 0"
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/6e495deac1f57169",
+    "fighter_names": [
+      "Chidi Njokuani",
+      "Joel Alvarez"
+    ],
+    "fighter_ids": [
+      "c68c68efaa5ca6ef",
+      "58bbef3770bb2dfc"
+    ],
+    "winner": "Chidi Njokuani",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Chidi Njokuani",
+            "Joel Alvarez"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "155 of 229",
+            "74 of 164"
+          ],
+          "Sig. str. %": [
+            "67%",
+            "45%"
+          ],
+          "Total str.": [
+            "159 of 233",
+            "76 of 166"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:12",
+            "0:26"
+          ]
+        }
+      ],
+      "fighters": [
+        "Chidi Njokuani",
+        "Joel Alvarez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 46 of 69 - 66% 22 of 50 - 44% RD2 48 of 70 - 68% 25 of 52 - 48% RD3 61 of 90 - 67% 27 of 62 - 43% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Chidi Njokuani \"Bang Bang\" L Joel Alvarez \"El Fenomeno\" Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Keith Peterson Details: Brent Colflesh 27 - 30. Eric Colon 27 - 30. David Braslow 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Chidi Njokuani Joel Alvarez 0 0 155 of 229 74 of 164 67% 45% 159 of 233 76 of 166 0 of 1 0 of 0 0% --- 0 0 0 0 0:12 0:26 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td "
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e7c11d1b22d50ba0",
+    "fighter_names": [
+      "Charles Johnson",
+      "Eduardo Chapolin"
+    ],
+    "fighter_ids": [
+      "814e5233e2acf2ee",
+      "62f3039da2f92a8c"
+    ],
+    "winner": "Charles Johnson",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "1:36",
+    "weight_class": "Catch Weight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Charles Johnson",
+            "Eduardo Chapolin"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "66 of 142",
+            "55 of 131"
+          ],
+          "Sig. str. %": [
+            "46%",
+            "41%"
+          ],
+          "Total str.": [
+            "70 of 146",
+            "59 of 137"
+          ],
+          "Td": [
+            "0 of 5",
+            "1 of 4"
+          ],
+          "Td %": [
+            "0%",
+            "25%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:13",
+            "1:12"
+          ]
+        }
+      ],
+      "fighters": [
+        "Charles Johnson",
+        "Eduardo Chapolin"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 16 of 39 - 41% 22 of 51 - 43% RD2 30 of 66 - 45% 25 of 59 - 42% RD3 20 of 37 - 54% 8 of 21 - 38% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Charles Johnson \"InnerG\" L Eduardo Chapolin Catch Weight Bout Method: Submission Round: 3 Time: 1:36 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Twister From Back Control Scottish twister Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Charles Johnson Eduardo Chapolin 0 1 66 of 142 55 of 131 46% 41% 70 of 146 59 of 137 0 of 5 1 of 4 0% 25% 1 0 0 0 0:13 1:12 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Charles Johnson "
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/9c5da658c76da7c0",
+    "fighter_names": [
+      "Donte Johnson",
+      "Eric McConico"
+    ],
+    "fighter_ids": [
+      "ad5cb64af10fc946",
+      "9508cc6184cb2450"
+    ],
+    "winner": "Donte Johnson",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:38",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Donte Johnson",
+            "Eric McConico"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "11 of 31",
+            "6 of 15"
+          ],
+          "Sig. str. %": [
+            "35%",
+            "40%"
+          ],
+          "Total str.": [
+            "11 of 31",
+            "6 of 15"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 1"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Donte Johnson",
+        "Eric McConico"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 31 - 35% 6 of 15 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Donte Johnson \"Lock Jaw\" L Eric McConico Middleweight Bout Method: KO/TKO Round: 1 Time: 1:38 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Donte Johnson Eric McConico 1 0 11 of 31 6 of 15 35% 40% 11 of 31 6 of 15 0 of 0 0 of 1 --- 0% 0 0 0 0 0:00 0:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Donte Johnson Eric McConico 1 0 11 of 31 6 of 15 35%"
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e79e4d13546d2360",
+    "fighter_names": [
+      "Vicente Luque",
+      "Tresean Gore"
+    ],
+    "fighter_ids": [
+      "6d4b63c767106d3a",
+      "147e70aa6cc48cfc"
+    ],
+    "winner": "Tresean Gore",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Vicente Luque",
+            "Tresean Gore"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "46 of 122",
+            "65 of 136"
+          ],
+          "Sig. str. %": [
+            "37%",
+            "47%"
+          ],
+          "Total str.": [
+            "50 of 127",
+            "98 of 179"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 2"
+          ],
+          "Td %": [
+            "0%",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:44",
+            "3:45"
+          ]
+        }
+      ],
+      "fighters": [
+        "Vicente Luque",
+        "Tresean Gore"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 26 of 56 - 46% 22 of 60 - 36% RD2 6 of 15 - 40% 24 of 34 - 70% RD3 14 of 51 - 27% 19 of 42 - 45% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry L Vicente Luque \"The Silent Assassin\" W Tresean Gore \"Mr. Vicious\" Middleweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Brent Colflesh 27 - 30. Chris Bolinski 27 - 30. Sal D'amato 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Vicente Luque Tresean Gore 0 0 46 of 122 65 of 136 37% 47% 50 of 127 98 of 179 0 of 1 0 of 2 0% 0% 1 1 0 0 0:44 3:45 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % T"
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/360b13f97e7ca703",
+    "fighter_names": [
+      "Rafael Tobias",
+      "Lucas Fernando"
+    ],
+    "fighter_ids": [
+      "d6a8edb7410223a0",
+      "3df223aeaacecf3f"
+    ],
+    "winner": "Lucas Fernando",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "1:10",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rafael Tobias",
+            "Lucas Fernando"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "13 of 56",
+            "69 of 115"
+          ],
+          "Sig. str. %": [
+            "23%",
+            "60%"
+          ],
+          "Total str.": [
+            "14 of 58",
+            "69 of 115"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:55",
+            "0:09"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rafael Tobias",
+        "Lucas Fernando"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 25 - 28% 27 of 47 - 57% RD2 6 of 23 - 26% 28 of 45 - 62% RD3 0 of 8 - 0% 14 of 23 - 60% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry L Rafael Tobias \"Bipolar\" W Lucas Fernando Light Heavyweight Bout Method: KO/TKO Round: 3 Time: 1:10 Time format: 3 Rnd (5-5-5) Referee: Keith Peterson Details: Knee to Body At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rafael Tobias Lucas Fernando 0 2 13 of 56 69 of 115 23% 60% 14 of 58 69 of 115 1 of 1 0 of 0 100% --- 0 0 0 0 0:55 0:09 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Rafael Tobias Lucas Fernando 0 0 7 of "
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e7077d030d5fc15f",
+    "fighter_names": [
+      "Neil Magny",
+      "Ramiz Brahimaj"
+    ],
+    "fighter_ids": [
+      "84b3e7d38f2d2ec5",
+      "3d074044a33825e7"
+    ],
+    "winner": "Neil Magny",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "3:20",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Neil Magny",
+            "Ramiz Brahimaj"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "24 of 38",
+            "7 of 9"
+          ],
+          "Sig. str. %": [
+            "63%",
+            "77%"
+          ],
+          "Total str.": [
+            "61 of 78",
+            "20 of 24"
+          ],
+          "Td": [
+            "0 of 1",
+            "1 of 3"
+          ],
+          "Td %": [
+            "0%",
+            "33%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "1"
+          ],
+          "Ctrl": [
+            "0:59",
+            "6:25"
+          ]
+        }
+      ],
+      "fighters": [
+        "Neil Magny",
+        "Ramiz Brahimaj"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 11 - 63% 4 of 6 - 66% RD2 17 of 27 - 62% 3 of 3 - 100% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Neil Magny \"The Haitian Sensation\" L Ramiz Brahimaj Welterweight Bout Method: KO/TKO Round: 2 Time: 3:20 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Neil Magny Ramiz Brahimaj 0 0 24 of 38 7 of 9 63% 77% 61 of 78 20 of 24 0 of 1 1 of 3 0% 33% 1 0 1 1 0:59 6:25 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Neil Magny Ramiz Brahimaj 0 0 7 of 11 4 of"
+  },
+  {
+    "event_name": "UFC 330: Makhachev vs. Machado Garry",
+    "event_url": "http://ufcstats.com/event-details/b96619b3acd7d9da",
+    "event_date": "August 15, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d5ebdf462c9b59b3",
+    "fighter_names": [
+      "Jeremiah Wells",
+      "Myktybek Orolbai"
+    ],
+    "fighter_ids": [
+      "d66a46de8d705353",
+      "bf2c8e01b07d3eb1"
+    ],
+    "winner": "Jeremiah Wells",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "1:24",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jeremiah Wells",
+            "Myktybek Orolbai"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "16 of 45",
+            "26 of 35"
+          ],
+          "Sig. str. %": [
+            "35%",
+            "74%"
+          ],
+          "Total str.": [
+            "28 of 57",
+            "67 of 83"
+          ],
+          "Td": [
+            "1 of 1",
+            "4 of 6"
+          ],
+          "Td %": [
+            "100%",
+            "66%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:23",
+            "6:20"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jeremiah Wells",
+        "Myktybek Orolbai"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 22 - 50% 20 of 24 - 83% RD2 3 of 10 - 30% 4 of 7 - 57% RD3 2 of 13 - 15% 2 of 4 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Jeremiah Wells L Myktybek Orolbai Welterweight Bout Method: Submission Round: 3 Time: 1:24 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Guillotine Choke In Clinch Ninja choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jeremiah Wells Myktybek Orolbai 0 0 16 of 45 26 of 35 35% 74% 28 of 57 67 of 83 1 of 1 4 of 6 100% 66% 1 0 1 0 0:23 6:20 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jeremiah Wells Myktybek Orolbai 0 "
   }
 ]

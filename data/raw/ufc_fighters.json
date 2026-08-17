@@ -49246,5 +49246,41 @@
     "TD Acc.": "11%",
     "TD Def.": "0%",
     "Sub. Avg.": "0.0"
+  },
+  {
+    "fighter_id": "3df223aeaacecf3f",
+    "name": "Lucas Fernando",
+    "record": "14-3-0",
+    "Height": "6' 3\"",
+    "Weight": "205 lbs.",
+    "Reach": "80\"",
+    "STANCE": "Orthodox",
+    "DOB": "Jan 10, 1997",
+    "SLpM": "3.71",
+    "Str. Acc.": "57%",
+    "SApM": "3.21",
+    "Str. Def": "51%",
+    "TD Avg.": "1.72",
+    "TD Acc.": "30%",
+    "TD Def.": "0%",
+    "Sub. Avg.": "0.6"
+  },
+  {
+    "fighter_id": "62f3039da2f92a8c",
+    "name": "Eduardo Chapolin",
+    "record": "15-3-0",
+    "Height": "5' 7\"",
+    "Weight": "125 lbs.",
+    "Reach": "67\"",
+    "STANCE": "Orthodox",
+    "DOB": "Nov 23, 1995",
+    "SLpM": "3.46",
+    "Str. Acc.": "41%",
+    "SApM": "3.38",
+    "Str. Def": "57%",
+    "TD Avg.": "3.38",
+    "TD Acc.": "60%",
+    "TD Def.": "84%",
+    "Sub. Avg.": "0.0"
   }
 ]
