@@ -635017,5 +635017,941 @@
     },
     "per_round_breakdown": "Per round RD1 11 of 22 - 50% 20 of 24 - 83% RD2 3 of 10 - 30% 4 of 7 - 57% RD3 2 of 13 - 15% 2 of 4 - 50% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 330: Makhachev vs. Machado Garry W Jeremiah Wells L Myktybek Orolbai Welterweight Bout Method: Submission Round: 3 Time: 1:24 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Guillotine Choke In Clinch Ninja choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jeremiah Wells Myktybek Orolbai 0 0 16 of 45 26 of 35 35% 74% 28 of 57 67 of 83 1 of 1 4 of 6 100% 66% 1 0 1 0 0:23 6:20 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jeremiah Wells Myktybek Orolbai 0 "
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/fb77b08a90b92d5b",
+    "fighter_names": [
+      "Anthony Hernandez",
+      "Gregory Rodrigues"
+    ],
+    "fighter_ids": [
+      "093e1f5bb73850be",
+      "d1c65d2cf2925ddd"
+    ],
+    "winner": "Gregory Rodrigues",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "5",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Anthony Hernandez",
+            "Gregory Rodrigues"
+          ],
+          "KD": [
+            "0",
+            "3"
+          ],
+          "Sig. str.": [
+            "90 of 159",
+            "174 of 283"
+          ],
+          "Sig. str. %": [
+            "56%",
+            "61%"
+          ],
+          "Total str.": [
+            "111 of 184",
+            "243 of 359"
+          ],
+          "Td": [
+            "3 of 29",
+            "0 of 0"
+          ],
+          "Td %": [
+            "10%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "10:40",
+            "2:40"
+          ]
+        }
+      ],
+      "fighters": [
+        "Anthony Hernandez",
+        "Gregory Rodrigues"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 19 - 52% 25 of 33 - 75% RD2 19 of 39 - 48% 52 of 83 - 62% RD3 12 of 20 - 60% 12 of 23 - 52% RD4 25 of 50 - 50% 58 of 95 - 61% RD5 24 of 31 - 77% 27 of 49 - 55% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues L Anthony Hernandez \"Fluffy\" W Gregory Rodrigues \"Robocop\" Middleweight Bout Method: Decision - Unanimous Round: 5 Time: 5:00 Time format: 5 Rnd (5-5-5-5-5) Referee: Herb Dean Details: Derek Cleary 47 - 48. Chris Leben 46 - 49. Ron McCarthy 47 - 48. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Anthony Hernandez Gregory Rodrigues 0 3 90 of 159 174 of 283 56% 61% 111 of 184 243 of 359 3 of 29 0 of 0 10% --- 0 0 0 0 10:40 2:40 Per round Fighter KD Sig. str. Sig. str. % Total"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a57ccf31c5f6f82b",
+    "fighter_names": [
+      "Serghei Spivac",
+      "Vitor Petrino"
+    ],
+    "fighter_ids": [
+      "e2f6b2769aaedd6c",
+      "71171fc96445bf65"
+    ],
+    "winner": "Vitor Petrino",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Serghei Spivac",
+            "Vitor Petrino"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "23 of 67",
+            "64 of 99"
+          ],
+          "Sig. str. %": [
+            "34%",
+            "64%"
+          ],
+          "Total str.": [
+            "33 of 77",
+            "126 of 177"
+          ],
+          "Td": [
+            "0 of 2",
+            "4 of 6"
+          ],
+          "Td %": [
+            "0%",
+            "66%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:22",
+            "6:07"
+          ]
+        }
+      ],
+      "fighters": [
+        "Serghei Spivac",
+        "Vitor Petrino"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 29 - 24% 23 of 41 - 56% RD2 3 of 5 - 60% 19 of 24 - 79% RD3 13 of 33 - 39% 22 of 34 - 64% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues L Serghei Spivac \"Polar Bear\" W Vitor Petrino Heavyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Derek Cleary 27 - 30. Ron McCarthy 27 - 30. Chris Crail 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Serghei Spivac Vitor Petrino 0 0 23 of 67 64 of 99 34% 64% 33 of 77 126 of 177 0 of 2 4 of 6 0% 66% 0 0 1 0 0:22 6:07 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. "
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/0eba299c9b6760fa",
+    "fighter_names": [
+      "Reinier de Ridder",
+      "Roman Dolidze"
+    ],
+    "fighter_ids": [
+      "d549cefc7c54ab78",
+      "327d5f279895110d"
+    ],
+    "winner": "Reinier de Ridder",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:01",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Reinier de Ridder",
+            "Roman Dolidze"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "71 of 83",
+            "1 of 4"
+          ],
+          "Sig. str. %": [
+            "85%",
+            "25%"
+          ],
+          "Total str.": [
+            "106 of 119",
+            "4 of 8"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "3:41",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Reinier de Ridder",
+        "Roman Dolidze"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 71 of 83 - 85% 1 of 4 - 25% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Reinier de Ridder \"RdR\" L Roman Dolidze Light Heavyweight Bout Method: KO/TKO Round: 1 Time: 4:01 Time format: 3 Rnd (5-5-5) Referee: Frank Trigg Details: Punches to Head From Back Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Reinier de Ridder Roman Dolidze 0 0 71 of 83 1 of 4 85% 25% 106 of 119 4 of 8 0 of 0 0 of 0 --- --- 0 0 0 0 3:41 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Reinier de Ridder Roman Dolidze"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/bf70d01518c80fba",
+    "fighter_names": [
+      "MarQuel Mederos",
+      "Mason Jones"
+    ],
+    "fighter_ids": [
+      "e2be0c1a9b886d92",
+      "f6ad6a1e4d600e0d"
+    ],
+    "winner": "MarQuel Mederos",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "2:07",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "MarQuel Mederos",
+            "Mason Jones"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "73 of 106",
+            "77 of 151"
+          ],
+          "Sig. str. %": [
+            "68%",
+            "50%"
+          ],
+          "Total str.": [
+            "82 of 115",
+            "84 of 158"
+          ],
+          "Td": [
+            "0 of 4",
+            "1 of 1"
+          ],
+          "Td %": [
+            "0%",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:54",
+            "0:30"
+          ]
+        }
+      ],
+      "fighters": [
+        "MarQuel Mederos",
+        "Mason Jones"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 41 of 58 - 70% 48 of 97 - 49% RD2 32 of 48 - 66% 29 of 54 - 53% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W MarQuel Mederos L Mason Jones \"The Dragon\" Lightweight Bout Method: KO/TKO Round: 2 Time: 2:07 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl MarQuel Mederos Mason Jones 1 0 73 of 106 77 of 151 68% 50% 82 of 115 84 of 158 0 of 4 1 of 1 0% 100% 0 0 1 0 0:54 0:30 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 MarQuel Mederos Mason Jones 0 0 41 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a4b3becc0cc394d7",
+    "fighter_names": [
+      "Carli Judice",
+      "Jeisla Chaves"
+    ],
+    "fighter_ids": [
+      "f1ab6f37492c630a",
+      "8061a3136026a673"
+    ],
+    "winner": "Carli Judice",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:39",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Carli Judice",
+            "Jeisla Chaves"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "16 of 35",
+            "10 of 28"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "35%"
+          ],
+          "Total str.": [
+            "16 of 35",
+            "10 of 28"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:02",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Carli Judice",
+        "Jeisla Chaves"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 16 of 35 - 45% 10 of 28 - 35% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Carli Judice \"Crispy\" L Jeisla Chaves \"A Braba\" Women's Flyweight Bout Method: KO/TKO Round: 1 Time: 1:39 Time format: 3 Rnd (5-5-5) Referee: David Shurley Details: Kick to Body At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Carli Judice Jeisla Chaves 1 0 16 of 35 10 of 28 45% 35% 16 of 35 10 of 28 0 of 0 0 of 0 --- --- 0 0 0 0 0:02 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Carli Judice Jeisla Chaves 1 0 16"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a6873fd459587d17",
+    "fighter_names": [
+      "Anthony Wint",
+      "Terrance Chatman"
+    ],
+    "fighter_ids": [
+      "b34976c022b24568",
+      "23a81656507b56a3"
+    ],
+    "winner": "Anthony Wint",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "4:29",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Anthony Wint",
+            "Terrance Chatman"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "5 of 9",
+            "1 of 4"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "25%"
+          ],
+          "Total str.": [
+            "46 of 50",
+            "2 of 5"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "33%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:42",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Anthony Wint",
+        "Terrance Chatman"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 5 of 9 - 55% 1 of 4 - 25% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Anthony Wint \"Bow Down\" L Terrance Chatman \"The Answer\" Heavyweight Bout Method: Submission Round: 1 Time: 4:29 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Arm Triangle From Side Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Anthony Wint Terrance Chatman 0 0 5 of 9 1 of 4 55% 25% 46 of 50 2 of 5 1 of 3 0 of 0 33% --- 1 1 0 0 2:42 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Anthony Wint Terrance Chatma"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/2bbacf9ed3c64184",
+    "fighter_names": [
+      "Jamall Emmers",
+      "Lerryan Douglas"
+    ],
+    "fighter_ids": [
+      "e00a3dee329a51f7",
+      "640a0f838f057a81"
+    ],
+    "winner": "Jamall Emmers",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:38",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jamall Emmers",
+            "Lerryan Douglas"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "17 of 29",
+            "14 of 27"
+          ],
+          "Sig. str. %": [
+            "58%",
+            "51%"
+          ],
+          "Total str.": [
+            "17 of 29",
+            "14 of 27"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:02",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jamall Emmers",
+        "Lerryan Douglas"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 17 of 29 - 58% 14 of 27 - 51% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Jamall Emmers \"Pretty Boy\" L Lerryan Douglas \"Gunslinger\" Featherweight Bout Method: KO/TKO Round: 1 Time: 3:38 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jamall Emmers Lerryan Douglas 1 0 17 of 29 14 of 27 58% 51% 17 of 29 14 of 27 0 of 0 0 of 0 --- --- 0 0 0 0 0:02 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jamall Emmers Lerryan Do"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/5d2c1c4dd444772f",
+    "fighter_names": [
+      "Kennedy Nzechukwu",
+      "Shamil Gaziev"
+    ],
+    "fighter_ids": [
+      "8667caa0451d245b",
+      "6747ccd6d1acd266"
+    ],
+    "winner": "Shamil Gaziev",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:20",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Kennedy Nzechukwu",
+            "Shamil Gaziev"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "3 of 7",
+            "2 of 5"
+          ],
+          "Sig. str. %": [
+            "42%",
+            "40%"
+          ],
+          "Total str.": [
+            "3 of 7",
+            "2 of 5"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Kennedy Nzechukwu",
+        "Shamil Gaziev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 7 - 42% 2 of 5 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues L Kennedy Nzechukwu \"Chosen\" W Shamil Gaziev Heavyweight Bout Method: KO/TKO Round: 1 Time: 1:20 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Kennedy Nzechukwu Shamil Gaziev 0 1 3 of 7 2 of 5 42% 40% 3 of 7 2 of 5 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Kennedy Nzechukwu Shamil Gaziev 0 1 3 of 7 2 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/bbd05484f8c8d739",
+    "fighter_names": [
+      "Chris Padilla",
+      "Nasrat Haqparast"
+    ],
+    "fighter_ids": [
+      "06626b6287e1ae1e",
+      "b7b84ccd221be298"
+    ],
+    "winner": "Chris Padilla",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "4:59",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Chris Padilla",
+            "Nasrat Haqparast"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "125 of 227",
+            "71 of 168"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "42%"
+          ],
+          "Total str.": [
+            "125 of 227",
+            "73 of 170"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 2"
+          ],
+          "Td %": [
+            "33%",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:45",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Chris Padilla",
+        "Nasrat Haqparast"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 27 of 43 - 62% 13 of 36 - 36% RD2 46 of 83 - 55% 29 of 64 - 45% RD3 52 of 101 - 51% 29 of 68 - 42% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Chris Padilla \"Taco\" L Nasrat Haqparast Lightweight Bout Method: Submission Round: 3 Time: 4:59 Time format: 3 Rnd (5-5-5) Referee: Frank Trigg Details: Arm Triangle Standing Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Chris Padilla Nasrat Haqparast 1 0 125 of 227 71 of 168 55% 42% 125 of 227 73 of 170 1 of 3 0 of 2 33% 0% 1 0 0 0 0:45 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Chris Padilla Nasrat Haqparast 0 0 27 o"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/7e86f774f19e5e59",
+    "fighter_names": [
+      "Marcio Barbosa",
+      "Ryan Kuse"
+    ],
+    "fighter_ids": [
+      "c85bad793cd14e28",
+      "d958ed9e5a08c849"
+    ],
+    "winner": "Marcio Barbosa",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:47",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Marcio Barbosa",
+            "Ryan Kuse"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "11 of 25",
+            "5 of 21"
+          ],
+          "Sig. str. %": [
+            "44%",
+            "23%"
+          ],
+          "Total str.": [
+            "11 of 25",
+            "5 of 21"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 5"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:12",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Marcio Barbosa",
+        "Ryan Kuse"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 25 - 44% 5 of 21 - 23% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Marcio Barbosa \"Ticoto\" L Ryan Kuse \"3rd Street Savage\" Featherweight Bout Method: KO/TKO Round: 1 Time: 2:47 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Marcio Barbosa Ryan Kuse 1 0 11 of 25 5 of 21 44% 23% 11 of 25 5 of 21 0 of 0 0 of 5 --- 0% 0 0 0 0 0:12 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Marcio Barbosa Ryan Kuse 1 0 11 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/116dc88b63113f61",
+    "fighter_names": [
+      "Gauge Young",
+      "Stan Dorsainvil"
+    ],
+    "fighter_ids": [
+      "b2a78df161bd67f9",
+      "5be51426ff3c1929"
+    ],
+    "winner": "Stan Dorsainvil",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Gauge Young",
+            "Stan Dorsainvil"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "137 of 253",
+            "123 of 298"
+          ],
+          "Sig. str. %": [
+            "54%",
+            "41%"
+          ],
+          "Total str.": [
+            "153 of 270",
+            "133 of 309"
+          ],
+          "Td": [
+            "3 of 9",
+            "2 of 7"
+          ],
+          "Td %": [
+            "33%",
+            "28%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:39",
+            "1:29"
+          ]
+        }
+      ],
+      "fighters": [
+        "Gauge Young",
+        "Stan Dorsainvil"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 48 of 91 - 52% 23 of 81 - 28% RD2 48 of 92 - 52% 50 of 116 - 43% RD3 41 of 70 - 58% 50 of 101 - 49% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues L Gauge Young \"Gee Money\" W Stan Dorsainvil \"The Drill\" Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Daniel Mobley 28 - 29. Ron McCarthy 28 - 29. Brian Tyler 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Gauge Young Stan Dorsainvil 0 0 137 of 253 123 of 298 54% 41% 153 of 270 133 of 309 3 of 9 2 of 7 33% 28% 0 0 0 0 2:39 1:29 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/11e4a448ce1ae5e3",
+    "fighter_names": [
+      "Wes Schultz",
+      "Jackson McVey"
+    ],
+    "fighter_ids": [
+      "b4443fae47e7eb9d",
+      "3eeec2f53cebdf12"
+    ],
+    "winner": "Jackson McVey",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:13",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Wes Schultz",
+            "Jackson McVey"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "24 of 43",
+            "38 of 78"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "48%"
+          ],
+          "Total str.": [
+            "28 of 48",
+            "40 of 80"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:05",
+            "0:14"
+          ]
+        }
+      ],
+      "fighters": [
+        "Wes Schultz",
+        "Jackson McVey"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 24 of 43 - 55% 38 of 78 - 48% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues L Wes Schultz \"Party Time\" W Jackson McVey \"The Moose\" Middleweight Bout Method: KO/TKO Round: 1 Time: 4:13 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Knee to Body At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Wes Schultz Jackson McVey 0 1 24 of 43 38 of 78 55% 48% 28 of 48 40 of 80 1 of 1 0 of 0 100% --- 1 0 0 0 1:05 0:14 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Wes Schultz Jackson McVey 0 1 24 o"
+  },
+  {
+    "event_name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "event_url": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "event_date": "August 22, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/97fb716bc7b8751a",
+    "fighter_names": [
+      "Shanelle Dyer",
+      "Elise Reed"
+    ],
+    "fighter_ids": [
+      "cfbb3edab781dfd2",
+      "ac7c765882f2c68c"
+    ],
+    "winner": "Shanelle Dyer",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "1:42",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Shanelle Dyer",
+            "Elise Reed"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "136 of 217",
+            "49 of 104"
+          ],
+          "Sig. str. %": [
+            "62%",
+            "47%"
+          ],
+          "Total str.": [
+            "139 of 220",
+            "59 of 115"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:24",
+            "0:18"
+          ]
+        }
+      ],
+      "fighters": [
+        "Shanelle Dyer",
+        "Elise Reed"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 37 of 63 - 58% 19 of 40 - 47% RD2 66 of 98 - 67% 20 of 43 - 46% RD3 33 of 56 - 58% 10 of 21 - 47% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Shanelle Dyer \"The Nightmare\" L Elise Reed Women's Strawweight Bout Method: KO/TKO Round: 3 Time: 1:42 Time format: 3 Rnd (5-5-5) Referee: David Shurley Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Shanelle Dyer Elise Reed 0 0 136 of 217 49 of 104 62% 47% 139 of 220 59 of 115 1 of 1 0 of 0 100% --- 0 0 0 0 1:24 0:18 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Shanelle Dyer Elise Reed 0 0"
   }
 ]
