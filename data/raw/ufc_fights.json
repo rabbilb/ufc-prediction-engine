@@ -635953,5 +635953,941 @@
     },
     "per_round_breakdown": "Per round RD1 37 of 63 - 58% 19 of 40 - 47% RD2 66 of 98 - 67% 20 of 43 - 46% RD3 33 of 56 - 58% 10 of 21 - 47% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hernandez vs. Rodrigues W Shanelle Dyer \"The Nightmare\" L Elise Reed Women's Strawweight Bout Method: KO/TKO Round: 3 Time: 1:42 Time format: 3 Rnd (5-5-5) Referee: David Shurley Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Shanelle Dyer Elise Reed 0 0 136 of 217 49 of 104 62% 47% 139 of 220 59 of 115 1 of 1 0 of 0 100% --- 0 0 0 0 1:24 0:18 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Shanelle Dyer Elise Reed 0 0"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/228fefc6923c40a5",
+    "fighter_names": [
+      "Umar Nurmagomedov",
+      "Song Yadong"
+    ],
+    "fighter_ids": [
+      "2b6fc1c02736833d",
+      "efb96bf3e9ada36f"
+    ],
+    "winner": "Song Yadong",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "1:48",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Umar Nurmagomedov",
+            "Song Yadong"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "13 of 21",
+            "11 of 23"
+          ],
+          "Sig. str. %": [
+            "61%",
+            "47%"
+          ],
+          "Total str.": [
+            "23 of 32",
+            "24 of 36"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "33%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:58",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Umar Nurmagomedov",
+        "Song Yadong"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 10 - 70% 5 of 10 - 50% RD2 6 of 11 - 54% 6 of 13 - 46% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Umar Nurmagomedov W Song Yadong \"Kung Fu Kid\" Bantamweight Bout Method: KO/TKO Round: 2 Time: 1:48 Time format: 5 Rnd (5-5-5-5-5) Referee: Marc Goddard Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Umar Nurmagomedov Song Yadong 0 1 13 of 21 11 of 23 61% 47% 23 of 32 24 of 36 1 of 3 0 of 0 33% --- 0 1 0 0 1:58 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Umar Nurmagomedov Song Yadong 0 0 7"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/73cb6c4e060c4ee9",
+    "fighter_names": [
+      "Yan Xiaonan",
+      "Denise Gomes"
+    ],
+    "fighter_ids": [
+      "c41d426cc7326d1b",
+      "cffb87059e645bd1"
+    ],
+    "winner": "Denise Gomes",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:49",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Yan Xiaonan",
+            "Denise Gomes"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "19 of 59",
+            "18 of 48"
+          ],
+          "Sig. str. %": [
+            "32%",
+            "37%"
+          ],
+          "Total str.": [
+            "19 of 59",
+            "20 of 50"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Yan Xiaonan",
+        "Denise Gomes"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 19 of 59 - 32% 18 of 48 - 37% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Yan Xiaonan W Denise Gomes \"Dee\" Women's Strawweight Bout Method: KO/TKO Round: 1 Time: 4:49 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Elbow to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Yan Xiaonan Denise Gomes 0 1 19 of 59 18 of 48 32% 37% 19 of 59 20 of 50 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Yan Xiaonan Denise Gomes 0 1 19 of 59 18 of 48 32% 37"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/4af8cb715ac0d459",
+    "fighter_names": [
+      "Aoriqileng",
+      "Kai Asakura"
+    ],
+    "fighter_ids": [
+      "7d420039bbfe7c1a",
+      "d33da8a3d82bdb62"
+    ],
+    "winner": "Kai Asakura",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "0:34",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Aoriqileng",
+            "Kai Asakura"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "14 of 28",
+            "27 of 50"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "54%"
+          ],
+          "Total str.": [
+            "18 of 32",
+            "29 of 52"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 1"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:39"
+          ]
+        }
+      ],
+      "fighters": [
+        "Aoriqileng",
+        "Kai Asakura"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 13 of 25 - 52% 15 of 34 - 44% RD2 1 of 3 - 33% 12 of 16 - 75% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Aoriqileng \"The Mongolian Murderer\" W Kai Asakura Bantamweight Bout Method: KO/TKO Round: 2 Time: 0:34 Time format: 3 Rnd (5-5-5) Referee: Vitor Ribeiro Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Aoriqileng Kai Asakura 0 1 14 of 28 27 of 50 50% 54% 18 of 32 29 of 52 0 of 0 0 of 1 --- 0% 0 0 0 0 0:00 0:39 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Aoriqileng Kai Asakura 0 0 13 of 25 15 o"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/48a5d9c4592d2f2a",
+    "fighter_names": [
+      "Alex Perez",
+      "Sumudaerji"
+    ],
+    "fighter_ids": [
+      "ab2b4ff41d6ebe0f",
+      "3cf18e01cb6cbde3"
+    ],
+    "winner": "Sumudaerji",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Alex Perez",
+            "Sumudaerji"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "10 of 43",
+            "41 of 80"
+          ],
+          "Sig. str. %": [
+            "23%",
+            "51%"
+          ],
+          "Total str.": [
+            "52 of 88",
+            "85 of 126"
+          ],
+          "Td": [
+            "4 of 8",
+            "0 of 2"
+          ],
+          "Td %": [
+            "50%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "7:20",
+            "0:14"
+          ]
+        }
+      ],
+      "fighters": [
+        "Alex Perez",
+        "Sumudaerji"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 21 - 14% 12 of 28 - 42% RD2 3 of 11 - 27% 11 of 20 - 55% RD3 4 of 11 - 36% 18 of 32 - 56% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Alex Perez W Sumudaerji \"The Tibetan Eagle\" Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Ben Cartlidge 28 - 29. Vito Paolillo 28 - 29. Clemens Werner 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Alex Perez Sumudaerji 0 0 10 of 43 41 of 80 23% 51% 52 of 88 85 of 126 4 of 8 0 of 2 50% 0% 0 0 0 0 7:20 0:14 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Ro"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f894989058f2bb05",
+    "fighter_names": [
+      "Liu Ce",
+      "Levi Rodrigues Jr."
+    ],
+    "fighter_ids": [
+      "a9936818d709e2d7",
+      "9ac4e43ed56429ed"
+    ],
+    "winner": "Liu Ce",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:26",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Liu Ce",
+            "Levi Rodrigues Jr."
+          ],
+          "KD": [
+            "2",
+            "0"
+          ],
+          "Sig. str.": [
+            "59 of 82",
+            "28 of 57"
+          ],
+          "Sig. str. %": [
+            "71%",
+            "49%"
+          ],
+          "Total str.": [
+            "60 of 83",
+            "28 of 57"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 2"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:04",
+            "0:44"
+          ]
+        }
+      ],
+      "fighters": [
+        "Liu Ce",
+        "Levi Rodrigues Jr."
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 59 of 82 - 71% 28 of 57 - 49% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song W Liu Ce \"The Oriental Dragon\" L Levi Rodrigues Jr. \"Baby Monster\" Light Heavyweight Bout Method: KO/TKO Round: 1 Time: 4:26 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Liu Ce Levi Rodrigues Jr. 2 0 59 of 82 28 of 57 71% 49% 60 of 83 28 of 57 0 of 0 0 of 2 --- 0% 0 0 0 0 0:04 0:44 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Liu Ce Levi Rodrigues J"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1fe768d599c159dc",
+    "fighter_names": [
+      "Bilal Hasan",
+      "Nilson Rojas"
+    ],
+    "fighter_ids": [
+      "5182316da3c1d891",
+      "bf60dd3256801649"
+    ],
+    "winner": "Bilal Hasan",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "2:28",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Bilal Hasan",
+            "Nilson Rojas"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "53 of 129",
+            "33 of 66"
+          ],
+          "Sig. str. %": [
+            "41%",
+            "50%"
+          ],
+          "Total str.": [
+            "56 of 137",
+            "37 of 70"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:03",
+            "0:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Bilal Hasan",
+        "Nilson Rojas"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 38 of 88 - 43% 17 of 38 - 44% RD2 15 of 41 - 36% 16 of 28 - 57% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song W Bilal Hasan \"The IndoNinja\" L Nilson Rojas \"El Rayo\" Flyweight Bout Method: KO/TKO Round: 2 Time: 2:28 Time format: 3 Rnd (5-5-5) Referee: Vitor Ribeiro Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Bilal Hasan Nilson Rojas 1 0 53 of 129 33 of 66 41% 50% 56 of 137 37 of 70 1 of 1 0 of 0 100% --- 0 0 0 0 1:03 0:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Bilal Hasan Nilson Rojas 0 0 38 of 8"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/80f7f5405d5ffca0",
+    "fighter_names": [
+      "Namsrai Batbayar",
+      "Andre Lima"
+    ],
+    "fighter_ids": [
+      "e1f8beeb6d2d871a",
+      "b1f21ce050035d58"
+    ],
+    "winner": "Andre Lima",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "3:03",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Namsrai Batbayar",
+            "Andre Lima"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "51 of 141",
+            "47 of 77"
+          ],
+          "Sig. str. %": [
+            "36%",
+            "61%"
+          ],
+          "Total str.": [
+            "51 of 141",
+            "47 of 77"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "0:08",
+            "0:13"
+          ]
+        }
+      ],
+      "fighters": [
+        "Namsrai Batbayar",
+        "Andre Lima"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 12 of 44 - 27% 14 of 20 - 70% RD2 31 of 77 - 40% 25 of 42 - 59% RD3 8 of 20 - 40% 8 of 15 - 53% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Namsrai Batbayar \"Steppe Warrior\" W Andre Lima \"Mascote\" Flyweight Bout Method: Submission Round: 3 Time: 3:03 Time format: 3 Rnd (5-5-5) Referee: Steve Perceval Details: Guillotine Choke After Drop to Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Namsrai Batbayar Andre Lima 0 0 51 of 141 47 of 77 36% 61% 51 of 141 47 of 77 0 of 1 0 of 0 0% --- 0 1 0 1 0:08 0:13 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Namsrai Batbaya"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ec5281a72f09d8ac",
+    "fighter_names": [
+      "Rei Tsuruya",
+      "Kevin Borjas"
+    ],
+    "fighter_ids": [
+      "2f43a3e82661fa99",
+      "34b96d52db1d26e6"
+    ],
+    "winner": "Rei Tsuruya",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "4:14",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rei Tsuruya",
+            "Kevin Borjas"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "39 of 67",
+            "0 of 0"
+          ],
+          "Sig. str. %": [
+            "58%",
+            "---"
+          ],
+          "Total str.": [
+            "71 of 101",
+            "1 of 3"
+          ],
+          "Td": [
+            "2 of 4",
+            "0 of 0"
+          ],
+          "Td %": [
+            "50%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "3:58",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rei Tsuruya",
+        "Kevin Borjas"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 39 of 67 - 58% 0 of 0 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song W Rei Tsuruya L Kevin Borjas \"El Gallo Negro\" Flyweight Bout Method: Submission Round: 1 Time: 4:14 Time format: 3 Rnd (5-5-5) Referee: Matt Wynne Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rei Tsuruya Kevin Borjas 0 0 39 of 67 0 of 0 58% --- 71 of 101 1 of 3 2 of 4 0 of 0 50% --- 1 0 0 0 3:58 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Rei Tsuruya Kevin Borjas 0 0 39 of 67 0 of 0 58% --- 71 of "
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/8a980234dab7ae43",
+    "fighter_names": [
+      "Jack Jenkins",
+      "Sean Woodson"
+    ],
+    "fighter_ids": [
+      "a9da3158dd2c2b5a",
+      "4682bc59d5f55145"
+    ],
+    "winner": "Sean Woodson",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jack Jenkins",
+            "Sean Woodson"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "43 of 95",
+            "58 of 129"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "44%"
+          ],
+          "Total str.": [
+            "72 of 130",
+            "130 of 204"
+          ],
+          "Td": [
+            "0 of 5",
+            "0 of 2"
+          ],
+          "Td %": [
+            "0%",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "4:47",
+            "1:11"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jack Jenkins",
+        "Sean Woodson"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 13 of 36 - 36% 25 of 60 - 41% RD2 7 of 10 - 70% 2 of 6 - 33% RD3 23 of 49 - 46% 31 of 63 - 49% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Jack Jenkins \"Phar\" W Sean Woodson \"The Sniper\" Featherweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Vito Paolillo 28 - 29. Clemens Werner 29 - 28. Cezary Wojciechowski 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jack Jenkins Sean Woodson 0 0 43 of 95 58 of 129 45% 44% 72 of 130 130 of 204 0 of 5 0 of 2 0% 0% 1 0 1 0 4:47 1:11 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub."
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/636867bbc9f96739",
+    "fighter_names": [
+      "Xiao Long",
+      "Francesco Nuzzi"
+    ],
+    "fighter_ids": [
+      "86bace9e4ad85542",
+      "874cfc98877daecd"
+    ],
+    "winner": "Francesco Nuzzi",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:00",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Xiao Long",
+            "Francesco Nuzzi"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "4 of 7",
+            "11 of 20"
+          ],
+          "Sig. str. %": [
+            "57%",
+            "55%"
+          ],
+          "Total str.": [
+            "4 of 7",
+            "12 of 21"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Xiao Long",
+        "Francesco Nuzzi"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 4 of 7 - 57% 11 of 20 - 55% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Xiao Long W Francesco Nuzzi \"Berserker\" Bantamweight Bout Method: KO/TKO Round: 1 Time: 1:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Xiao Long Francesco Nuzzi 0 1 4 of 7 11 of 20 57% 55% 4 of 7 12 of 21 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Xiao Long Francesco Nuzzi 0 1 4 of 7 11 of 20 57% 55% 4 "
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ab5922e10699e869",
+    "fighter_names": [
+      "Lawrence Lui",
+      "Hector Santiago"
+    ],
+    "fighter_ids": [
+      "a1ad35b98a9136e5",
+      "8e4902b4a8045070"
+    ],
+    "winner": "Hector Santiago",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "0:53",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Lawrence Lui",
+            "Hector Santiago"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "32 of 59",
+            "30 of 111"
+          ],
+          "Sig. str. %": [
+            "54%",
+            "27%"
+          ],
+          "Total str.": [
+            "32 of 59",
+            "32 of 113"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:01",
+            "0:07"
+          ]
+        }
+      ],
+      "fighters": [
+        "Lawrence Lui",
+        "Hector Santiago"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 47 - 53% 20 of 86 - 23% RD2 7 of 12 - 58% 10 of 25 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Lawrence Lui \"Lok Yin\" W Hector Santiago Bantamweight Bout Method: KO/TKO Round: 2 Time: 0:53 Time format: 3 Rnd (5-5-5) Referee: Vitor Ribeiro Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Lawrence Lui Hector Santiago 0 1 32 of 59 30 of 111 54% 27% 32 of 59 32 of 113 0 of 1 0 of 0 0% --- 0 0 0 0 0:01 0:07 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Lawrence Lui Hector Santiago 0 0 25 of 47 2"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/6206c62fc8f0b71b",
+    "fighter_names": [
+      "Xiong Jingnan",
+      "Julia Polastri"
+    ],
+    "fighter_ids": [
+      "2cdb479a0ef0ee1d",
+      "abb68e3c7ca128f2"
+    ],
+    "winner": "Julia Polastri",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:06",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Xiong Jingnan",
+            "Julia Polastri"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "16 of 42",
+            "16 of 25"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "64%"
+          ],
+          "Total str.": [
+            "16 of 44",
+            "16 of 25"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Xiong Jingnan",
+        "Julia Polastri"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 16 of 42 - 38% 16 of 25 - 64% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Xiong Jingnan \"The Panda\" W Julia Polastri \"Psycho\" Women's Strawweight Bout Method: KO/TKO Round: 1 Time: 3:06 Time format: 3 Rnd (5-5-5) Referee: Steve Perceval Details: Kick to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Xiong Jingnan Julia Polastri 0 1 16 of 42 16 of 25 38% 64% 16 of 44 16 of 25 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Xiong Jingnan Julia Polast"
+  },
+  {
+    "event_name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "event_url": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "event_date": "August 29, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/6cd4457edf4089f9",
+    "fighter_names": [
+      "Ding Meng",
+      "Cam Nelson"
+    ],
+    "fighter_ids": [
+      "e0664abaa023fd6f",
+      "34d4cae19105eb68"
+    ],
+    "winner": "Cam Nelson",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ding Meng",
+            "Cam Nelson"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "39 of 79",
+            "41 of 70"
+          ],
+          "Sig. str. %": [
+            "49%",
+            "58%"
+          ],
+          "Total str.": [
+            "72 of 116",
+            "47 of 80"
+          ],
+          "Td": [
+            "0 of 1",
+            "4 of 11"
+          ],
+          "Td %": [
+            "0%",
+            "36%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:10",
+            "6:34"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ding Meng",
+        "Cam Nelson"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 13 of 30 - 43% 18 of 26 - 69% RD2 12 of 27 - 44% 20 of 39 - 51% RD3 14 of 22 - 63% 3 of 5 - 60% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Ding Meng W Cam Nelson Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Matt Wynne Details: Paul Barton 28 - 29. Ben Cartlidge 28 - 29. Clemens Werner 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ding Meng Cam Nelson 0 0 39 of 79 41 of 70 49% 58% 72 of 116 47 of 80 0 of 1 4 of 11 0% 36% 0 0 0 0 1:10 6:34 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Ding Meng Cam Ne"
   }
 ]
