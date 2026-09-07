@@ -636889,5 +636889,1013 @@
     },
     "per_round_breakdown": "Per round RD1 13 of 30 - 43% 18 of 26 - 69% RD2 12 of 27 - 44% 20 of 39 - 51% RD3 14 of 22 - 63% 3 of 5 - 60% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Nurmagomedov vs. Song L Ding Meng W Cam Nelson Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Matt Wynne Details: Paul Barton 28 - 29. Ben Cartlidge 28 - 29. Clemens Werner 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ding Meng Cam Nelson 0 0 39 of 79 41 of 70 49% 58% 72 of 116 47 of 80 0 of 1 4 of 11 0% 36% 0 0 0 0 1:10 6:34 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Ding Meng Cam Ne"
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/bba8c0ab999b9e6f",
+    "fighter_names": [
+      "Dan Hooker",
+      "Salahdine Parnasse"
+    ],
+    "fighter_ids": [
+      "193b9d1858bc4df3",
+      "b3cb9dfccff3be76"
+    ],
+    "winner": "Salahdine Parnasse",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:35",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Dan Hooker",
+            "Salahdine Parnasse"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "14 of 31",
+            "12 of 17"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "70%"
+          ],
+          "Total str.": [
+            "14 of 31",
+            "12 of 17"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Dan Hooker",
+        "Salahdine Parnasse"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 14 of 31 - 45% 12 of 17 - 70% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse L Dan Hooker \"The Hangman\" W Salahdine Parnasse \"Lion of Atlas\" Lightweight Bout Method: KO/TKO Round: 1 Time: 2:35 Time format: 5 Rnd (5-5-5-5-5) Referee: Marc Goddard Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Dan Hooker Salahdine Parnasse 0 1 14 of 31 12 of 17 45% 70% 14 of 31 12 of 17 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Dan Hooker Salahdine P"
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/55f698e5c4ed2c47",
+    "fighter_names": [
+      "Fares Ziam",
+      "Axel Sola"
+    ],
+    "fighter_ids": [
+      "1e4f273069fb9e85",
+      "1d2d98ddd05b38fb"
+    ],
+    "winner": "Axel Sola",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:40",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Fares Ziam",
+            "Axel Sola"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "7 of 13",
+            "9 of 13"
+          ],
+          "Sig. str. %": [
+            "53%",
+            "69%"
+          ],
+          "Total str.": [
+            "7 of 13",
+            "9 of 13"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Fares Ziam",
+        "Axel Sola"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 13 - 53% 9 of 13 - 69% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse L Fares Ziam \"The Smile Killer\" W Axel Sola Lightweight Bout Method: KO/TKO Round: 1 Time: 1:40 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Fares Ziam Axel Sola 0 1 7 of 13 9 of 13 53% 69% 7 of 13 9 of 13 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Fares Ziam Axel Sola 0 1 7 of 13 9 of 13 53% 69% 7 of 13 9 of "
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/c23197c7e4f2fd9d",
+    "fighter_names": [
+      "Michael Page",
+      "Nursulton Ruziboev"
+    ],
+    "fighter_ids": [
+      "a67d071163962af8",
+      "49d2a08964c5eb11"
+    ],
+    "winner": "Michael Page",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Michael Page",
+            "Nursulton Ruziboev"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "12 of 28",
+            "8 of 29"
+          ],
+          "Sig. str. %": [
+            "42%",
+            "27%"
+          ],
+          "Total str.": [
+            "49 of 66",
+            "21 of 42"
+          ],
+          "Td": [
+            "0 of 2",
+            "2 of 3"
+          ],
+          "Td %": [
+            "0%",
+            "66%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:06",
+            "5:28"
+          ]
+        }
+      ],
+      "fighters": [
+        "Michael Page",
+        "Nursulton Ruziboev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 4 of 5 - 80% 4 of 6 - 66% RD2 5 of 13 - 38% 2 of 14 - 14% RD3 3 of 10 - 30% 2 of 9 - 22% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Michael Page \"Venom\" L Nursulton Ruziboev \"Black\" Middleweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Ben Cartlidge 28 - 29. Anders Ohlsson 28 - 29. Clemens Werner 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Michael Page Nursulton Ruziboev 0 0 12 of 28 8 of 29 42% 27% 49 of 66 21 of 42 0 of 2 2 of 3 0% 66% 1 0 0 0 1:06 5:28 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. "
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/8300a095a4908ab1",
+    "fighter_names": [
+      "Daniil Donchenko",
+      "Punahele Soriano"
+    ],
+    "fighter_ids": [
+      "70dd69b6a703257e",
+      "64facb6cc564262d"
+    ],
+    "winner": "Daniil Donchenko",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Daniil Donchenko",
+            "Punahele Soriano"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "83 of 137",
+            "15 of 84"
+          ],
+          "Sig. str. %": [
+            "60%",
+            "17%"
+          ],
+          "Total str.": [
+            "120 of 180",
+            "43 of 115"
+          ],
+          "Td": [
+            "0 of 1",
+            "4 of 11"
+          ],
+          "Td %": [
+            "0%",
+            "36%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:41",
+            "3:32"
+          ]
+        }
+      ],
+      "fighters": [
+        "Daniil Donchenko",
+        "Punahele Soriano"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 37 of 53 - 69% 5 of 22 - 22% RD2 33 of 52 - 63% 6 of 47 - 12% RD3 13 of 32 - 40% 4 of 15 - 26% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Daniil Donchenko L Punahele Soriano \"Puna\" Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Ben Cartlidge 27 - 30. David Lethaby 27 - 30. Eric Colon 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Daniil Donchenko Punahele Soriano 1 0 83 of 137 15 of 84 60% 17% 120 of 180 43 of 115 0 of 1 4 of 11 0% 36% 0 1 0 0 0:41 3:32 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att "
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/cbf9063d23513661",
+    "fighter_names": [
+      "Kurtis Campbell",
+      "Trevor Peek"
+    ],
+    "fighter_ids": [
+      "9d51798e61f2e0c7",
+      "0bc697c5936a2d0a"
+    ],
+    "winner": "Kurtis Campbell",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "3:07",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Kurtis Campbell",
+            "Trevor Peek"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "44 of 61",
+            "12 of 35"
+          ],
+          "Sig. str. %": [
+            "72%",
+            "34%"
+          ],
+          "Total str.": [
+            "79 of 108",
+            "17 of 40"
+          ],
+          "Td": [
+            "13 of 24",
+            "0 of 0"
+          ],
+          "Td %": [
+            "54%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "10:20",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Kurtis Campbell",
+        "Trevor Peek"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 34 of 47 - 72% 6 of 18 - 33% RD2 4 of 4 - 100% 2 of 5 - 40% RD3 6 of 10 - 60% 4 of 12 - 33% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Kurtis Campbell \"The Pink Panther\" L Trevor Peek Featherweight Bout Method: Submission Round: 3 Time: 3:07 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Kurtis Campbell Trevor Peek 0 0 44 of 61 12 of 35 72% 34% 79 of 108 17 of 40 13 of 24 0 of 0 54% --- 1 0 0 0 10:20 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Kurtis Campbell Trevor Peek 0 0 34 of 47 6 "
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/b90b099c1f47bb93",
+    "fighter_names": [
+      "Losene Keita",
+      "Muhammad Naimov"
+    ],
+    "fighter_ids": [
+      "5b43d68174b6e2ab",
+      "8d11d9c13e2ccdf7"
+    ],
+    "winner": "Losene Keita",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:54",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Losene Keita",
+            "Muhammad Naimov"
+          ],
+          "KD": [
+            "2",
+            "0"
+          ],
+          "Sig. str.": [
+            "18 of 30",
+            "4 of 24"
+          ],
+          "Sig. str. %": [
+            "60%",
+            "16%"
+          ],
+          "Total str.": [
+            "19 of 31",
+            "4 of 24"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:20",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Losene Keita",
+        "Muhammad Naimov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 18 of 30 - 60% 4 of 24 - 16% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Losene Keita \"Black Panther\" L Muhammad Naimov \"Hillman\" Featherweight Bout Method: KO/TKO Round: 1 Time: 2:54 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Losene Keita Muhammad Naimov 2 0 18 of 30 4 of 24 60% 16% 19 of 31 4 of 24 0 of 0 0 of 0 --- --- 0 0 0 0 0:20 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Losene Keita Muhammad Naimov 2 0"
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ad17c34e0cc7d702",
+    "fighter_names": [
+      "Morgan Charriere",
+      "Felipe Lima"
+    ],
+    "fighter_ids": [
+      "5b03b61f9d90125e",
+      "9256f591b30c073e"
+    ],
+    "winner": "Felipe Lima",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Morgan Charriere",
+            "Felipe Lima"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "36 of 146",
+            "112 of 218"
+          ],
+          "Sig. str. %": [
+            "24%",
+            "51%"
+          ],
+          "Total str.": [
+            "38 of 148",
+            "115 of 221"
+          ],
+          "Td": [
+            "0 of 3",
+            "2 of 2"
+          ],
+          "Td %": [
+            "0%",
+            "100%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:31",
+            "0:13"
+          ]
+        }
+      ],
+      "fighters": [
+        "Morgan Charriere",
+        "Felipe Lima"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 17 of 67 - 25% 27 of 66 - 40% RD2 11 of 54 - 20% 48 of 79 - 60% RD3 8 of 25 - 32% 37 of 73 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse L Morgan Charriere \"The Last Pirate\" W Felipe Lima \"Jungle Boy\" Featherweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Ben Cartlidge 27 - 30. Clemens Werner 27 - 30. Anders Ohlsson 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Morgan Charriere Felipe Lima 0 0 36 of 146 112 of 218 24% 51% 38 of 148 115 of 221 0 of 3 2 of 2 0% 100% 1 0 0 0 0:31 0:13 Per round Fighter KD Sig. str. Sig. str. % Total str. "
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/b1c6ea7d7d413bd5",
+    "fighter_names": [
+      "Mario Pinto",
+      "Ryan Spann"
+    ],
+    "fighter_ids": [
+      "39d309957c5c210d",
+      "a67f5afa8d6a1b80"
+    ],
+    "winner": "Mario Pinto",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "0:55",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mario Pinto",
+            "Ryan Spann"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "48 of 67",
+            "13 of 34"
+          ],
+          "Sig. str. %": [
+            "71%",
+            "38%"
+          ],
+          "Total str.": [
+            "114 of 137",
+            "16 of 37"
+          ],
+          "Td": [
+            "6 of 7",
+            "0 of 1"
+          ],
+          "Td %": [
+            "85%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "3:33",
+            "0:20"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mario Pinto",
+        "Ryan Spann"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 36 of 54 - 66% 13 of 33 - 39% RD2 12 of 13 - 92% 0 of 1 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Mario Pinto L Ryan Spann \"Superman\" Heavyweight Bout Method: KO/TKO Round: 2 Time: 0:55 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mario Pinto Ryan Spann 0 0 48 of 67 13 of 34 71% 38% 114 of 137 16 of 37 6 of 7 0 of 1 85% 0% 0 1 0 0 3:33 0:20 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Mario Pinto Ryan Spann 0 0 36 of 54 13 of 33 66% 39% 78 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/94d411112ebe8fad",
+    "fighter_names": [
+      "Oumar Sy",
+      "Modestas Bukauskas"
+    ],
+    "fighter_ids": [
+      "46e2011d92463b7e",
+      "476fe566d2df676e"
+    ],
+    "winner": "Modestas Bukauskas",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "3:57",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Oumar Sy",
+            "Modestas Bukauskas"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "39 of 59",
+            "22 of 46"
+          ],
+          "Sig. str. %": [
+            "66%",
+            "47%"
+          ],
+          "Total str.": [
+            "48 of 71",
+            "29 of 56"
+          ],
+          "Td": [
+            "3 of 8",
+            "0 of 0"
+          ],
+          "Td %": [
+            "37%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "5:08",
+            "1:35"
+          ]
+        }
+      ],
+      "fighters": [
+        "Oumar Sy",
+        "Modestas Bukauskas"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 34 of 53 - 64% 2 of 17 - 11% RD2 5 of 6 - 83% 20 of 29 - 68% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse L Oumar Sy W Modestas Bukauskas \"The Baltic Gladiator\" Light Heavyweight Bout Method: KO/TKO Round: 2 Time: 3:57 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Knee to Head In Clinch Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Oumar Sy Modestas Bukauskas 0 1 39 of 59 22 of 46 66% 47% 48 of 71 29 of 56 3 of 8 0 of 0 37% --- 1 0 0 0 5:08 1:35 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Oumar Sy Modestas Bukauskas 0 0 34"
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ac3af13ffe39b1d8",
+    "fighter_names": [
+      "Nathaniel Wood",
+      "Pavel Andrusca"
+    ],
+    "fighter_ids": [
+      "329e403448756217",
+      "93f9c19ae41d2a97"
+    ],
+    "winner": "Pavel Andrusca",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Nathaniel Wood",
+            "Pavel Andrusca"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "28 of 86",
+            "50 of 105"
+          ],
+          "Sig. str. %": [
+            "32%",
+            "47%"
+          ],
+          "Total str.": [
+            "57 of 118",
+            "69 of 131"
+          ],
+          "Td": [
+            "0 of 0",
+            "4 of 19"
+          ],
+          "Td %": [
+            "---",
+            "21%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:09",
+            "6:06"
+          ]
+        }
+      ],
+      "fighters": [
+        "Nathaniel Wood",
+        "Pavel Andrusca"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 8 of 32 - 25% 14 of 34 - 41% RD2 15 of 43 - 34% 17 of 37 - 45% RD3 5 of 11 - 45% 19 of 34 - 55% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse L Nathaniel Wood \"The Last Kingsman\" W Pavel Andrusca Featherweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Ludovic Dandine 27 - 30. Clemens Werner 27 - 30. Ben Cartlidge 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Nathaniel Wood Pavel Andrusca 1 0 28 of 86 50 of 105 32% 47% 57 of 118 69 of 131 0 of 0 4 of 19 --- 21% 0 1 0 0 0:09 6:06 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % "
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1f973e21581b082a",
+    "fighter_names": [
+      "Michael Aljarouj",
+      "Fabia Sintes"
+    ],
+    "fighter_ids": [
+      "22e3458965d5d08a",
+      "9911989cf48b195d"
+    ],
+    "winner": "Fabia Sintes",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Michael Aljarouj",
+            "Fabia Sintes"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "10 of 32",
+            "28 of 49"
+          ],
+          "Sig. str. %": [
+            "31%",
+            "57%"
+          ],
+          "Total str.": [
+            "70 of 99",
+            "61 of 88"
+          ],
+          "Td": [
+            "0 of 3",
+            "3 of 8"
+          ],
+          "Td %": [
+            "0%",
+            "37%"
+          ],
+          "Sub. att": [
+            "1",
+            "3"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "4:24",
+            "6:19"
+          ]
+        }
+      ],
+      "fighters": [
+        "Michael Aljarouj",
+        "Fabia Sintes"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 15 - 20% 6 of 15 - 40% RD2 2 of 11 - 18% 19 of 27 - 70% RD3 5 of 6 - 83% 3 of 7 - 42% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse L Michael Aljarouj \"The Soldier\" W Fabia Sintes \"El Potro Menorquin\" Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Karim Shimi 28 - 29. Eric Colon 28 - 29. Anders Ohlsson 27 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Michael Aljarouj Fabia Sintes 0 0 10 of 32 28 of 49 31% 57% 70 of 99 61 of 88 0 of 3 3 of 8 0% 37% 1 3 1 0 4:24 6:19 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td "
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/809ebb0cfdd01ce2",
+    "fighter_names": [
+      "Nora Cornolle",
+      "Klaudia Sygula"
+    ],
+    "fighter_ids": [
+      "f2b3f4ef3f780168",
+      "9f5e3c20ce40b344"
+    ],
+    "winner": "Nora Cornolle",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Nora Cornolle",
+            "Klaudia Sygula"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "34 of 63",
+            "23 of 64"
+          ],
+          "Sig. str. %": [
+            "53%",
+            "35%"
+          ],
+          "Total str.": [
+            "60 of 93",
+            "103 of 151"
+          ],
+          "Td": [
+            "4 of 7",
+            "0 of 1"
+          ],
+          "Td %": [
+            "57%",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "8:59",
+            "3:15"
+          ]
+        }
+      ],
+      "fighters": [
+        "Nora Cornolle",
+        "Klaudia Sygula"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 14 of 25 - 56% 8 of 23 - 34% RD2 12 of 23 - 52% 5 of 15 - 33% RD3 8 of 15 - 53% 10 of 26 - 38% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Nora Cornolle L Klaudia Sygula Women's Bantamweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Christophe Chapuis Details: Damien Gluski 27 - 30. Ben Cartlidge 27 - 30. David Lethaby 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Nora Cornolle Klaudia Sygula 0 0 34 of 63 23 of 64 53% 35% 60 of 93 103 of 151 4 of 7 0 of 1 57% 0% 1 0 0 1 8:59 3:15 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev"
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e5fd7ef7ccf955b8",
+    "fighter_names": [
+      "Matthieu Duclos",
+      "Luis Felipe Dias"
+    ],
+    "fighter_ids": [
+      "ec322adbabbfa6e7",
+      "33a86e839ad202d8"
+    ],
+    "winner": "Matthieu Duclos",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:35",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Matthieu Duclos",
+            "Luis Felipe Dias"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "18 of 43",
+            "22 of 50"
+          ],
+          "Sig. str. %": [
+            "41%",
+            "44%"
+          ],
+          "Total str.": [
+            "20 of 47",
+            "23 of 51"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:05",
+            "0:33"
+          ]
+        }
+      ],
+      "fighters": [
+        "Matthieu Duclos",
+        "Luis Felipe Dias"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 18 of 43 - 41% 22 of 50 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Matthieu Duclos L Luis Felipe Dias Middleweight Bout Method: KO/TKO Round: 1 Time: 4:35 Time format: 3 Rnd (5-5-5) Referee: Mohamed Khamallah Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Matthieu Duclos Luis Felipe Dias 1 0 18 of 43 22 of 50 41% 44% 20 of 47 23 of 51 0 of 0 0 of 0 --- --- 0 0 0 0 0:05 0:33 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Matthieu Duclos Luis Felipe Dias 1 0 18 of 4"
+  },
+  {
+    "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+    "event_url": "http://ufcstats.com/event-details/2144954270be834d",
+    "event_date": "September 05, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/9226a13d001b49ec",
+    "fighter_names": [
+      "Delphine Benouaich",
+      "Sofia Montenegro"
+    ],
+    "fighter_ids": [
+      "3138df4d117ebc12",
+      "8b1b051038354655"
+    ],
+    "winner": "Delphine Benouaich",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "2",
+    "time": "4:22",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Delphine Benouaich",
+            "Sofia Montenegro"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "146 of 249",
+            "72 of 197"
+          ],
+          "Sig. str. %": [
+            "58%",
+            "36%"
+          ],
+          "Total str.": [
+            "154 of 262",
+            "72 of 199"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:41",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Delphine Benouaich",
+        "Sofia Montenegro"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 74 of 140 - 52% 47 of 131 - 35% RD2 72 of 109 - 66% 25 of 66 - 37% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Delphine Benouaich L Sofia Montenegro \"La Bruja\" Women's Strawweight Bout Method: Submission Round: 2 Time: 4:22 Time format: 3 Rnd (5-5-5) Referee: Mourad Benseghir Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Delphine Benouaich Sofia Montenegro 1 0 146 of 249 72 of 197 58% 36% 154 of 262 72 of 199 0 of 0 0 of 0 --- --- 1 0 0 0 1:41 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Delphine Benouaich S"
   }
 ]
