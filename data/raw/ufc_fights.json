@@ -637897,5 +637897,941 @@
     },
     "per_round_breakdown": "Per round RD1 74 of 140 - 52% 47 of 131 - 35% RD2 72 of 109 - 66% 25 of 66 - 37% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Hooker vs. Parnasse W Delphine Benouaich L Sofia Montenegro \"La Bruja\" Women's Strawweight Bout Method: Submission Round: 2 Time: 4:22 Time format: 3 Rnd (5-5-5) Referee: Mourad Benseghir Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Delphine Benouaich Sofia Montenegro 1 0 146 of 249 72 of 197 58% 36% 154 of 262 72 of 199 0 of 0 0 of 0 --- --- 1 0 0 0 1:41 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Delphine Benouaich S"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/034c04e480d87b8f",
+    "fighter_names": [
+      "Jean Silva",
+      "Jose Delgado"
+    ],
+    "fighter_ids": [
+      "52ef95b5860fb28c",
+      "7d6ceff6747f2de2"
+    ],
+    "winner": "Jean Silva",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "2:57",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jean Silva",
+            "Jose Delgado"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "39 of 77",
+            "40 of 108"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "37%"
+          ],
+          "Total str.": [
+            "40 of 78",
+            "41 of 109"
+          ],
+          "Td": [
+            "1 of 2",
+            "0 of 1"
+          ],
+          "Td %": [
+            "50%",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:37",
+            "0:21"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jean Silva",
+        "Jose Delgado"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 5 - 60% 17 of 34 - 50% RD2 23 of 50 - 46% 14 of 48 - 29% RD3 13 of 22 - 59% 9 of 26 - 34% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W Jean Silva \"Lord\" L Jose Delgado Featherweight Bout Method: Submission Round: 3 Time: 2:57 Time format: 5 Rnd (5-5-5-5-5) Referee: Dan Miragliotta Details: Rear Naked Choke One-arm RNC Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jean Silva Jose Delgado 1 0 39 of 77 40 of 108 50% 37% 40 of 78 41 of 109 1 of 2 0 of 1 50% 0% 1 0 0 0 1:37 0:21 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jean Silva Jose Delgado 0 0 3 of 5 17 of 34 60% 50% "
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1aa008d8597a73b8",
+    "fighter_names": [
+      "Brandon Moreno",
+      "Joseph Morales"
+    ],
+    "fighter_ids": [
+      "792be9a24df82ed6",
+      "2fe9032955c2e013"
+    ],
+    "winner": "Brandon Moreno",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Brandon Moreno",
+            "Joseph Morales"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "67 of 180",
+            "71 of 183"
+          ],
+          "Sig. str. %": [
+            "37%",
+            "38%"
+          ],
+          "Total str.": [
+            "71 of 184",
+            "77 of 189"
+          ],
+          "Td": [
+            "2 of 2",
+            "1 of 8"
+          ],
+          "Td %": [
+            "100%",
+            "12%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:34",
+            "0:35"
+          ]
+        }
+      ],
+      "fighters": [
+        "Brandon Moreno",
+        "Joseph Morales"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 27 of 72 - 37% 29 of 76 - 38% RD2 25 of 70 - 35% 26 of 71 - 36% RD3 15 of 38 - 39% 16 of 36 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W Brandon Moreno \"The Assassin Baby\" L Joseph Morales \"Bopo\" Flyweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Andrew Topps 29 - 28. Mike Bell 27 - 30. Eric Colon 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Brandon Moreno Joseph Morales 0 0 67 of 180 71 of 183 37% 38% 71 of 184 77 of 189 2 of 2 1 of 8 100% 12% 0 0 0 0 2:34 0:35 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ct"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1fca7dfa9e1e15cb",
+    "fighter_names": [
+      "Tommy McMillen",
+      "Marwan Rahiki"
+    ],
+    "fighter_ids": [
+      "6b0a6def604de298",
+      "6eedb757f13b9978"
+    ],
+    "winner": "Tommy McMillen",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Tommy McMillen",
+            "Marwan Rahiki"
+          ],
+          "KD": [
+            "1",
+            "1"
+          ],
+          "Sig. str.": [
+            "89 of 237",
+            "79 of 178"
+          ],
+          "Sig. str. %": [
+            "37%",
+            "44%"
+          ],
+          "Total str.": [
+            "128 of 280",
+            "80 of 179"
+          ],
+          "Td": [
+            "5 of 5",
+            "1 of 2"
+          ],
+          "Td %": [
+            "100%",
+            "50%"
+          ],
+          "Sub. att": [
+            "3",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:53",
+            "0:07"
+          ]
+        }
+      ],
+      "fighters": [
+        "Tommy McMillen",
+        "Marwan Rahiki"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 29 of 87 - 33% 23 of 76 - 30% RD2 38 of 97 - 39% 46 of 81 - 56% RD3 22 of 53 - 41% 10 of 21 - 47% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W Tommy McMillen \"Gun\" L Marwan Rahiki \"Freaky\" Featherweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Eric Colon 28 - 29. Chris Flores 28 - 29. Mike Bell 27 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Tommy McMillen Marwan Rahiki 1 1 89 of 237 79 of 178 37% 44% 128 of 280 80 of 179 5 of 5 1 of 2 100% 50% 3 0 0 0 4:53 0:07 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Ro"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d9712b45c094730e",
+    "fighter_names": [
+      "Manon Fiorot",
+      "Alexa Grasso"
+    ],
+    "fighter_ids": [
+      "34ff304266360297",
+      "e8b731feff72294b"
+    ],
+    "winner": "Alexa Grasso",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Manon Fiorot",
+            "Alexa Grasso"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "72 of 226",
+            "80 of 196"
+          ],
+          "Sig. str. %": [
+            "31%",
+            "40%"
+          ],
+          "Total str.": [
+            "73 of 227",
+            "96 of 213"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:02",
+            "0:57"
+          ]
+        }
+      ],
+      "fighters": [
+        "Manon Fiorot",
+        "Alexa Grasso"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 75 - 28% 33 of 74 - 44% RD2 24 of 79 - 30% 23 of 63 - 36% RD3 27 of 72 - 37% 24 of 59 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado L Manon Fiorot \"The Beast\" W Alexa Grasso Women's Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Ron McCarthy 28 - 29. Sal D'amato 28 - 29. Felicia Oh 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Manon Fiorot Alexa Grasso 0 1 72 of 226 80 of 196 31% 40% 73 of 227 96 of 213 0 of 0 0 of 0 --- --- 0 0 0 0 0:02 0:57 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 "
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/606639bf387f60e2",
+    "fighter_names": [
+      "Waldo Cortes Acosta",
+      "Curtis Blaydes"
+    ],
+    "fighter_ids": [
+      "fc08099550072fe4",
+      "fa6796c55d6c5440"
+    ],
+    "winner": "Curtis Blaydes",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Waldo Cortes Acosta",
+            "Curtis Blaydes"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "28 of 95",
+            "24 of 74"
+          ],
+          "Sig. str. %": [
+            "29%",
+            "32%"
+          ],
+          "Total str.": [
+            "30 of 97",
+            "32 of 82"
+          ],
+          "Td": [
+            "0 of 0",
+            "4 of 10"
+          ],
+          "Td %": [
+            "---",
+            "40%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "3:38"
+          ]
+        }
+      ],
+      "fighters": [
+        "Waldo Cortes Acosta",
+        "Curtis Blaydes"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 23 - 30% 7 of 27 - 25% RD2 9 of 36 - 25% 9 of 24 - 37% RD3 12 of 36 - 33% 8 of 23 - 34% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado L Waldo Cortes Acosta \"Salsa Boy\" W Curtis Blaydes \"Razor\" Heavyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Dan Miragliotta Details: Mike Bell 28 - 29. Eric Colon 28 - 29. Andrew Topps 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Waldo Cortes Acosta Curtis Blaydes 0 0 28 of 95 24 of 74 29% 32% 30 of 97 32 of 82 0 of 0 4 of 10 --- 40% 0 0 0 0 0:00 3:38 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/51caa91f68873cf5",
+    "fighter_names": [
+      "David Martinez",
+      "Dan Ige"
+    ],
+    "fighter_ids": [
+      "9a97acbfd5a08bfa",
+      "82a5152216251682"
+    ],
+    "winner": "David Martinez",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "David Martinez",
+            "Dan Ige"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "52 of 139",
+            "27 of 124"
+          ],
+          "Sig. str. %": [
+            "37%",
+            "21%"
+          ],
+          "Total str.": [
+            "58 of 146",
+            "27 of 124"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 1"
+          ],
+          "Td %": [
+            "100%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:19",
+            "0:05"
+          ]
+        }
+      ],
+      "fighters": [
+        "David Martinez",
+        "Dan Ige"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 17 of 34 - 50% 5 of 43 - 11% RD2 14 of 55 - 25% 9 of 35 - 25% RD3 21 of 50 - 42% 13 of 46 - 28% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W David Martinez L Dan Ige \"100 Grand\" Bantamweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Sal D'amato 27 - 30. Chris Flores 27 - 30. Eric Colon 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl David Martinez Dan Ige 0 0 52 of 139 27 of 124 37% 21% 58 of 146 27 of 124 1 of 1 0 of 1 100% 0% 0 0 0 0 0:19 0:05 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 David Marti"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f154037892b9fb94",
+    "fighter_names": [
+      "Tim Elliott",
+      "Edgar Chairez"
+    ],
+    "fighter_ids": [
+      "c96d9178c9ed9e62",
+      "5ef94841c4bc3f86"
+    ],
+    "winner": "Tim Elliott",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Catch Weight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Tim Elliott",
+            "Edgar Chairez"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "64 of 204",
+            "58 of 124"
+          ],
+          "Sig. str. %": [
+            "31%",
+            "46%"
+          ],
+          "Total str.": [
+            "142 of 309",
+            "70 of 136"
+          ],
+          "Td": [
+            "5 of 11",
+            "0 of 0"
+          ],
+          "Td %": [
+            "45%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "5:54",
+            "0:04"
+          ]
+        }
+      ],
+      "fighters": [
+        "Tim Elliott",
+        "Edgar Chairez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 27 of 63 - 42% 25 of 58 - 43% RD2 13 of 39 - 33% 12 of 21 - 57% RD3 24 of 102 - 23% 21 of 45 - 46% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W Tim Elliott L Edgar Chairez \"Puro Chicali\" Catch Weight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Ron McCarthy 28 - 29. Mike Bell 28 - 29. Felicia Oh 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Tim Elliott Edgar Chairez 0 0 64 of 204 58 of 124 31% 46% 142 of 309 70 of 136 5 of 11 0 of 0 45% --- 0 1 0 0 5:54 0:04 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 T"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/046c22f769fd8300",
+    "fighter_names": [
+      "Ignacio Bahamondes",
+      "Muslim Salikhov"
+    ],
+    "fighter_ids": [
+      "e4a47b07044ddd72",
+      "447f9858ae78f921"
+    ],
+    "winner": "Ignacio Bahamondes",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ignacio Bahamondes",
+            "Muslim Salikhov"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "78 of 160",
+            "42 of 97"
+          ],
+          "Sig. str. %": [
+            "48%",
+            "43%"
+          ],
+          "Total str.": [
+            "91 of 175",
+            "44 of 102"
+          ],
+          "Td": [
+            "0 of 0",
+            "3 of 8"
+          ],
+          "Td %": [
+            "---",
+            "37%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "1:16"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ignacio Bahamondes",
+        "Muslim Salikhov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 23 of 55 - 41% 13 of 31 - 41% RD2 28 of 53 - 52% 13 of 30 - 43% RD3 27 of 52 - 51% 16 of 36 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W Ignacio Bahamondes \"La Jaula\" L Muslim Salikhov \"King of Kung Fu\" Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Sal D'amato 27 - 30. Mike Bell 27 - 30. Felicia Oh 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ignacio Bahamondes Muslim Salikhov 0 0 78 of 160 42 of 97 48% 43% 91 of 175 44 of 102 0 of 0 3 of 8 --- 37% 0 0 0 0 0:00 1:16 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % S"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/9a0e77ecd1b7f04e",
+    "fighter_names": [
+      "Yousri Belgaroui",
+      "Djorden Santos"
+    ],
+    "fighter_ids": [
+      "7674b836ce0698a0",
+      "312f7d7b2b2f7de4"
+    ],
+    "winner": "Yousri Belgaroui",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:25",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Yousri Belgaroui",
+            "Djorden Santos"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "46 of 81",
+            "16 of 48"
+          ],
+          "Sig. str. %": [
+            "56%",
+            "33%"
+          ],
+          "Total str.": [
+            "46 of 81",
+            "16 of 48"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Yousri Belgaroui",
+        "Djorden Santos"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 46 of 81 - 56% 16 of 48 - 33% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W Yousri Belgaroui L Djorden Santos \"Shakur\" Middleweight Bout Method: KO/TKO Round: 1 Time: 4:25 Time format: 3 Rnd (5-5-5) Referee: Brad Frank Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Yousri Belgaroui Djorden Santos 1 0 46 of 81 16 of 48 56% 33% 46 of 81 16 of 48 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Yousri Belgaroui Djorden Santos 1 0 46 of 81 16 of 4"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/0aa849ca85e4355a",
+    "fighter_names": [
+      "Drakkar Klose",
+      "Tommy Gantt"
+    ],
+    "fighter_ids": [
+      "7cbf7c78d3b34218",
+      "de83f920fd302871"
+    ],
+    "winner": "Tommy Gantt",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "2:46",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Drakkar Klose",
+            "Tommy Gantt"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "15 of 30",
+            "56 of 82"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "68%"
+          ],
+          "Total str.": [
+            "87 of 108",
+            "95 of 126"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 8"
+          ],
+          "Td %": [
+            "---",
+            "25%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:21",
+            "9:55"
+          ]
+        }
+      ],
+      "fighters": [
+        "Drakkar Klose",
+        "Tommy Gantt"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 5 - 60% 22 of 28 - 78% RD2 11 of 22 - 50% 18 of 35 - 51% RD3 1 of 3 - 33% 16 of 19 - 84% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado L Drakkar Klose W Tommy Gantt Lightweight Bout Method: Submission Round: 3 Time: 2:46 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Triangle Choke From Bottom Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Drakkar Klose Tommy Gantt 0 0 15 of 30 56 of 82 50% 68% 87 of 108 95 of 126 0 of 0 2 of 8 --- 25% 0 1 1 0 0:21 9:55 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Drakkar Klose Tommy Gantt 0 0 3 of 5 22 of 28 60% 78% 30 of"
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d0d48877bf3724d1",
+    "fighter_names": [
+      "Rafa Garcia",
+      "Rongzhu"
+    ],
+    "fighter_ids": [
+      "e132d47bd9efbbe0",
+      "a13d755965a4ec9f"
+    ],
+    "winner": "Rongzhu",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rafa Garcia",
+            "Rongzhu"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "73 of 189",
+            "109 of 247"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "44%"
+          ],
+          "Total str.": [
+            "77 of 193",
+            "110 of 248"
+          ],
+          "Td": [
+            "1 of 9",
+            "0 of 0"
+          ],
+          "Td %": [
+            "11%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:15",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rafa Garcia",
+        "Rongzhu"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 50 - 42% 29 of 69 - 42% RD2 23 of 69 - 33% 39 of 79 - 49% RD3 29 of 70 - 41% 41 of 99 - 41% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado L Rafa Garcia \"Gifted\" W Rongzhu \"The Yama King\" Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Gustav Gibson Details: Ron McCarthy 28 - 29. Eric Colon 28 - 29. Andrew Topps 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rafa Garcia Rongzhu 0 0 73 of 189 109 of 247 38% 44% 77 of 193 110 of 248 1 of 9 0 of 0 11% --- 0 0 0 0 1:15 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 "
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/5a91827fe8c1dc26",
+    "fighter_names": [
+      "Sean King III",
+      "Jessie Rosas"
+    ],
+    "fighter_ids": [
+      "41523699f37d400c",
+      "d1026588fa65693f"
+    ],
+    "winner": "Sean King III",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "0:36",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Sean King III",
+            "Jessie Rosas"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "7 of 13",
+            "3 of 6"
+          ],
+          "Sig. str. %": [
+            "53%",
+            "50%"
+          ],
+          "Total str.": [
+            "7 of 13",
+            "3 of 6"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:04",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Sean King III",
+        "Jessie Rosas"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 13 - 53% 3 of 6 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado W Sean King III \"The King of New Orleans\" L Jessie Rosas \"Tachidito\" Featherweight Bout Method: KO/TKO Round: 1 Time: 0:36 Time format: 3 Rnd (10-5-5) Referee: Brad Frank Details: Slam to On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Sean King III Jessie Rosas 0 0 7 of 13 3 of 6 53% 50% 7 of 13 3 of 6 1 of 1 0 of 0 100% --- 0 0 0 0 0:04 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Sean King III Jessie Rosas 0 0 7 of 13 3 of "
+  },
+  {
+    "event_name": "Noche UFC: Silva vs. Delgado",
+    "event_url": "http://ufcstats.com/event-details/638cfec7ec559d6e",
+    "event_date": "September 12, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/64da2e60f1b472fa",
+    "fighter_names": [
+      "JJ Aldrich",
+      "Regina Tarin"
+    ],
+    "fighter_ids": [
+      "6fd953151d981979",
+      "9f5609dba6584ab2"
+    ],
+    "winner": "Regina Tarin",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "JJ Aldrich",
+            "Regina Tarin"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "63 of 118",
+            "77 of 190"
+          ],
+          "Sig. str. %": [
+            "53%",
+            "40%"
+          ],
+          "Total str.": [
+            "74 of 129",
+            "87 of 200"
+          ],
+          "Td": [
+            "0 of 4",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:41",
+            "0:09"
+          ]
+        }
+      ],
+      "fighters": [
+        "JJ Aldrich",
+        "Regina Tarin"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 37 - 56% 22 of 52 - 42% RD2 18 of 40 - 45% 27 of 70 - 38% RD3 24 of 41 - 58% 28 of 68 - 41% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado L JJ Aldrich W Regina Tarin \"Kill Bill\" Women's Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Gustav Gibson Details: Ron McCarthy 28 - 29. Mike Bell 28 - 29. Chris Flores 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl JJ Aldrich Regina Tarin 0 0 63 of 118 77 of 190 53% 40% 74 of 129 87 of 200 0 of 4 0 of 0 0% --- 0 0 0 0 0:41 0:09 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 JJ "
   }
 ]

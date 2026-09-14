@@ -49606,5 +49606,41 @@
     "TD Acc.": "0%",
     "TD Def.": "100%",
     "Sub. Avg.": "0.0"
+  },
+  {
+    "fighter_id": "41523699f37d400c",
+    "name": "Sean King III",
+    "record": "7-0-0",
+    "Height": "5' 11\"",
+    "Weight": "145 lbs.",
+    "Reach": "72\"",
+    "STANCE": "Orthodox",
+    "DOB": "Oct 17, 2003",
+    "SLpM": "11.67",
+    "Str. Acc.": "53%",
+    "SApM": "5.00",
+    "Str. Def": "50%",
+    "TD Avg.": "25.00",
+    "TD Acc.": "100%",
+    "TD Def.": "0%",
+    "Sub. Avg.": "0.0"
+  },
+  {
+    "fighter_id": "d1026588fa65693f",
+    "name": "Jessie Rosas",
+    "record": "8-2-0",
+    "Height": "5' 7\"",
+    "Weight": "145 lbs.",
+    "Reach": "68\"",
+    "STANCE": "Southpaw",
+    "DOB": "Dec 04, 2002",
+    "SLpM": "5.00",
+    "Str. Acc.": "50%",
+    "SApM": "11.67",
+    "Str. Def": "46%",
+    "TD Avg.": "0.00",
+    "TD Acc.": "0%",
+    "TD Def.": "0%",
+    "Sub. Avg.": "0.0"
   }
 ]
