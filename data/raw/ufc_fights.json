@@ -638833,5 +638833,869 @@
     },
     "per_round_breakdown": "Per round RD1 21 of 37 - 56% 22 of 52 - 42% RD2 18 of 40 - 45% 27 of 70 - 38% RD3 24 of 41 - 58% 28 of 68 - 41% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS Noche UFC: Silva vs. Delgado L JJ Aldrich W Regina Tarin \"Kill Bill\" Women's Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Gustav Gibson Details: Ron McCarthy 28 - 29. Mike Bell 28 - 29. Chris Flores 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl JJ Aldrich Regina Tarin 0 0 63 of 118 77 of 190 53% 40% 74 of 129 87 of 200 0 of 4 0 of 0 0% --- 0 0 0 0 0:41 0:09 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 JJ "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/568ec6af4008355a",
+    "fighter_names": [
+      "Joshua Van",
+      "Alexandre Pantoja"
+    ],
+    "fighter_ids": [
+      "17e97649403ba428",
+      "a0f0004aadf10b71"
+    ],
+    "winner": "Joshua Van",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "5",
+    "time": "5:00",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Joshua Van",
+            "Alexandre Pantoja"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "181 of 305",
+            "147 of 284"
+          ],
+          "Sig. str. %": [
+            "59%",
+            "51%"
+          ],
+          "Total str.": [
+            "259 of 392",
+            "159 of 300"
+          ],
+          "Td": [
+            "0 of 0",
+            "5 of 18"
+          ],
+          "Td %": [
+            "---",
+            "27%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "2:13",
+            "9:11"
+          ]
+        }
+      ],
+      "fighters": [
+        "Joshua Van",
+        "Alexandre Pantoja"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 13 of 27 - 48% 27 of 45 - 60% RD2 37 of 64 - 57% 32 of 76 - 42% RD3 65 of 98 - 66% 36 of 71 - 50% RD4 14 of 28 - 50% 14 of 22 - 63% RD5 52 of 88 - 59% 38 of 70 - 54% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Joshua Van \"The Fearless\" L Alexandre Pantoja \"The Cannibal\" UFC Flyweight Title Bout Method: Decision - Unanimous Round: 5 Time: 5:00 Time format: 5 Rnd (5-5-5-5-5) Referee: Herb Dean Details: Sal D'amato 46 - 49. Derek Cleary 47 - 48. Ron McCarthy 45 - 50. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Joshua Van Alexandre Pantoja 1 0 181 of 305 147 of 284 59% 51% 259 of 392 159 of 300 0 of 0 5 of 18 --- 27% 1 0 1 0 2:13 9:11 Per round Fighter KD Sig. str. Sig. str. % Total str. Td %"
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/fe612d20eec7ef35",
+    "fighter_names": [
+      "Arman Tsarukyan",
+      "Mauricio Ruffy"
+    ],
+    "fighter_ids": [
+      "eae48ff31db420c2",
+      "9c393e836a852f30"
+    ],
+    "winner": "Arman Tsarukyan",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:56",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Arman Tsarukyan",
+            "Mauricio Ruffy"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "8 of 19",
+            "4 of 10"
+          ],
+          "Sig. str. %": [
+            "42%",
+            "40%"
+          ],
+          "Total str.": [
+            "9 of 20",
+            "22 of 28"
+          ],
+          "Td": [
+            "1 of 10",
+            "0 of 0"
+          ],
+          "Td %": [
+            "10%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "3:00",
+            "0:06"
+          ]
+        }
+      ],
+      "fighters": [
+        "Arman Tsarukyan",
+        "Mauricio Ruffy"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 8 of 19 - 42% 4 of 10 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Arman Tsarukyan \"The Batman\" L Mauricio Ruffy Lightweight Bout Method: KO/TKO Round: 1 Time: 4:56 Time format: 5 Rnd (5-5-5-5-5) Referee: Jason Herzog Details: Elbow to Head In Clinch Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Arman Tsarukyan Mauricio Ruffy 1 0 8 of 19 4 of 10 42% 40% 9 of 20 22 of 28 1 of 10 0 of 0 10% --- 0 0 0 0 3:00 0:06 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Arman Tsarukyan Mauricio Ruffy 1 0 8 of 19 4 of 10 "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f7810c98786c3dd8",
+    "fighter_names": [
+      "Patricio Pitbull",
+      "Dooho Choi"
+    ],
+    "fighter_ids": [
+      "98a58c26c5b1ed17",
+      "e93b04e308913c2e"
+    ],
+    "winner": "Patricio Pitbull",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:28",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Patricio Pitbull",
+            "Dooho Choi"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "38 of 75",
+            "20 of 46"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "43%"
+          ],
+          "Total str.": [
+            "38 of 75",
+            "20 of 46"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:05",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Patricio Pitbull",
+        "Dooho Choi"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 38 of 75 - 50% 20 of 46 - 43% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Patricio Pitbull L Dooho Choi \"The Korean Superboy\" Featherweight Bout Method: KO/TKO Round: 1 Time: 3:28 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punches to Head From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Patricio Pitbull Dooho Choi 1 0 38 of 75 20 of 46 50% 43% 38 of 75 20 of 46 0 of 0 0 of 0 --- --- 0 0 0 0 0:05 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Patricio Pitbull Dooho Choi 1 0 38 of 75"
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/023ce4fa7b7b76f9",
+    "fighter_names": [
+      "Gable Steveson",
+      "Sean Sharaf"
+    ],
+    "fighter_ids": [
+      "f7e856a73c96048e",
+      "0f3a990526c5e706"
+    ],
+    "winner": "Sean Sharaf",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "0:12",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Gable Steveson",
+            "Sean Sharaf"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "1 of 2",
+            "3 of 6"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "50%"
+          ],
+          "Total str.": [
+            "1 of 2",
+            "3 of 6"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Gable Steveson",
+        "Sean Sharaf"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 2 - 50% 3 of 6 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 L Gable Steveson W Sean Sharaf \"The Smoke\" Heavyweight Bout Method: KO/TKO Round: 1 Time: 0:12 Time format: 3 Rnd (5-5-5) Referee: Frank Trigg Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Gable Steveson Sean Sharaf 0 1 1 of 2 3 of 6 50% 50% 1 of 2 3 of 6 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Gable Steveson Sean Sharaf 0 1 1 of 2 3 of 6 50% 50% 1 of 2 3 of 6 0 "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/196c64693a2ce308",
+    "fighter_names": [
+      "Alonzo Menifield",
+      "Iwo Baraniewski"
+    ],
+    "fighter_ids": [
+      "a495f599e787614f",
+      "1c23ec2f1b71be40"
+    ],
+    "winner": "Alonzo Menifield",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Alonzo Menifield",
+            "Iwo Baraniewski"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "62 of 162",
+            "67 of 121"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "55%"
+          ],
+          "Total str.": [
+            "140 of 246",
+            "89 of 146"
+          ],
+          "Td": [
+            "1 of 5",
+            "1 of 3"
+          ],
+          "Td %": [
+            "20%",
+            "33%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:54",
+            "4:19"
+          ]
+        }
+      ],
+      "fighters": [
+        "Alonzo Menifield",
+        "Iwo Baraniewski"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 42 - 23% 17 of 42 - 40% RD2 34 of 81 - 41% 33 of 50 - 66% RD3 18 of 39 - 46% 17 of 29 - 58% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Alonzo Menifield \"Atomic\" L Iwo Baraniewski \"Rudy\" Light Heavyweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jonathan Romero Details: Ron McCarthy 29 - 28. Chris Leben 28 - 29. Jovany Varela 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Alonzo Menifield Iwo Baraniewski 0 0 62 of 162 67 of 121 38% 55% 140 of 246 89 of 146 1 of 5 1 of 3 20% 33% 0 0 0 0 2:54 4:19 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. at"
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d0361fe28d05a0b5",
+    "fighter_names": [
+      "Marlon Vera",
+      "Charles Jourdain"
+    ],
+    "fighter_ids": [
+      "7c7332319c14094c",
+      "f1d64ae34e088832"
+    ],
+    "winner": "Marlon Vera",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "2:02",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Marlon Vera",
+            "Charles Jourdain"
+          ],
+          "KD": [
+            "3",
+            "0"
+          ],
+          "Sig. str.": [
+            "72 of 128",
+            "83 of 127"
+          ],
+          "Sig. str. %": [
+            "56%",
+            "65%"
+          ],
+          "Total str.": [
+            "80 of 138",
+            "108 of 153"
+          ],
+          "Td": [
+            "3 of 3",
+            "0 of 1"
+          ],
+          "Td %": [
+            "100%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:15",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Marlon Vera",
+        "Charles Jourdain"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 38 - 55% 28 of 42 - 66% RD2 38 of 66 - 57% 40 of 59 - 67% RD3 13 of 24 - 54% 15 of 26 - 57% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Marlon Vera \"Chito\" L Charles Jourdain \"Air\" Bantamweight Bout Method: KO/TKO Round: 3 Time: 2:02 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Marlon Vera Charles Jourdain 3 0 72 of 128 83 of 127 56% 65% 80 of 138 108 of 153 3 of 3 0 of 1 100% 0% 0 0 0 0 2:15 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Marlon Vera Charles Jourdain 0 0 21 of 38 28 of "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/3f2d637ffb324a51",
+    "fighter_names": [
+      "Tai Tuivasa",
+      "Robelis Despaigne"
+    ],
+    "fighter_ids": [
+      "c62fbc117d57b943",
+      "140567899d98978a"
+    ],
+    "winner": "Robelis Despaigne",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Tai Tuivasa",
+            "Robelis Despaigne"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "31 of 68",
+            "30 of 69"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "43%"
+          ],
+          "Total str.": [
+            "54 of 93",
+            "83 of 128"
+          ],
+          "Td": [
+            "1 of 6",
+            "2 of 2"
+          ],
+          "Td %": [
+            "16%",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "6:58",
+            "5:08"
+          ]
+        }
+      ],
+      "fighters": [
+        "Tai Tuivasa",
+        "Robelis Despaigne"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 15 of 29 - 51% 19 of 39 - 48% RD2 7 of 17 - 41% 3 of 12 - 25% RD3 9 of 22 - 40% 8 of 18 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 L Tai Tuivasa \"Bam Bam\" W Robelis Despaigne \"The Big Boy\" Heavyweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Sal D'amato 28 - 29. Jovany Varela 29 - 28. Felicia Oh 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Tai Tuivasa Robelis Despaigne 0 0 31 of 68 30 of 69 45% 43% 54 of 93 83 of 128 1 of 6 2 of 2 16% 100% 0 0 0 0 6:58 5:08 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d89cc2cb92cd8407",
+    "fighter_names": [
+      "Michael Aswell Jr.",
+      "JooSang Yoo"
+    ],
+    "fighter_ids": [
+      "01c9e4013afce141",
+      "a44020ea2e8cd026"
+    ],
+    "winner": "Michael Aswell Jr.",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Michael Aswell Jr.",
+            "JooSang Yoo"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "70 of 145",
+            "46 of 129"
+          ],
+          "Sig. str. %": [
+            "48%",
+            "35%"
+          ],
+          "Total str.": [
+            "93 of 171",
+            "51 of 135"
+          ],
+          "Td": [
+            "0 of 1",
+            "1 of 4"
+          ],
+          "Td %": [
+            "0%",
+            "25%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:11",
+            "2:18"
+          ]
+        }
+      ],
+      "fighters": [
+        "Michael Aswell Jr.",
+        "JooSang Yoo"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 28 of 59 - 47% 23 of 58 - 39% RD2 23 of 46 - 50% 14 of 35 - 40% RD3 19 of 40 - 47% 9 of 36 - 25% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Michael Aswell Jr. \"The Texas Kid\" L JooSang Yoo \"Zombie Jr.\" Featherweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Daniel Mobley 28 - 29. Ron McCarthy 29 - 28. Derek Cleary 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Michael Aswell Jr. JooSang Yoo 0 0 70 of 145 46 of 129 48% 35% 93 of 171 51 of 135 0 of 1 1 of 4 0% 25% 0 0 0 0 1:11 2:18 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/51789f77811b1817",
+    "fighter_names": [
+      "Ryan Gandra",
+      "Ozzy Diaz"
+    ],
+    "fighter_ids": [
+      "e463ce0a2ca474f4",
+      "6967153c7edb4d87"
+    ],
+    "winner": "Ryan Gandra",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:04",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ryan Gandra",
+            "Ozzy Diaz"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "16 of 34",
+            "3 of 4"
+          ],
+          "Sig. str. %": [
+            "47%",
+            "75%"
+          ],
+          "Total str.": [
+            "16 of 34",
+            "3 of 4"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:03",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ryan Gandra",
+        "Ozzy Diaz"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 16 of 34 - 47% 3 of 4 - 75% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Ryan Gandra \"Problema\" L Ozzy Diaz Middleweight Bout Method: KO/TKO Round: 1 Time: 2:04 Time format: 3 Rnd (5-5-5) Referee: Jonathan Romero Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ryan Gandra Ozzy Diaz 1 0 16 of 34 3 of 4 47% 75% 16 of 34 3 of 4 0 of 0 0 of 0 --- --- 0 0 0 0 0:03 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Ryan Gandra Ozzy Diaz 1 0 16 of 34 3 of 4 47% 75% 16 of 34 3 of 4 0 of "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/9be47241c960d082",
+    "fighter_names": [
+      "Edmen Shahbazyan",
+      "Brunno Ferreira"
+    ],
+    "fighter_ids": [
+      "4144798612ef96e5",
+      "1e719d4b676dc19a"
+    ],
+    "winner": "Edmen Shahbazyan",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Edmen Shahbazyan",
+            "Brunno Ferreira"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "61 of 110",
+            "32 of 108"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "29%"
+          ],
+          "Total str.": [
+            "63 of 112",
+            "33 of 109"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "33%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:57",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Edmen Shahbazyan",
+        "Brunno Ferreira"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 35 - 60% 2 of 10 - 20% RD2 15 of 33 - 45% 15 of 43 - 34% RD3 25 of 42 - 59% 15 of 55 - 27% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Edmen Shahbazyan \"The Golden Boy\" L Brunno Ferreira \"The Hulk\" Middleweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Daniel Mobley 28 - 29. Chris Leben 28 - 29. Felicia Oh 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Edmen Shahbazyan Brunno Ferreira 1 0 61 of 110 32 of 108 55% 29% 63 of 112 33 of 109 1 of 3 0 of 0 33% --- 0 0 0 0 0:57 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Su"
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/73304588cef4f88b",
+    "fighter_names": [
+      "Casey O'Neill",
+      "Eduarda Moura"
+    ],
+    "fighter_ids": [
+      "04835018f90b118c",
+      "de594b35c45c2e9a"
+    ],
+    "winner": "Casey O'Neill",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "3:22",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Casey O'Neill",
+            "Eduarda Moura"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "1 of 4",
+            "3 of 7"
+          ],
+          "Sig. str. %": [
+            "25%",
+            "42%"
+          ],
+          "Total str.": [
+            "1 of 4",
+            "13 of 20"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "3:12"
+          ]
+        }
+      ],
+      "fighters": [
+        "Casey O'Neill",
+        "Eduarda Moura"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 4 - 25% 3 of 7 - 42% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 W Casey O'Neill \"King\" L Eduarda Moura \"Ronda\" Women's Flyweight Bout Method: Submission Round: 1 Time: 3:22 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Armbar From Guard Helicopter armbar Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Casey O'Neill Eduarda Moura 0 0 1 of 4 3 of 7 25% 42% 1 of 4 13 of 20 0 of 0 0 of 0 --- --- 1 1 0 0 0:00 3:12 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Casey O'Neill Eduarda Moura 0 0 1 of 4 3 "
+  },
+  {
+    "event_name": "UFC 331: Van vs. Pantoja 2",
+    "event_url": "http://ufcstats.com/event-details/8a0a35e7c74bebcc",
+    "event_date": "September 19, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/2e35163040eb3189",
+    "fighter_names": [
+      "Giga Chikadze",
+      "Joanderson Brito"
+    ],
+    "fighter_ids": [
+      "9560ff14eb3129f7",
+      "791c8437b341fba5"
+    ],
+    "winner": "Joanderson Brito",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:57",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Giga Chikadze",
+            "Joanderson Brito"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "7 of 12",
+            "20 of 27"
+          ],
+          "Sig. str. %": [
+            "58%",
+            "74%"
+          ],
+          "Total str.": [
+            "13 of 18",
+            "24 of 31"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:39"
+          ]
+        }
+      ],
+      "fighters": [
+        "Giga Chikadze",
+        "Joanderson Brito"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 12 - 58% 20 of 27 - 74% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 L Giga Chikadze \"Ninja\" W Joanderson Brito \"Tubarao\" Featherweight Bout Method: KO/TKO Round: 1 Time: 1:57 Time format: 3 Rnd (5-5-5) Referee: Frank Trigg Details: Punches to Head From Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Giga Chikadze Joanderson Brito 0 0 7 of 12 20 of 27 58% 74% 13 of 18 24 of 31 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:39 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Giga Chikadze Joanderson Brito 0 0 7 of 12 20"
   }
 ]
