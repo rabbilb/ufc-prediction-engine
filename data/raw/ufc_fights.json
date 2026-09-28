@@ -639697,5 +639697,869 @@
     },
     "per_round_breakdown": "Per round RD1 7 of 12 - 58% 20 of 27 - 74% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 331: Van vs. Pantoja 2 L Giga Chikadze \"Ninja\" W Joanderson Brito \"Tubarao\" Featherweight Bout Method: KO/TKO Round: 1 Time: 1:57 Time format: 3 Rnd (5-5-5) Referee: Frank Trigg Details: Punches to Head From Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Giga Chikadze Joanderson Brito 0 0 7 of 12 20 of 27 58% 74% 13 of 18 24 of 31 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:39 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Giga Chikadze Joanderson Brito 0 0 7 of 12 20"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/0e55d8a3d7a73912",
+    "fighter_names": [
+      "Raul Rosas Jr.",
+      "Raoni Barcelos"
+    ],
+    "fighter_ids": [
+      "fe2babf95de24fb1",
+      "b9f28e7045fdfce7"
+    ],
+    "winner": "Raul Rosas Jr.",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "5",
+    "time": "1:38",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Raul Rosas Jr.",
+            "Raoni Barcelos"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "113 of 251",
+            "127 of 223"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "56%"
+          ],
+          "Total str.": [
+            "179 of 327",
+            "198 of 303"
+          ],
+          "Td": [
+            "1 of 3",
+            "9 of 22"
+          ],
+          "Td %": [
+            "33%",
+            "40%"
+          ],
+          "Sub. att": [
+            "0",
+            "5"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:54",
+            "6:21"
+          ]
+        }
+      ],
+      "fighters": [
+        "Raul Rosas Jr.",
+        "Raoni Barcelos"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 29 of 73 - 39% 31 of 59 - 52% RD2 40 of 81 - 49% 58 of 90 - 64% RD3 28 of 59 - 47% 26 of 45 - 57% RD4 8 of 16 - 50% 8 of 18 - 44% RD5 8 of 22 - 36% 4 of 11 - 36% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos W Raul Rosas Jr. \"El Nino Problema\" L Raoni Barcelos Bantamweight Bout Method: KO/TKO Round: 5 Time: 1:38 Time format: 5 Rnd (5-5-5-5-5) Referee: Herb Dean Details: to From Half Guard Barcelos injury Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Raul Rosas Jr. Raoni Barcelos 0 0 113 of 251 127 of 223 45% 56% 179 of 327 198 of 303 1 of 3 9 of 22 33% 40% 0 5 1 0 0:54 6:21 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Raul Rosas Jr."
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/5e5d01e437bced71",
+    "fighter_names": [
+      "Norma Dumont",
+      "Ailin Perez"
+    ],
+    "fighter_ids": [
+      "d3f5d33d61cd00c9",
+      "06e4245d16fc5315"
+    ],
+    "winner": "Ailin Perez",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Norma Dumont",
+            "Ailin Perez"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "46 of 106",
+            "37 of 85"
+          ],
+          "Sig. str. %": [
+            "43%",
+            "43%"
+          ],
+          "Total str.": [
+            "102 of 166",
+            "47 of 99"
+          ],
+          "Td": [
+            "1 of 1",
+            "1 of 7"
+          ],
+          "Td %": [
+            "100%",
+            "14%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:40",
+            "3:41"
+          ]
+        }
+      ],
+      "fighters": [
+        "Norma Dumont",
+        "Ailin Perez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 8 of 18 - 44% 4 of 14 - 28% RD2 15 of 37 - 40% 12 of 29 - 41% RD3 23 of 51 - 45% 21 of 42 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos L Norma Dumont \"The Immortal\" W Ailin Perez \"Fiona\" Women's Bantamweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Mike Bell 28 - 29. Eric Colon 28 - 29. Sal D'amato 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Norma Dumont Ailin Perez 0 0 46 of 106 37 of 85 43% 43% 102 of 166 47 of 99 1 of 1 1 of 7 100% 14% 0 0 0 0 0:40 3:41 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. a"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/7c954175878dd610",
+    "fighter_names": [
+      "Luis Hernandez",
+      "Sedriques Dumas"
+    ],
+    "fighter_ids": [
+      "5dad1e8a516e6477",
+      "4e6738062d469256"
+    ],
+    "winner": "Luis Hernandez",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "0:57",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Luis Hernandez",
+            "Sedriques Dumas"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "3 of 6",
+            "0 of 3"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "0%"
+          ],
+          "Total str.": [
+            "3 of 6",
+            "0 of 3"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "2",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:24",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Luis Hernandez",
+        "Sedriques Dumas"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 6 - 50% 0 of 3 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos W Luis Hernandez \"The Stache\" L Sedriques Dumas \"The Reaper\" Light Heavyweight Bout Method: Submission Round: 1 Time: 0:57 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Guillotine Choke Standing Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Luis Hernandez Sedriques Dumas 0 0 3 of 6 0 of 3 50% 0% 3 of 6 0 of 3 1 of 1 0 of 0 100% --- 2 0 0 0 0:24 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Luis Hernandez Sedriques"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/3a70ed81e5611d24",
+    "fighter_names": [
+      "Mahammadali Osmanli",
+      "Ilimbek Akylbek"
+    ],
+    "fighter_ids": [
+      "2bbdbc925f4323ac",
+      "130b65b53f30f33c"
+    ],
+    "winner": "Ilimbek Akylbek",
+    "result_raw": "win",
+    "method": "DQ",
+    "round": "1",
+    "time": "2:19",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mahammadali Osmanli",
+            "Ilimbek Akylbek"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "6 of 13",
+            "6 of 12"
+          ],
+          "Sig. str. %": [
+            "46%",
+            "50%"
+          ],
+          "Total str.": [
+            "46 of 53",
+            "18 of 29"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 2"
+          ],
+          "Td %": [
+            "---",
+            "50%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:55"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mahammadali Osmanli",
+        "Ilimbek Akylbek"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 6 of 13 - 46% 6 of 12 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos L Mahammadali Osmanli \"The Ineffable\" W Ilimbek Akylbek Bantamweight Bout Method: DQ Round: 1 Time: 2:19 Time format: 3 Rnd + OT (5-5-5-5) Referee: Kerry Hatley Details: Illegal Knee to downed opponent Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mahammadali Osmanli Ilimbek Akylbek 0 0 6 of 13 6 of 12 46% 50% 46 of 53 18 of 29 0 of 0 1 of 2 --- 50% 0 0 0 0 0:00 0:55 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Mahammadali Osman"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/7bff1b7a45666e98",
+    "fighter_names": [
+      "Melissa Amaya",
+      "Tina Black"
+    ],
+    "fighter_ids": [
+      "71758ab9f337716c",
+      "a1a91dbf41a029c4"
+    ],
+    "winner": "Tina Black",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "3:19",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Melissa Amaya",
+            "Tina Black"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "22 of 58",
+            "50 of 105"
+          ],
+          "Sig. str. %": [
+            "37%",
+            "47%"
+          ],
+          "Total str.": [
+            "29 of 67",
+            "57 of 113"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:41"
+          ]
+        }
+      ],
+      "fighters": [
+        "Melissa Amaya",
+        "Tina Black"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 15 of 36 - 41% 35 of 73 - 47% RD2 7 of 22 - 31% 15 of 32 - 46% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos L Melissa Amaya \"Mamba\" W Tina Black Women's Strawweight Bout Method: KO/TKO Round: 2 Time: 3:19 Time format: 3 Rnd + OT (5-5-5-5) Referee: Jason Herzog Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Melissa Amaya Tina Black 0 2 22 of 58 50 of 105 37% 47% 29 of 67 57 of 113 0 of 1 0 of 0 0% --- 0 0 0 0 0:00 0:41 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Melissa Amaya Tina Black 0 1 15 of 36"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/29423f522e76f12e",
+    "fighter_names": [
+      "Brady Hiestand",
+      "Rinya Nakamura"
+    ],
+    "fighter_ids": [
+      "7af33fc4435017f1",
+      "d8c811df0386d5e8"
+    ],
+    "winner": "Brady Hiestand",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "2",
+    "time": "4:07",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Brady Hiestand",
+            "Rinya Nakamura"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "26 of 55",
+            "29 of 65"
+          ],
+          "Sig. str. %": [
+            "47%",
+            "44%"
+          ],
+          "Total str.": [
+            "50 of 80",
+            "40 of 79"
+          ],
+          "Td": [
+            "0 of 9",
+            "1 of 6"
+          ],
+          "Td %": [
+            "0%",
+            "16%"
+          ],
+          "Sub. att": [
+            "2",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:51",
+            "1:32"
+          ]
+        }
+      ],
+      "fighters": [
+        "Brady Hiestand",
+        "Rinya Nakamura"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 48 - 43% 19 of 46 - 41% RD2 5 of 7 - 71% 10 of 19 - 52% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos W Brady Hiestand \"Bam Bam\" L Rinya Nakamura \"Hybred\" Bantamweight Bout Method: Submission Round: 2 Time: 4:07 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Brady Hiestand Rinya Nakamura 0 0 26 of 55 29 of 65 47% 44% 50 of 80 40 of 79 0 of 9 1 of 6 0% 16% 2 0 0 0 1:51 1:32 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Brady Hiestand Rinya Nakamura 0 0 21 of 48"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/5a5395d939bb3ff3",
+    "fighter_names": [
+      "Rodolfo Vieira",
+      "Robert Bryczek"
+    ],
+    "fighter_ids": [
+      "260e9e0d4954aea6",
+      "f96856f9d69fd7e4"
+    ],
+    "winner": "Rodolfo Vieira",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rodolfo Vieira",
+            "Robert Bryczek"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "24 of 43",
+            "37 of 76"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "48%"
+          ],
+          "Total str.": [
+            "91 of 128",
+            "47 of 86"
+          ],
+          "Td": [
+            "2 of 15",
+            "0 of 0"
+          ],
+          "Td %": [
+            "13%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "10:52",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rodolfo Vieira",
+        "Robert Bryczek"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 2 - 50% 0 of 2 - 0% RD2 11 of 19 - 57% 14 of 25 - 56% RD3 12 of 22 - 54% 23 of 49 - 46% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos W Rodolfo Vieira L Robert Bryczek Middleweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Adalaide Byrd 27 - 30. Sal D'amato 27 - 30. Chris Lee 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rodolfo Vieira Robert Bryczek 0 0 24 of 43 37 of 76 55% 48% 91 of 128 47 of 86 2 of 15 0 of 0 13% --- 0 0 0 0 10:52 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round "
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/30b73c201daa089c",
+    "fighter_names": [
+      "Rodolfo Bellato",
+      "Christian Edwards"
+    ],
+    "fighter_ids": [
+      "69898645d600abdb",
+      "f5d82eccdea4e2dd"
+    ],
+    "winner": "Christian Edwards",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "1:47",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rodolfo Bellato",
+            "Christian Edwards"
+          ],
+          "KD": [
+            "1",
+            "1"
+          ],
+          "Sig. str.": [
+            "30 of 57",
+            "59 of 94"
+          ],
+          "Sig. str. %": [
+            "52%",
+            "62%"
+          ],
+          "Total str.": [
+            "73 of 104",
+            "85 of 120"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 2"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:12",
+            "2:42"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rodolfo Bellato",
+        "Christian Edwards"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 16 - 62% 26 of 33 - 78% RD2 18 of 36 - 50% 26 of 48 - 54% RD3 2 of 5 - 40% 7 of 13 - 53% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos L Rodolfo Bellato \"Trator\" W Christian Edwards \"Pain\" Light Heavyweight Bout Method: KO/TKO Round: 3 Time: 1:47 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rodolfo Bellato Christian Edwards 1 1 30 of 57 59 of 94 52% 62% 73 of 104 85 of 120 0 of 0 0 of 2 --- 0% 0 0 0 0 4:12 2:42 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Rodolfo Bellato Christi"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/15d95453729f4c2c",
+    "fighter_names": [
+      "Elves Brener",
+      "Josiah Harrell"
+    ],
+    "fighter_ids": [
+      "48a9a128784d53d1",
+      "e5864a42c80294f6"
+    ],
+    "winner": "Elves Brener",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:14",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Elves Brener",
+            "Josiah Harrell"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "25 of 36",
+            "9 of 21"
+          ],
+          "Sig. str. %": [
+            "69%",
+            "42%"
+          ],
+          "Total str.": [
+            "28 of 39",
+            "9 of 21"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 3"
+          ],
+          "Td %": [
+            "---",
+            "66%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:05",
+            "0:33"
+          ]
+        }
+      ],
+      "fighters": [
+        "Elves Brener",
+        "Josiah Harrell"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 36 - 69% 9 of 21 - 42% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos W Elves Brener L Josiah Harrell \"The Muscle Hamster\" Lightweight Bout Method: KO/TKO Round: 1 Time: 4:14 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Elves Brener Josiah Harrell 1 0 25 of 36 9 of 21 69% 42% 28 of 39 9 of 21 0 of 0 2 of 3 --- 66% 0 0 0 0 0:05 0:33 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Elves Brener Josiah Harrell 1 0 25 of 36 "
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/9037b26e92e25357",
+    "fighter_names": [
+      "Montel Jackson",
+      "Ricky Simon"
+    ],
+    "fighter_ids": [
+      "cc1a8b4b38b92c6d",
+      "5987b2458f4b5290"
+    ],
+    "winner": "Montel Jackson",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "2:39",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Montel Jackson",
+            "Ricky Simon"
+          ],
+          "KD": [
+            "2",
+            "0"
+          ],
+          "Sig. str.": [
+            "31 of 56",
+            "13 of 43"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "30%"
+          ],
+          "Total str.": [
+            "33 of 59",
+            "14 of 44"
+          ],
+          "Td": [
+            "0 of 1",
+            "2 of 3"
+          ],
+          "Td %": [
+            "0%",
+            "66%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:13",
+            "1:42"
+          ]
+        }
+      ],
+      "fighters": [
+        "Montel Jackson",
+        "Ricky Simon"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 18 of 36 - 50% 11 of 25 - 44% RD2 13 of 20 - 65% 2 of 18 - 11% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos W Montel Jackson \"Quik\" L Ricky Simon Bantamweight Bout Method: KO/TKO Round: 2 Time: 2:39 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Montel Jackson Ricky Simon 2 0 31 of 56 13 of 43 55% 30% 33 of 59 14 of 44 0 of 1 2 of 3 0% 66% 1 0 0 0 0:13 1:42 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Montel Jackson Ricky Simon 1 0 18 of 36 11 of 25 50%"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/577011f3bbcf7f91",
+    "fighter_names": [
+      "John Castaneda",
+      "Alatengheili"
+    ],
+    "fighter_ids": [
+      "5fa2974cbd18e05c",
+      "1897b7b913736a7c"
+    ],
+    "winner": "Alatengheili",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "John Castaneda",
+            "Alatengheili"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "55 of 101",
+            "28 of 115"
+          ],
+          "Sig. str. %": [
+            "54%",
+            "24%"
+          ],
+          "Total str.": [
+            "59 of 105",
+            "63 of 151"
+          ],
+          "Td": [
+            "0 of 0",
+            "3 of 8"
+          ],
+          "Td %": [
+            "---",
+            "37%"
+          ],
+          "Sub. att": [
+            "2",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:25",
+            "4:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "John Castaneda",
+        "Alatengheili"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 23 of 34 - 67% 4 of 38 - 10% RD2 25 of 53 - 47% 20 of 64 - 31% RD3 7 of 14 - 50% 4 of 13 - 30% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos L John Castaneda \"Sexi Mexi\" W Alatengheili \"The Mongolian Knight\" Bantamweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Mike Bell 28 - 29. Chris Lee 29 - 28. Sal D'amato 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl John Castaneda Alatengheili 0 0 55 of 101 28 of 115 54% 24% 59 of 105 63 of 151 0 of 0 3 of 8 --- 37% 2 0 1 0 0:25 4:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % S"
+  },
+  {
+    "event_name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "event_url": "http://ufcstats.com/event-details/7e654edcddd71550",
+    "event_date": "September 26, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f34e58d365bb37b1",
+    "fighter_names": [
+      "Vanessa Demopoulos",
+      "Yazmin Jauregui"
+    ],
+    "fighter_ids": [
+      "2c483cf443f38ece",
+      "40cb680ae1cd331f"
+    ],
+    "winner": "Yazmin Jauregui",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:02",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Vanessa Demopoulos",
+            "Yazmin Jauregui"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "7 of 19",
+            "34 of 56"
+          ],
+          "Sig. str. %": [
+            "36%",
+            "60%"
+          ],
+          "Total str.": [
+            "7 of 19",
+            "34 of 56"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 1"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Vanessa Demopoulos",
+        "Yazmin Jauregui"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 19 - 36% 34 of 56 - 60% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos L Vanessa Demopoulos \"Lil Monster\" W Yazmin Jauregui Women's Strawweight Bout Method: KO/TKO Round: 1 Time: 1:02 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Punches to Head From Side Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Vanessa Demopoulos Yazmin Jauregui 0 0 7 of 19 34 of 56 36% 60% 7 of 19 34 of 56 0 of 0 1 of 1 --- 100% 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Vanessa Demopou"
   }
 ]
