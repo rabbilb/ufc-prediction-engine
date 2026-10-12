@@ -640561,5 +640561,1877 @@
     },
     "per_round_breakdown": "Per round RD1 7 of 19 - 36% 34 of 56 - 60% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Rosas Jr. vs. Barcelos L Vanessa Demopoulos \"Lil Monster\" W Yazmin Jauregui Women's Strawweight Bout Method: KO/TKO Round: 1 Time: 1:02 Time format: 3 Rnd (5-5-5) Referee: Blake Grice Details: Punches to Head From Side Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Vanessa Demopoulos Yazmin Jauregui 0 0 7 of 19 34 of 56 36% 60% 7 of 19 34 of 56 0 of 0 1 of 1 --- 100% 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Vanessa Demopou"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/7db1a3dac7e343e7",
+    "fighter_names": [
+      "Brendan Allen",
+      "Christian Leroy Duncan"
+    ],
+    "fighter_ids": [
+      "2f181c0467965b98",
+      "a93f94c923c3a9cb"
+    ],
+    "winner": "Brendan Allen",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "5",
+    "time": "2:46",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Brendan Allen",
+            "Christian Leroy Duncan"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "51 of 107",
+            "106 of 189"
+          ],
+          "Sig. str. %": [
+            "47%",
+            "56%"
+          ],
+          "Total str.": [
+            "91 of 150",
+            "126 of 212"
+          ],
+          "Td": [
+            "4 of 11",
+            "0 of 0"
+          ],
+          "Td %": [
+            "36%",
+            "---"
+          ],
+          "Sub. att": [
+            "2",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "1"
+          ],
+          "Ctrl": [
+            "8:39",
+            "3:51"
+          ]
+        }
+      ],
+      "fighters": [
+        "Brendan Allen",
+        "Christian Leroy Duncan"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 15 of 22 - 68% 24 of 39 - 61% RD2 10 of 24 - 41% 14 of 27 - 51% RD3 6 of 6 - 100% 6 of 6 - 100% RD4 17 of 43 - 39% 46 of 89 - 51% RD5 3 of 12 - 25% 16 of 28 - 57% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Brendan Allen \"All In\" L Christian Leroy Duncan \"CLD\" Middleweight Bout Method: Submission Round: 5 Time: 2:46 Time format: 5 Rnd (5-5-5-5-5) Referee: Marc Goddard Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Brendan Allen Christian Leroy Duncan 0 0 51 of 107 106 of 189 47% 56% 91 of 150 126 of 212 4 of 11 0 of 0 36% --- 2 0 1 1 8:39 3:51 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Brendan Allen Christian"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/295339c08c80a3cf",
+    "fighter_names": [
+      "Matheus Camilo",
+      "Jai Herbert"
+    ],
+    "fighter_ids": [
+      "72f890c5d421e705",
+      "4c88a1db5a46c6a4"
+    ],
+    "winner": "Jai Herbert",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Matheus Camilo",
+            "Jai Herbert"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "43 of 86",
+            "54 of 157"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "34%"
+          ],
+          "Total str.": [
+            "51 of 94",
+            "80 of 194"
+          ],
+          "Td": [
+            "2 of 4",
+            "0 of 1"
+          ],
+          "Td %": [
+            "50%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "2:41",
+            "2:55"
+          ]
+        }
+      ],
+      "fighters": [
+        "Matheus Camilo",
+        "Jai Herbert"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 13 of 33 - 39% 9 of 42 - 21% RD2 6 of 14 - 42% 8 of 37 - 21% RD3 24 of 39 - 61% 37 of 78 - 47% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan L Matheus Camilo \"Jaguar\" W Jai Herbert \"Black Country Banger\" Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Mike Bell 28 - 29. Eric Colon 28 - 29. Sal D'amato 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Matheus Camilo Jai Herbert 0 0 43 of 86 54 of 157 50% 34% 51 of 94 80 of 194 2 of 4 0 of 1 50% 0% 0 0 0 1 2:41 2:55 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. "
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/4f0f783503d5b5c4",
+    "fighter_names": [
+      "Loopy Godinez",
+      "Ketlen Souza"
+    ],
+    "fighter_ids": [
+      "8e5d953bdb9ae5e7",
+      "8bd4200561c77a62"
+    ],
+    "winner": "Loopy Godinez",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Loopy Godinez",
+            "Ketlen Souza"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "67 of 146",
+            "63 of 153"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "41%"
+          ],
+          "Total str.": [
+            "128 of 212",
+            "70 of 160"
+          ],
+          "Td": [
+            "2 of 13",
+            "0 of 0"
+          ],
+          "Td %": [
+            "15%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "3:39",
+            "0:29"
+          ]
+        }
+      ],
+      "fighters": [
+        "Loopy Godinez",
+        "Ketlen Souza"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 29 of 66 - 43% 24 of 64 - 37% RD2 27 of 59 - 45% 27 of 59 - 45% RD3 11 of 21 - 52% 12 of 30 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Loopy Godinez L Ketlen Souza \"Esquentadinha\" Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Eric Colon 28 - 29. Sal D'amato 28 - 29. Junichiro Kamijo 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Loopy Godinez Ketlen Souza 0 0 67 of 146 63 of 153 45% 41% 128 of 212 70 of 160 2 of 13 0 of 0 15% --- 0 0 0 0 3:39 0:29 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. at"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e8710a6236db464e",
+    "fighter_names": [
+      "Andre Fili",
+      "Kai Kamaka III"
+    ],
+    "fighter_ids": [
+      "8fd808923cffff82",
+      "eee0ef3e2b14816b"
+    ],
+    "winner": "Andre Fili",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "0:22",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Andre Fili",
+            "Kai Kamaka III"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "50 of 108",
+            "33 of 74"
+          ],
+          "Sig. str. %": [
+            "46%",
+            "44%"
+          ],
+          "Total str.": [
+            "50 of 108",
+            "34 of 75"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:02",
+            "0:08"
+          ]
+        }
+      ],
+      "fighters": [
+        "Andre Fili",
+        "Kai Kamaka III"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 43 of 91 - 47% 29 of 63 - 46% RD2 7 of 17 - 41% 4 of 11 - 36% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Andre Fili \"Touchy\" L Kai Kamaka III \"Da Fighting Hawaiian\" Featherweight Bout Method: KO/TKO Round: 2 Time: 0:22 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Kick to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Andre Fili Kai Kamaka III 1 0 50 of 108 33 of 74 46% 44% 50 of 108 34 of 75 0 of 0 0 of 0 --- --- 0 0 0 0 0:02 0:08 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Andre Fili Kai Kamaka III 0 0 4"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/c56bbc28d155f846",
+    "fighter_names": [
+      "Malcolm Wellmaker",
+      "Otari Tanzilovi"
+    ],
+    "fighter_ids": [
+      "2e45d08b3f2f02c8",
+      "b9124c308671e303"
+    ],
+    "winner": "Otari Tanzilovi",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "2:39",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Malcolm Wellmaker",
+            "Otari Tanzilovi"
+          ],
+          "KD": [
+            "1",
+            "1"
+          ],
+          "Sig. str.": [
+            "17 of 58",
+            "38 of 67"
+          ],
+          "Sig. str. %": [
+            "29%",
+            "56%"
+          ],
+          "Total str.": [
+            "45 of 89",
+            "44 of 73"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 4"
+          ],
+          "Td %": [
+            "---",
+            "50%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:33",
+            "0:51"
+          ]
+        }
+      ],
+      "fighters": [
+        "Malcolm Wellmaker",
+        "Otari Tanzilovi"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 9 of 30 - 30% 24 of 41 - 58% RD2 8 of 28 - 28% 14 of 26 - 53% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan L Malcolm Wellmaker \"The Machine\" W Otari Tanzilovi Bantamweight Bout Method: KO/TKO Round: 2 Time: 2:39 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Kick to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Malcolm Wellmaker Otari Tanzilovi 1 1 17 of 58 38 of 67 29% 56% 45 of 89 44 of 73 0 of 0 2 of 4 --- 50% 0 0 0 0 0:33 0:51 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Malcolm Wellmaker Otari Tanzilovi 1 0"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/eda03e3ddf74d1cd",
+    "fighter_names": [
+      "Julius Walker",
+      "Gerald Meerschaert"
+    ],
+    "fighter_ids": [
+      "6add18754930182b",
+      "6ac9bc2953c47345"
+    ],
+    "winner": "Julius Walker",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "3:35",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Julius Walker",
+            "Gerald Meerschaert"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "38 of 50",
+            "9 of 14"
+          ],
+          "Sig. str. %": [
+            "76%",
+            "64%"
+          ],
+          "Total str.": [
+            "83 of 100",
+            "26 of 34"
+          ],
+          "Td": [
+            "3 of 3",
+            "0 of 1"
+          ],
+          "Td %": [
+            "100%",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "6:45",
+            "0:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Julius Walker",
+        "Gerald Meerschaert"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 27 of 37 - 72% 7 of 12 - 58% RD2 11 of 13 - 84% 2 of 2 - 100% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Julius Walker \"Juice Box\" L Gerald Meerschaert \"GM3\" Light Heavyweight Bout Method: KO/TKO Round: 2 Time: 3:35 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punches to Head From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Julius Walker Gerald Meerschaert 0 0 38 of 50 9 of 14 76% 64% 83 of 100 26 of 34 3 of 3 0 of 1 100% 0% 1 0 0 0 6:45 0:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Julius Walker Gerald Meers"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/254ace2091125fc6",
+    "fighter_names": [
+      "Francisco Prado",
+      "Ismael Bonfim"
+    ],
+    "fighter_ids": [
+      "3920d0cc288f9b0d",
+      "eb393afdbe3293d5"
+    ],
+    "winner": "Francisco Prado",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:23",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Francisco Prado",
+            "Ismael Bonfim"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "25 of 51",
+            "13 of 26"
+          ],
+          "Sig. str. %": [
+            "49%",
+            "50%"
+          ],
+          "Total str.": [
+            "34 of 61",
+            "13 of 26"
+          ],
+          "Td": [
+            "2 of 2",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:16",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Francisco Prado",
+        "Ismael Bonfim"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 51 - 49% 13 of 26 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Francisco Prado L Ismael Bonfim \"Marreta\" Lightweight Bout Method: KO/TKO Round: 1 Time: 4:23 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Francisco Prado Ismael Bonfim 0 0 25 of 51 13 of 26 49% 50% 34 of 61 13 of 26 2 of 2 0 of 0 100% --- 0 0 0 0 2:16 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Francisco Prado Ismael Bonfim 0 0 25 of 51 13 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e5496bb07c76d010",
+    "fighter_names": [
+      "Niko Price",
+      "Leon Shahbazyan"
+    ],
+    "fighter_ids": [
+      "d8da10db80131bec",
+      "9eed2bcc9e0b92af"
+    ],
+    "winner": "Niko Price",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:58",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Niko Price",
+            "Leon Shahbazyan"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "41 of 59",
+            "0 of 1"
+          ],
+          "Sig. str. %": [
+            "69%",
+            "0%"
+          ],
+          "Total str.": [
+            "58 of 78",
+            "0 of 1"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 2"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:45",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Niko Price",
+        "Leon Shahbazyan"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 41 of 59 - 69% 0 of 1 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Niko Price \"The Hybrid\" L Leon Shahbazyan \"S.O.G.\" Welterweight Bout Method: KO/TKO Round: 1 Time: 1:58 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Punches to Head From Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Niko Price Leon Shahbazyan 0 0 41 of 59 0 of 1 69% 0% 58 of 78 0 of 1 0 of 0 0 of 2 --- 0% 0 0 0 0 1:45 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Niko Price Leon Shahbazyan 0 0 41 of 59 0 of 1"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ab17995c72396061",
+    "fighter_names": [
+      "Felipe Franco",
+      "Brendson Ribeiro"
+    ],
+    "fighter_ids": [
+      "e564146b9cf6dbef",
+      "49edd0d90f60fb7d"
+    ],
+    "winner": "Brendson Ribeiro",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "1:49",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Felipe Franco",
+            "Brendson Ribeiro"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "1 of 5",
+            "6 of 11"
+          ],
+          "Sig. str. %": [
+            "20%",
+            "54%"
+          ],
+          "Total str.": [
+            "1 of 5",
+            "6 of 11"
+          ],
+          "Td": [
+            "1 of 2",
+            "0 of 0"
+          ],
+          "Td %": [
+            "50%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "0:03",
+            "0:12"
+          ]
+        }
+      ],
+      "fighters": [
+        "Felipe Franco",
+        "Brendson Ribeiro"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 5 - 20% 6 of 11 - 54% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan L Felipe Franco W Brendson Ribeiro \"The Gorilla\" Light Heavyweight Bout Method: Submission Round: 1 Time: 1:49 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Guillotine Choke From Bottom Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Felipe Franco Brendson Ribeiro 0 0 1 of 5 6 of 11 20% 54% 1 of 5 6 of 11 1 of 2 0 of 0 50% --- 0 1 0 1 0:03 0:12 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Felipe Franco Brendson Ribeiro"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e997bc8caf59cf03",
+    "fighter_names": [
+      "Allen Frye Jr.",
+      "RJ Harris"
+    ],
+    "fighter_ids": [
+      "73a78713bd899f4c",
+      "e03187ec8b5b6abc"
+    ],
+    "winner": "Allen Frye Jr.",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:59",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Allen Frye Jr.",
+            "RJ Harris"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "40 of 55",
+            "20 of 56"
+          ],
+          "Sig. str. %": [
+            "72%",
+            "35%"
+          ],
+          "Total str.": [
+            "40 of 57",
+            "20 of 56"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:05",
+            "0:01"
+          ]
+        }
+      ],
+      "fighters": [
+        "Allen Frye Jr.",
+        "RJ Harris"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 40 of 55 - 72% 20 of 56 - 35% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Allen Frye Jr. \"AJ\" L RJ Harris \"The Hammer\" Heavyweight Bout Method: KO/TKO Round: 1 Time: 2:59 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Allen Frye Jr. RJ Harris 1 0 40 of 55 20 of 56 72% 35% 40 of 57 20 of 56 0 of 0 0 of 0 --- --- 0 0 0 0 0:05 0:01 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Allen Frye Jr. RJ Harris 1 0 40 of 55 20 of 56 72% 3"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/335b3ce2b5c0a3cd",
+    "fighter_names": [
+      "Alice Pereira",
+      "Daria Zhelezniakova"
+    ],
+    "fighter_ids": [
+      "81d2c551886bd5a1",
+      "07047eb7d17fb0a2"
+    ],
+    "winner": "Alice Pereira",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "5:00",
+    "weight_class": "Women's Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Alice Pereira",
+            "Daria Zhelezniakova"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "20 of 32",
+            "6 of 10"
+          ],
+          "Sig. str. %": [
+            "62%",
+            "60%"
+          ],
+          "Total str.": [
+            "33 of 48",
+            "7 of 11"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:05",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Alice Pereira",
+        "Daria Zhelezniakova"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 20 of 32 - 62% 6 of 10 - 60% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan W Alice Pereira \"Golden Girl\" L Daria Zhelezniakova \"Iron Lady\" Women's Bantamweight Bout Method: KO/TKO Round: 1 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: to Zhelezniakova cut Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Alice Pereira Daria Zhelezniakova 0 0 20 of 32 6 of 10 62% 60% 33 of 48 7 of 11 1 of 1 0 of 0 100% --- 0 0 0 0 4:05 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Alice Pereira Daria Zh"
+  },
+  {
+    "event_name": "UFC Fight Night: Allen vs. Duncan",
+    "event_url": "http://ufcstats.com/event-details/7f98d9d5a10fa25c",
+    "event_date": "October 10, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e556bdf83f767d4b",
+    "fighter_names": [
+      "Ernesta Kareckaite",
+      "Melissa Gatto"
+    ],
+    "fighter_ids": [
+      "e4faa79383c9f214",
+      "a4a80dd7336ffd59"
+    ],
+    "winner": "",
+    "result_raw": "draw draw",
+    "method": "Decision - Majority",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ernesta Kareckaite",
+            "Melissa Gatto"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "48 of 121",
+            "41 of 79"
+          ],
+          "Sig. str. %": [
+            "39%",
+            "51%"
+          ],
+          "Total str.": [
+            "104 of 180",
+            "74 of 115"
+          ],
+          "Td": [
+            "0 of 1",
+            "1 of 11"
+          ],
+          "Td %": [
+            "0%",
+            "9%"
+          ],
+          "Sub. att": [
+            "0",
+            "2"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:10",
+            "5:55"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ernesta Kareckaite",
+        "Melissa Gatto"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 16 - 43% 10 of 17 - 58% RD2 30 of 84 - 35% 27 of 52 - 51% RD3 11 of 21 - 52% 4 of 10 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Allen vs. Duncan D Ernesta Kareckaite \"Heavy-Handed\" D Melissa Gatto Women's Flyweight Bout Method: Decision - Majority Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Mike Bell 28 - 28. Sal D'amato 28 - 28. Junichiro Kamijo 27 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ernesta Kareckaite Melissa Gatto 0 0 48 of 121 41 of 79 39% 51% 104 of 180 74 of 115 0 of 1 1 of 11 0% 9% 0 2 0 0 4:10 5:55 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Su"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/3f804eec9183e597",
+    "fighter_names": [
+      "Natalia Silva",
+      "Wang Cong"
+    ],
+    "fighter_ids": [
+      "262d32ebda89efc4",
+      "2997e7fe3c9d3d4a"
+    ],
+    "winner": "Natalia Silva",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "5",
+    "time": "5:00",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Natalia Silva",
+            "Wang Cong"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "109 of 216",
+            "98 of 206"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "47%"
+          ],
+          "Total str.": [
+            "133 of 240",
+            "147 of 259"
+          ],
+          "Td": [
+            "3 of 5",
+            "0 of 0"
+          ],
+          "Td %": [
+            "60%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:12",
+            "2:39"
+          ]
+        }
+      ],
+      "fighters": [
+        "Natalia Silva",
+        "Wang Cong"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 16 of 40 - 40% 9 of 22 - 40% RD2 13 of 29 - 44% 12 of 30 - 40% RD3 23 of 49 - 46% 18 of 39 - 46% RD4 24 of 46 - 52% 26 of 48 - 54% RD5 33 of 52 - 63% 33 of 67 - 49% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Natalia Silva L Wang Cong \"The Joker\" UFC Women's Flyweight Title Bout Method: Decision - Unanimous Round: 5 Time: 5:00 Time format: 5 Rnd (5-5-5-5-5) Referee: Marc Goddard Details: Sal D'amato 47 - 48. Mike Bell 47 - 48. Derek Cleary 46 - 49. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Natalia Silva Wang Cong 1 0 109 of 216 98 of 206 50% 47% 133 of 240 147 of 259 3 of 5 0 of 0 60% --- 0 0 0 0 4:12 2:39 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl "
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/514366f770553cc9",
+    "fighter_names": [
+      "Deiveson Figueiredo",
+      "Payton Talbott"
+    ],
+    "fighter_ids": [
+      "aa72b0f831d0bfe5",
+      "6e743a33d56bdaa4"
+    ],
+    "winner": "Payton Talbott",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:09",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Deiveson Figueiredo",
+            "Payton Talbott"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "5 of 6",
+            "25 of 44"
+          ],
+          "Sig. str. %": [
+            "83%",
+            "56%"
+          ],
+          "Total str.": [
+            "5 of 6",
+            "27 of 46"
+          ],
+          "Td": [
+            "0 of 2",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:22",
+            "0:12"
+          ]
+        }
+      ],
+      "fighters": [
+        "Deiveson Figueiredo",
+        "Payton Talbott"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 5 of 6 - 83% 25 of 44 - 56% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang L Deiveson Figueiredo \"Deus da Guerra\" W Payton Talbott Bantamweight Bout Method: KO/TKO Round: 1 Time: 2:09 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Deiveson Figueiredo Payton Talbott 0 2 5 of 6 25 of 44 83% 56% 5 of 6 27 of 46 0 of 2 0 of 0 0% --- 0 0 0 0 0:22 0:12 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Deiveson Figueiredo Payton Talbott 0 2 5 of 6 "
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/c93d7f60674df307",
+    "fighter_names": [
+      "King Green",
+      "Esteban Ribovics"
+    ],
+    "fighter_ids": [
+      "887961364be5ceb3",
+      "323d4ca260dfa0ba"
+    ],
+    "winner": "Esteban Ribovics",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:08",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "King Green",
+            "Esteban Ribovics"
+          ],
+          "KD": [
+            "0",
+            "3"
+          ],
+          "Sig. str.": [
+            "27 of 49",
+            "35 of 71"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "49%"
+          ],
+          "Total str.": [
+            "29 of 51",
+            "41 of 79"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:04",
+            "0:31"
+          ]
+        }
+      ],
+      "fighters": [
+        "King Green",
+        "Esteban Ribovics"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 27 of 49 - 55% 35 of 71 - 49% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang L King Green W Esteban Ribovics \"El Gringo\" Lightweight Bout Method: KO/TKO Round: 1 Time: 4:08 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl King Green Esteban Ribovics 0 3 27 of 49 35 of 71 55% 49% 29 of 51 41 of 79 0 of 1 0 of 0 0% --- 0 0 0 0 0:04 0:31 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 King Green Esteban Ribovics 0 3 27 of 49 35 of 71 55% 49% 29 of 5"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a7c8722ad85eee5f",
+    "fighter_names": [
+      "Roberto Soldic",
+      "Khaos Williams"
+    ],
+    "fighter_ids": [
+      "5a229cbd9cdd28ca",
+      "2558ae2e5671e318"
+    ],
+    "winner": "Roberto Soldic",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Roberto Soldic",
+            "Khaos Williams"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "94 of 162",
+            "27 of 106"
+          ],
+          "Sig. str. %": [
+            "58%",
+            "25%"
+          ],
+          "Total str.": [
+            "138 of 213",
+            "27 of 106"
+          ],
+          "Td": [
+            "3 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:32",
+            "0:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Roberto Soldic",
+        "Khaos Williams"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 15 of 32 - 46% 16 of 41 - 39% RD2 43 of 74 - 58% 6 of 37 - 16% RD3 36 of 56 - 64% 5 of 28 - 17% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Roberto Soldic \"Robocop\" L Khaos Williams \"The OxFighter\" Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Dan Furse 28 - 29. Derek Cleary 27 - 29. Chris Lee 27 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Roberto Soldic Khaos Williams 0 0 94 of 162 27 of 106 58% 25% 138 of 213 27 of 106 3 of 3 0 of 0 100% --- 0 0 0 0 4:32 0:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. C"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ec45db01699c4b05",
+    "fighter_names": [
+      "Ateba Gautier",
+      "Roman Kopylov"
+    ],
+    "fighter_ids": [
+      "2f815ed5f8278ba6",
+      "9d83f6da776ff7d6"
+    ],
+    "winner": "Roman Kopylov",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:12",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ateba Gautier",
+            "Roman Kopylov"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "7 of 30",
+            "19 of 23"
+          ],
+          "Sig. str. %": [
+            "23%",
+            "82%"
+          ],
+          "Total str.": [
+            "7 of 30",
+            "19 of 23"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:05"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ateba Gautier",
+        "Roman Kopylov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 30 - 23% 19 of 23 - 82% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang L Ateba Gautier \"The Storm\" W Roman Kopylov Middleweight Bout Method: KO/TKO Round: 1 Time: 3:12 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ateba Gautier Roman Kopylov 0 1 7 of 30 19 of 23 23% 82% 7 of 30 19 of 23 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:05 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Ateba Gautier Roman Kopylov 0 1 7 of 30 19 of 23 23% 82% 7 of "
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/54bbe6d1eb248128",
+    "fighter_names": [
+      "Imanol Rodriguez",
+      "Alden Coria"
+    ],
+    "fighter_ids": [
+      "6e8349a0a0476d60",
+      "5e9ca8dd7d783a75"
+    ],
+    "winner": "Imanol Rodriguez",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:11",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Imanol Rodriguez",
+            "Alden Coria"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "20 of 46",
+            "4 of 17"
+          ],
+          "Sig. str. %": [
+            "43%",
+            "23%"
+          ],
+          "Total str.": [
+            "20 of 46",
+            "4 of 17"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:06",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Imanol Rodriguez",
+        "Alden Coria"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 20 of 46 - 43% 4 of 17 - 23% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Imanol Rodriguez \"Himan\" L Alden Coria \"Cobra\" Flyweight Bout Method: KO/TKO Round: 1 Time: 3:11 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Kick to Body At Distance Front kick Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Imanol Rodriguez Alden Coria 1 0 20 of 46 4 of 17 43% 23% 20 of 46 4 of 17 1 of 1 0 of 0 100% --- 0 0 0 0 0:06 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Imanol Rodriguez Alden Coria 1 0 20 of 46 4 of 1"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/31b85cd63fb291ed",
+    "fighter_names": [
+      "Damian Pinas",
+      "Andrey Pulyaev"
+    ],
+    "fighter_ids": [
+      "fdd22e895a70e4a8",
+      "22e07d3da1aa3475"
+    ],
+    "winner": "Damian Pinas",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:15",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Damian Pinas",
+            "Andrey Pulyaev"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "5 of 7",
+            "4 of 11"
+          ],
+          "Sig. str. %": [
+            "71%",
+            "36%"
+          ],
+          "Total str.": [
+            "5 of 7",
+            "4 of 11"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:03",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Damian Pinas",
+        "Andrey Pulyaev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 5 of 7 - 71% 4 of 11 - 36% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Damian Pinas \"The Baba Yaga\" L Andrey Pulyaev Middleweight Bout Method: KO/TKO Round: 1 Time: 1:15 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Damian Pinas Andrey Pulyaev 1 0 5 of 7 4 of 11 71% 36% 5 of 7 4 of 11 0 of 0 0 of 0 --- --- 0 0 0 0 0:03 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Damian Pinas Andrey Pulyaev 1 0 5 of 7 4 of 11 71% 36% 5 of 7 4 o"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/041f9b7dd3542fa6",
+    "fighter_names": [
+      "Marcus McGhee",
+      "Anthony Romero"
+    ],
+    "fighter_ids": [
+      "c0ac37a4a1133da9",
+      "4419acb81e6f0ea4"
+    ],
+    "winner": "Marcus McGhee",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:58",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Marcus McGhee",
+            "Anthony Romero"
+          ],
+          "KD": [
+            "2",
+            "0"
+          ],
+          "Sig. str.": [
+            "34 of 75",
+            "13 of 37"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "35%"
+          ],
+          "Total str.": [
+            "35 of 76",
+            "13 of 37"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 1"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:01",
+            "0:04"
+          ]
+        }
+      ],
+      "fighters": [
+        "Marcus McGhee",
+        "Anthony Romero"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 34 of 75 - 45% 13 of 37 - 35% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Marcus McGhee \"The Maniac\" L Anthony Romero \"The Bully\" Featherweight Bout Method: KO/TKO Round: 1 Time: 4:58 Time format: 3 Rnd (5-5-5) Referee: Tyler Tomlinson Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Marcus McGhee Anthony Romero 2 0 34 of 75 13 of 37 45% 35% 35 of 76 13 of 37 0 of 0 1 of 1 --- 100% 0 0 0 0 1:01 0:04 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Marcus McGhee Anthony Romero 2 0 34 of 7"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/bd673bf80b95d350",
+    "fighter_names": [
+      "Anthony Wint",
+      "Lucas Armand"
+    ],
+    "fighter_ids": [
+      "b34976c022b24568",
+      "20e04625a5395a06"
+    ],
+    "winner": "Anthony Wint",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "0:23",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Anthony Wint",
+            "Lucas Armand"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "12 of 18",
+            "1 of 5"
+          ],
+          "Sig. str. %": [
+            "66%",
+            "20%"
+          ],
+          "Total str.": [
+            "12 of 18",
+            "1 of 5"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:05",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Anthony Wint",
+        "Lucas Armand"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 12 of 18 - 66% 1 of 5 - 20% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Anthony Wint \"Bow Down\" L Lucas Armand \"Do or Die\" Heavyweight Bout Method: KO/TKO Round: 1 Time: 0:23 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punches to Head In Clinch Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Anthony Wint Lucas Armand 1 0 12 of 18 1 of 5 66% 20% 12 of 18 1 of 5 0 of 1 0 of 0 0% --- 0 0 0 0 0:05 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Anthony Wint Lucas Armand 1 0 12 of 18 1 of 5 66% 20% 12 of"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e92092a37dc1cfc8",
+    "fighter_names": [
+      "Johnny Walker",
+      "Mick Parkin"
+    ],
+    "fighter_ids": [
+      "c21f26bbde777573",
+      "0d5cc0170c1a7e71"
+    ],
+    "winner": "Johnny Walker",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:35",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Johnny Walker",
+            "Mick Parkin"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "23 of 32",
+            "11 of 16"
+          ],
+          "Sig. str. %": [
+            "71%",
+            "68%"
+          ],
+          "Total str.": [
+            "23 of 32",
+            "14 of 19"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:27",
+            "0:31"
+          ]
+        }
+      ],
+      "fighters": [
+        "Johnny Walker",
+        "Mick Parkin"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 23 of 32 - 71% 11 of 16 - 68% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Johnny Walker L Mick Parkin Heavyweight Bout Method: KO/TKO Round: 1 Time: 3:35 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Knee to Head In Clinch Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Johnny Walker Mick Parkin 1 0 23 of 32 11 of 16 71% 68% 23 of 32 14 of 19 0 of 0 0 of 0 --- --- 0 0 0 0 0:27 0:31 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Johnny Walker Mick Parkin 1 0 23 of 32 11 of 16 71% 68% 23 of 32 14 of 19 0 of 0 0 "
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/bc35fb29afba68b9",
+    "fighter_names": [
+      "Jacobe Smith",
+      "Bruce Whitehead"
+    ],
+    "fighter_ids": [
+      "85497ffd934ecf7e",
+      "6c39d016053601ee"
+    ],
+    "winner": "Jacobe Smith",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:32",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jacobe Smith",
+            "Bruce Whitehead"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "11 of 17",
+            "4 of 13"
+          ],
+          "Sig. str. %": [
+            "64%",
+            "30%"
+          ],
+          "Total str.": [
+            "19 of 27",
+            "15 of 24"
+          ],
+          "Td": [
+            "1 of 2",
+            "0 of 0"
+          ],
+          "Td %": [
+            "50%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:29",
+            "0:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jacobe Smith",
+        "Bruce Whitehead"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 17 - 64% 4 of 13 - 30% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang W Jacobe Smith \"Cobe\" L Bruce Whitehead \"The Goose\" Welterweight Bout Method: KO/TKO Round: 1 Time: 1:32 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jacobe Smith Bruce Whitehead 0 0 11 of 17 4 of 13 64% 30% 19 of 27 15 of 24 1 of 2 0 of 0 50% --- 0 0 0 0 0:29 0:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jacobe Smith Bruce Whitehead 0 0 11 of 17 4 of 13 64"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d0d2339f56681707",
+    "fighter_names": [
+      "Rafael Dos Anjos",
+      "Alexander Hernandez"
+    ],
+    "fighter_ids": [
+      "6a2f7c151031653d",
+      "262a7d06203657e6"
+    ],
+    "winner": "Alexander Hernandez",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "3:12",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rafael Dos Anjos",
+            "Alexander Hernandez"
+          ],
+          "KD": [
+            "0",
+            "2"
+          ],
+          "Sig. str.": [
+            "26 of 59",
+            "36 of 86"
+          ],
+          "Sig. str. %": [
+            "44%",
+            "41%"
+          ],
+          "Total str.": [
+            "32 of 65",
+            "47 of 97"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "2:44"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rafael Dos Anjos",
+        "Alexander Hernandez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 50 - 50% 22 of 52 - 42% RD2 1 of 9 - 11% 14 of 34 - 41% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang L Rafael Dos Anjos W Alexander Hernandez \"El Gran Chango\" Lightweight Bout Method: KO/TKO Round: 2 Time: 3:12 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rafael Dos Anjos Alexander Hernandez 0 2 26 of 59 36 of 86 44% 41% 32 of 65 47 of 97 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 2:44 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Rafael Dos Anjos Alexander Hernandez 0"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/bf93e735845cb960",
+    "fighter_names": [
+      "Marvin Vettori",
+      "Ismail Naurdiev"
+    ],
+    "fighter_ids": [
+      "7acbb0972e75281a",
+      "6a96ad1bc34fb113"
+    ],
+    "winner": "Ismail Naurdiev",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Marvin Vettori",
+            "Ismail Naurdiev"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "76 of 201",
+            "74 of 190"
+          ],
+          "Sig. str. %": [
+            "37%",
+            "38%"
+          ],
+          "Total str.": [
+            "77 of 202",
+            "74 of 190"
+          ],
+          "Td": [
+            "0 of 2",
+            "3 of 7"
+          ],
+          "Td %": [
+            "0%",
+            "42%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:13",
+            "1:10"
+          ]
+        }
+      ],
+      "fighters": [
+        "Marvin Vettori",
+        "Ismail Naurdiev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 18 of 64 - 28% 28 of 59 - 47% RD2 29 of 69 - 42% 26 of 65 - 40% RD3 29 of 68 - 42% 20 of 66 - 30% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang L Marvin Vettori \"The Italian Dream\" W Ismail Naurdiev \"Berzdog\" Middleweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Tyler Tomlinson Details: Derek Cleary 28 - 29. Stephen Faragher 28 - 29. Dan Furse 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Marvin Vettori Ismail Naurdiev 0 0 76 of 201 74 of 190 37% 38% 77 of 202 74 of 190 0 of 2 3 of 7 0% 42% 0 1 0 0 0:13 1:10 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Su"
+  },
+  {
+    "event_name": "UFC 332: Silva vs. Wang",
+    "event_url": "http://ufcstats.com/event-details/ad3fdba28a7540cf",
+    "event_date": "October 03, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e87db876810cbc3c",
+    "fighter_names": [
+      "Court McGee",
+      "Eric Nolan"
+    ],
+    "fighter_ids": [
+      "523fa774700d7d3f",
+      "64b12fe31be7560c"
+    ],
+    "winner": "Eric Nolan",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "3:26",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Court McGee",
+            "Eric Nolan"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "98 of 273",
+            "121 of 246"
+          ],
+          "Sig. str. %": [
+            "35%",
+            "49%"
+          ],
+          "Total str.": [
+            "127 of 304",
+            "125 of 250"
+          ],
+          "Td": [
+            "0 of 7",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:42",
+            "0:21"
+          ]
+        }
+      ],
+      "fighters": [
+        "Court McGee",
+        "Eric Nolan"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 22 of 76 - 28% 23 of 59 - 38% RD2 52 of 120 - 43% 46 of 102 - 45% RD3 24 of 77 - 31% 52 of 85 - 61% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang L Court McGee \"The Crusher\" W Eric Nolan \"Night Time\" Welterweight Bout Method: KO/TKO Round: 3 Time: 3:26 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Court McGee Eric Nolan 0 1 98 of 273 121 of 246 35% 49% 127 of 304 125 of 250 0 of 7 0 of 0 0% --- 0 0 0 0 1:42 0:21 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Court McGee Eric Nolan 0 0 22 of 76 23 of 59 28% "
   }
 ]
