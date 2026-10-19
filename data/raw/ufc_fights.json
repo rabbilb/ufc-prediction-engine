@@ -642433,5 +642433,941 @@
     },
     "per_round_breakdown": "Per round RD1 22 of 76 - 28% 23 of 59 - 38% RD2 52 of 120 - 43% 46 of 102 - 45% RD3 24 of 77 - 31% 52 of 85 - 61% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 332: Silva vs. Wang L Court McGee \"The Crusher\" W Eric Nolan \"Night Time\" Welterweight Bout Method: KO/TKO Round: 3 Time: 3:26 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Court McGee Eric Nolan 0 1 98 of 273 121 of 246 35% 49% 127 of 304 125 of 250 0 of 7 0 of 0 0% --- 0 0 0 0 1:42 0:21 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Court McGee Eric Nolan 0 0 22 of 76 23 of 59 28% "
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/c20c949ceba035f3",
+    "fighter_names": [
+      "Joaquin Buckley",
+      "Mike Malott"
+    ],
+    "fighter_ids": [
+      "b9437600497350f3",
+      "dd6103dd7127db1d"
+    ],
+    "winner": "Mike Malott",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "2:32",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Joaquin Buckley",
+            "Mike Malott"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "14 of 53",
+            "37 of 50"
+          ],
+          "Sig. str. %": [
+            "26%",
+            "74%"
+          ],
+          "Total str.": [
+            "20 of 59",
+            "38 of 51"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:08",
+            "1:25"
+          ]
+        }
+      ],
+      "fighters": [
+        "Joaquin Buckley",
+        "Mike Malott"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 9 of 37 - 24% 15 of 25 - 60% RD2 5 of 16 - 31% 22 of 25 - 88% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Joaquin Buckley \"New Mansa\" W Mike Malott \"Proper\" Welterweight Bout Method: KO/TKO Round: 2 Time: 2:32 Time format: 5 Rnd (5-5-5-5-5) Referee: Marc Goddard Details: Knee to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Joaquin Buckley Mike Malott 0 1 14 of 53 37 of 50 26% 74% 20 of 59 38 of 51 0 of 0 0 of 0 --- --- 0 0 0 0 0:08 1:25 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Joaquin Buckley Mike Malott 0 0 9 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/16f8c3c83d56a25a",
+    "fighter_names": [
+      "Erin Blanchfield",
+      "Jasmine Jasudavicius"
+    ],
+    "fighter_ids": [
+      "669970f7feba8ecd",
+      "a9e260472d321361"
+    ],
+    "winner": "Jasmine Jasudavicius",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Erin Blanchfield",
+            "Jasmine Jasudavicius"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "62 of 134",
+            "43 of 138"
+          ],
+          "Sig. str. %": [
+            "46%",
+            "31%"
+          ],
+          "Total str.": [
+            "66 of 141",
+            "74 of 180"
+          ],
+          "Td": [
+            "1 of 2",
+            "5 of 13"
+          ],
+          "Td %": [
+            "50%",
+            "38%"
+          ],
+          "Sub. att": [
+            "0",
+            "3"
+          ],
+          "Rev.": [
+            "1",
+            "1"
+          ],
+          "Ctrl": [
+            "0:14",
+            "7:59"
+          ]
+        }
+      ],
+      "fighters": [
+        "Erin Blanchfield",
+        "Jasmine Jasudavicius"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 25 - 40% 9 of 26 - 34% RD2 10 of 24 - 41% 12 of 29 - 41% RD3 42 of 85 - 49% 22 of 83 - 26% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Erin Blanchfield \"Cold Blooded\" W Jasmine Jasudavicius Women's Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jerin Valel Details: Eric Colon 28 - 29. Thomas Collins 28 - 29. Junichiro Kamijo 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Erin Blanchfield Jasmine Jasudavicius 0 0 62 of 134 43 of 138 46% 31% 66 of 141 74 of 180 1 of 2 5 of 13 50% 38% 0 3 1 1 0:14 7:59 Per round Fighter KD Sig. str. Sig. str. % Total "
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/3f8c17d553845f70",
+    "fighter_names": [
+      "Kyle Nelson",
+      "Cristian Perez"
+    ],
+    "fighter_ids": [
+      "31f8081c7600da93",
+      "d84033157714ee94"
+    ],
+    "winner": "Cristian Perez",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "0:27",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Kyle Nelson",
+            "Cristian Perez"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "5 of 7",
+            "10 of 21"
+          ],
+          "Sig. str. %": [
+            "71%",
+            "47%"
+          ],
+          "Total str.": [
+            "5 of 7",
+            "10 of 21"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:04"
+          ]
+        }
+      ],
+      "fighters": [
+        "Kyle Nelson",
+        "Cristian Perez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 5 of 7 - 71% 10 of 21 - 47% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Kyle Nelson \"The Monster\" W Cristian Perez \"Puas\" Lightweight Bout Method: KO/TKO Round: 1 Time: 0:27 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Kyle Nelson Cristian Perez 0 1 5 of 7 10 of 21 71% 47% 5 of 7 10 of 21 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:04 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Kyle Nelson Cristian Perez 0 1 5 of 7 10 of "
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/250651ba9f60e12f",
+    "fighter_names": [
+      "Marc-Andre Barriault",
+      "Kyle Daukaus"
+    ],
+    "fighter_ids": [
+      "8e9eb3fc86db0f7d",
+      "d6c0cdd7e467c440"
+    ],
+    "winner": "Marc-Andre Barriault",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:28",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Marc-Andre Barriault",
+            "Kyle Daukaus"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "32 of 46",
+            "5 of 11"
+          ],
+          "Sig. str. %": [
+            "69%",
+            "45%"
+          ],
+          "Total str.": [
+            "43 of 60",
+            "14 of 23"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 3"
+          ],
+          "Td %": [
+            "---",
+            "33%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:28",
+            "3:15"
+          ]
+        }
+      ],
+      "fighters": [
+        "Marc-Andre Barriault",
+        "Kyle Daukaus"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 32 of 46 - 69% 5 of 11 - 45% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott W Marc-Andre Barriault \"Powerbar\" L Kyle Daukaus Middleweight Bout Method: KO/TKO Round: 1 Time: 4:28 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Elbows to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Marc-Andre Barriault Kyle Daukaus 1 0 32 of 46 5 of 11 69% 45% 43 of 60 14 of 23 0 of 0 1 of 3 --- 33% 0 0 0 0 0:28 3:15 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Marc-Andre Barriault Kyle Daukaus 1 0 3"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/5192be72d199804c",
+    "fighter_names": [
+      "Louis Jourdain",
+      "Timmy Cuamba"
+    ],
+    "fighter_ids": [
+      "91cd52cb92dfdd52",
+      "0e46690e55a8df75"
+    ],
+    "winner": "Timmy Cuamba",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "2",
+    "time": "2:48",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Louis Jourdain",
+            "Timmy Cuamba"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "9 of 36",
+            "22 of 50"
+          ],
+          "Sig. str. %": [
+            "25%",
+            "44%"
+          ],
+          "Total str.": [
+            "21 of 49",
+            "44 of 80"
+          ],
+          "Td": [
+            "0 of 1",
+            "4 of 4"
+          ],
+          "Td %": [
+            "0%",
+            "100%"
+          ],
+          "Sub. att": [
+            "1",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "4:47"
+          ]
+        }
+      ],
+      "fighters": [
+        "Louis Jourdain",
+        "Timmy Cuamba"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 21 - 14% 9 of 26 - 34% RD2 6 of 15 - 40% 13 of 24 - 54% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Louis Jourdain \"The Mad Prince\" W Timmy Cuamba \"Twilight\" Bantamweight Bout Method: Submission Round: 2 Time: 2:48 Time format: 3 Rnd (5-5-5) Referee: Andy Social Details: Neck Crank From Back Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Louis Jourdain Timmy Cuamba 0 0 9 of 36 22 of 50 25% 44% 21 of 49 44 of 80 0 of 1 4 of 4 0% 100% 1 1 0 0 0:00 4:47 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Louis Jourdain Timmy Cuamba"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/49707683a6ebf34c",
+    "fighter_names": [
+      "Mandel Nallo",
+      "Nate Landwehr"
+    ],
+    "fighter_ids": [
+      "8f4528c10bd34fab",
+      "583ee11abddfc581"
+    ],
+    "winner": "Mandel Nallo",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "0:47",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mandel Nallo",
+            "Nate Landwehr"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "58 of 100",
+            "13 of 47"
+          ],
+          "Sig. str. %": [
+            "58%",
+            "27%"
+          ],
+          "Total str.": [
+            "58 of 100",
+            "14 of 49"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:32",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mandel Nallo",
+        "Nate Landwehr"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 48 of 86 - 55% 12 of 40 - 30% RD2 10 of 14 - 71% 1 of 7 - 14% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott W Mandel Nallo \"Mango\" L Nate Landwehr \"The Train\" Lightweight Bout Method: KO/TKO Round: 2 Time: 0:47 Time format: 3 Rnd (5-5-5) Referee: Luke Boutin Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mandel Nallo Nate Landwehr 1 0 58 of 100 13 of 47 58% 27% 58 of 100 14 of 49 1 of 1 0 of 0 100% --- 1 0 0 0 0:32 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Mandel Nallo Nate Landwehr 0 0 48 of 86 1"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/856716a6ee05e0ca",
+    "fighter_names": [
+      "Tanner Boser",
+      "Jhonata Diniz"
+    ],
+    "fighter_ids": [
+      "04c8b08b16a5b99e",
+      "25f9a5f3e8a52618"
+    ],
+    "winner": "Tanner Boser",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "4:26",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Tanner Boser",
+            "Jhonata Diniz"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "44 of 71",
+            "14 of 45"
+          ],
+          "Sig. str. %": [
+            "61%",
+            "31%"
+          ],
+          "Total str.": [
+            "196 of 237",
+            "28 of 61"
+          ],
+          "Td": [
+            "3 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "10:18",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Tanner Boser",
+        "Jhonata Diniz"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 5 of 14 - 35% 8 of 19 - 42% RD2 26 of 41 - 63% 6 of 23 - 26% RD3 13 of 16 - 81% 0 of 3 - 0% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott W Tanner Boser \"The Bulldozer\" L Jhonata Diniz Heavyweight Bout Method: KO/TKO Round: 3 Time: 4:26 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Tanner Boser Jhonata Diniz 0 0 44 of 71 14 of 45 61% 31% 196 of 237 28 of 61 3 of 3 0 of 0 100% --- 1 0 0 0 10:18 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Tanner Boser Jhonata Diniz 0 0 5 of 14 8 of"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/b6ab5f1be3d3eb9e",
+    "fighter_names": [
+      "Julien Leblanc",
+      "Nick Galanti"
+    ],
+    "fighter_ids": [
+      "cd0dfd9846bd03b9",
+      "8988705468d04ef7"
+    ],
+    "winner": "Nick Galanti",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "1:26",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Julien Leblanc",
+            "Nick Galanti"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "0 of 1",
+            "1 of 2"
+          ],
+          "Sig. str. %": [
+            "0%",
+            "50%"
+          ],
+          "Total str.": [
+            "3 of 4",
+            "3 of 5"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 2"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "1:15"
+          ]
+        }
+      ],
+      "fighters": [
+        "Julien Leblanc",
+        "Nick Galanti"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 0 of 1 - 0% 1 of 2 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Julien Leblanc W Nick Galanti Middleweight Bout Method: Submission Round: 1 Time: 1:26 Time format: 3 Rnd (5-5-5) Referee: Jerin Valel Details: Neck Crank From Back Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Julien Leblanc Nick Galanti 0 0 0 of 1 1 of 2 0% 50% 3 of 4 3 of 5 0 of 0 2 of 2 --- 100% 0 1 0 0 0:00 1:15 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Julien Leblanc Nick Galanti 0 0 0 of 1 1 of 2 0% 50% 3 of 4 3 "
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/88247eaef34c209b",
+    "fighter_names": [
+      "Javad Mahjoub",
+      "Joel Faglier"
+    ],
+    "fighter_ids": [
+      "e9f9add1481fc11c",
+      "6188ad39d85a8bf8"
+    ],
+    "winner": "Joel Faglier",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "2:11",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Javad Mahjoub",
+            "Joel Faglier"
+          ],
+          "KD": [
+            "2",
+            "0"
+          ],
+          "Sig. str.": [
+            "60 of 114",
+            "51 of 76"
+          ],
+          "Sig. str. %": [
+            "52%",
+            "67%"
+          ],
+          "Total str.": [
+            "67 of 126",
+            "52 of 77"
+          ],
+          "Td": [
+            "1 of 3",
+            "1 of 1"
+          ],
+          "Td %": [
+            "33%",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:36",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Javad Mahjoub",
+        "Joel Faglier"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 46 of 85 - 54% 19 of 29 - 65% RD2 14 of 29 - 48% 32 of 47 - 68% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Javad Mahjoub W Joel Faglier \"The Sniper\" Heavyweight Bout Method: KO/TKO Round: 2 Time: 2:11 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Javad Mahjoub Joel Faglier 2 0 60 of 114 51 of 76 52% 67% 67 of 126 52 of 77 1 of 3 1 of 1 33% 100% 0 0 0 0 1:36 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Javad Mahjoub Joel Faglier 2 0 46 of 85 19 of 2"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d9b442194ca25bd9",
+    "fighter_names": [
+      "Katlyn Cerminara",
+      "Mackenzie Stiller"
+    ],
+    "fighter_ids": [
+      "e872e9a9a902c045",
+      "55896e25df067f9d"
+    ],
+    "winner": "Katlyn Cerminara",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:46",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Katlyn Cerminara",
+            "Mackenzie Stiller"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "32 of 71",
+            "19 of 58"
+          ],
+          "Sig. str. %": [
+            "45%",
+            "32%"
+          ],
+          "Total str.": [
+            "35 of 74",
+            "19 of 58"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 1"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:15",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Katlyn Cerminara",
+        "Mackenzie Stiller"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 32 of 71 - 45% 19 of 58 - 32% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott W Katlyn Cerminara \"Blonde Fighter\" L Mackenzie Stiller \"Mack-Judo\" Women's Flyweight Bout Method: KO/TKO Round: 1 Time: 4:46 Time format: 3 Rnd (5-5-5) Referee: Luke Boutin Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Katlyn Cerminara Mackenzie Stiller 1 0 32 of 71 19 of 58 45% 32% 35 of 74 19 of 58 0 of 0 0 of 1 --- 0% 0 0 0 0 0:15 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Katlyn Cermina"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/fb6b38c62d1a78be",
+    "fighter_names": [
+      "Chad Anheliger",
+      "Steven Koslow"
+    ],
+    "fighter_ids": [
+      "c7c39e2fb70248b3",
+      "84512339473dd300"
+    ],
+    "winner": "Steven Koslow",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "4:31",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Chad Anheliger",
+            "Steven Koslow"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "34 of 59",
+            "51 of 88"
+          ],
+          "Sig. str. %": [
+            "57%",
+            "57%"
+          ],
+          "Total str.": [
+            "39 of 66",
+            "97 of 145"
+          ],
+          "Td": [
+            "0 of 0",
+            "4 of 4"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "2"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:12",
+            "6:57"
+          ]
+        }
+      ],
+      "fighters": [
+        "Chad Anheliger",
+        "Steven Koslow"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 13 of 18 - 72% 15 of 24 - 62% RD2 12 of 21 - 57% 20 of 34 - 58% RD3 9 of 20 - 45% 16 of 30 - 53% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Chad Anheliger \"The Monster\" W Steven Koslow \"The Pillow\" Bantamweight Bout Method: Submission Round: 3 Time: 4:31 Time format: 3 Rnd (5-5-5) Referee: Mike Tubbs Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Chad Anheliger Steven Koslow 0 0 34 of 59 51 of 88 57% 57% 39 of 66 97 of 145 0 of 0 4 of 4 --- 100% 0 2 1 0 0:12 6:57 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Chad Anheliger Steven Koslow 0 0 13 "
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f07778a744322922",
+    "fighter_names": [
+      "Melissa Croden",
+      "Chelsea Chandler"
+    ],
+    "fighter_ids": [
+      "51e2f44a8dbf6984",
+      "af9efbfd63d39734"
+    ],
+    "winner": "Chelsea Chandler",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "4:52",
+    "weight_class": "Women's Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Melissa Croden",
+            "Chelsea Chandler"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "11 of 29",
+            "12 of 27"
+          ],
+          "Sig. str. %": [
+            "37%",
+            "44%"
+          ],
+          "Total str.": [
+            "27 of 45",
+            "37 of 53"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 1"
+          ],
+          "Td %": [
+            "33%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:14",
+            "1:16"
+          ]
+        }
+      ],
+      "fighters": [
+        "Melissa Croden",
+        "Chelsea Chandler"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 29 - 37% 12 of 27 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Melissa Croden \"Scare\" W Chelsea Chandler Women's Bantamweight Bout Method: Submission Round: 1 Time: 4:52 Time format: 3 Rnd (5-5-5) Referee: Andy Social Details: Kimura From Side Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Melissa Croden Chelsea Chandler 0 0 11 of 29 12 of 27 37% 44% 27 of 45 37 of 53 1 of 3 0 of 1 33% 0% 0 1 0 0 2:14 1:16 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Melissa Croden Chelsea Chandler 0 0"
+  },
+  {
+    "event_name": "UFC Fight Night: Buckley vs. Malott",
+    "event_url": "http://ufcstats.com/event-details/55e94a9b525dcf45",
+    "event_date": "October 17, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/0768a3792443212d",
+    "fighter_names": [
+      "Cody Chovancek",
+      "SuYoung You"
+    ],
+    "fighter_ids": [
+      "3c4320a1b6106611",
+      "a474aade8eb3a8f0"
+    ],
+    "winner": "SuYoung You",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "3",
+    "time": "4:19",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Cody Chovancek",
+            "SuYoung You"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "1 of 7",
+            "5 of 7"
+          ],
+          "Sig. str. %": [
+            "14%",
+            "71%"
+          ],
+          "Total str.": [
+            "17 of 27",
+            "82 of 95"
+          ],
+          "Td": [
+            "0 of 0",
+            "6 of 8"
+          ],
+          "Td %": [
+            "---",
+            "75%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "0:12",
+            "11:49"
+          ]
+        }
+      ],
+      "fighters": [
+        "Cody Chovancek",
+        "SuYoung You"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 0 of 2 - 0% 2 of 3 - 66% RD2 0 of 0 - 0% 2 of 3 - 66% RD3 1 of 5 - 20% 1 of 1 - 100% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Cody Chovancek \"The Best Fisherman in MMA\" W SuYoung You \"Yoo-Jitsu\" Bantamweight Bout Method: Submission Round: 3 Time: 4:19 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Kimura From Side Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Cody Chovancek SuYoung You 0 0 1 of 7 5 of 7 14% 71% 17 of 27 82 of 95 0 of 0 6 of 8 --- 75% 0 1 0 1 0:12 11:49 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Cody Chovancek SuYoung"
   }
 ]
