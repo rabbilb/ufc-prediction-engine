@@ -643369,5 +643369,1013 @@
     },
     "per_round_breakdown": "Per round RD1 0 of 2 - 0% 2 of 3 - 66% RD2 0 of 0 - 0% 2 of 3 - 66% RD3 1 of 5 - 20% 1 of 1 - 100% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Buckley vs. Malott L Cody Chovancek \"The Best Fisherman in MMA\" W SuYoung You \"Yoo-Jitsu\" Bantamweight Bout Method: Submission Round: 3 Time: 4:19 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Kimura From Side Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Cody Chovancek SuYoung You 0 0 1 of 7 5 of 7 14% 71% 17 of 27 82 of 95 0 of 0 6 of 8 --- 75% 0 1 0 1 0:12 11:49 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Cody Chovancek SuYoung"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/ce1388d6c7651d2e",
+    "fighter_names": [
+      "Alexander Volkanovski",
+      "Movsar Evloev"
+    ],
+    "fighter_ids": [
+      "e1248941344b3288",
+      "76e2870ffafbe38f"
+    ],
+    "winner": "Alexander Volkanovski",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "4:54",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Alexander Volkanovski",
+            "Movsar Evloev"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "56 of 110",
+            "40 of 65"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "61%"
+          ],
+          "Total str.": [
+            "61 of 118",
+            "62 of 88"
+          ],
+          "Td": [
+            "1 of 2",
+            "3 of 7"
+          ],
+          "Td %": [
+            "50%",
+            "42%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:44",
+            "0:50"
+          ]
+        }
+      ],
+      "fighters": [
+        "Alexander Volkanovski",
+        "Movsar Evloev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 24 of 47 - 51% 20 of 34 - 58% RD2 32 of 63 - 50% 20 of 31 - 64% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Alexander Volkanovski \"The Great\" L Movsar Evloev UFC Featherweight Title Bout Method: KO/TKO Round: 2 Time: 4:54 Time format: 5 Rnd (5-5-5-5-5) Referee: Marc Goddard Details: Punches to Head From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Alexander Volkanovski Movsar Evloev 0 0 56 of 110 40 of 65 50% 61% 61 of 118 62 of 88 1 of 2 3 of 7 50% 42% 0 0 0 0 1:44 0:50 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Alexander Vol"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e262f5e588b149a6",
+    "fighter_names": [
+      "Petr Yan",
+      "Merab Dvalishvili"
+    ],
+    "fighter_ids": [
+      "d661ce4da776fc20",
+      "c03520b5c88ed6b4"
+    ],
+    "winner": "Petr Yan",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "5",
+    "time": "5:00",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Petr Yan",
+            "Merab Dvalishvili"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "128 of 228",
+            "131 of 363"
+          ],
+          "Sig. str. %": [
+            "56%",
+            "36%"
+          ],
+          "Total str.": [
+            "131 of 231",
+            "159 of 396"
+          ],
+          "Td": [
+            "0 of 1",
+            "5 of 58"
+          ],
+          "Td %": [
+            "0%",
+            "8%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "0:23",
+            "1:54"
+          ]
+        }
+      ],
+      "fighters": [
+        "Petr Yan",
+        "Merab Dvalishvili"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 6 of 11 - 54% 8 of 40 - 20% RD2 17 of 28 - 60% 23 of 67 - 34% RD3 24 of 44 - 54% 31 of 78 - 39% RD4 29 of 57 - 50% 29 of 85 - 34% RD5 52 of 88 - 59% 40 of 93 - 43% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Petr Yan \"No Mercy\" L Merab Dvalishvili \"The Machine\" UFC Bantamweight Title Bout Method: Decision - Unanimous Round: 5 Time: 5:00 Time format: 5 Rnd (5-5-5-5-5) Referee: Jason Herzog Details: David Lethaby 47 - 48. Darryl Ransom 47 - 48. Vito Paolillo 47 - 48. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Petr Yan Merab Dvalishvili 0 0 128 of 228 131 of 363 56% 36% 131 of 231 159 of 396 0 of 1 5 of 58 0% 8% 0 0 1 0 0:23 1:54 Per round Fighter KD Sig. str. Sig. str. % Total str. "
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/b9004bd72276a190",
+    "fighter_names": [
+      "Lone'er Kavanagh",
+      "Ramazan Temirov"
+    ],
+    "fighter_ids": [
+      "bb2c3c3a466224af",
+      "7d0a1968b38ca439"
+    ],
+    "winner": "Lone'er Kavanagh",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:28",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Lone'er Kavanagh",
+            "Ramazan Temirov"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "23 of 44",
+            "18 of 40"
+          ],
+          "Sig. str. %": [
+            "52%",
+            "45%"
+          ],
+          "Total str.": [
+            "23 of 44",
+            "18 of 40"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:01",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Lone'er Kavanagh",
+        "Ramazan Temirov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 23 of 44 - 52% 18 of 40 - 45% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Lone'er Kavanagh L Ramazan Temirov \"Temurlan\" Flyweight Bout Method: KO/TKO Round: 1 Time: 4:28 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Lone'er Kavanagh Ramazan Temirov 1 0 23 of 44 18 of 40 52% 45% 23 of 44 18 of 40 0 of 0 0 of 0 --- --- 0 0 0 0 0:01 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Lone'er Kavanagh Ramazan Temirov 1 0 23 of 44 "
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/8788a6dda6e64aff",
+    "fighter_names": [
+      "Alexander Volkov",
+      "Rizvan Kuniev"
+    ],
+    "fighter_ids": [
+      "279566840aa55bf2",
+      "739fd4fbb5d862f4"
+    ],
+    "winner": "Alexander Volkov",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Alexander Volkov",
+            "Rizvan Kuniev"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "74 of 150",
+            "51 of 87"
+          ],
+          "Sig. str. %": [
+            "49%",
+            "58%"
+          ],
+          "Total str.": [
+            "82 of 158",
+            "62 of 98"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 4"
+          ],
+          "Td %": [
+            "---",
+            "0%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:02",
+            "0:04"
+          ]
+        }
+      ],
+      "fighters": [
+        "Alexander Volkov",
+        "Rizvan Kuniev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 59 - 35% 21 of 31 - 67% RD2 26 of 46 - 56% 16 of 28 - 57% RD3 27 of 45 - 60% 14 of 28 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Alexander Volkov \"Drago\" L Rizvan Kuniev Heavyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Ben Cartlidge 28 - 29. Jacob Montalvo 27 - 30. Vito Paolillo 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Alexander Volkov Rizvan Kuniev 0 0 74 of 150 51 of 87 49% 58% 82 of 158 62 of 98 0 of 0 0 of 4 --- 0% 1 0 0 0 2:02 0:04 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl "
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/8271c52b2987e021",
+    "fighter_names": [
+      "Aaron Pico",
+      "Losene Keita"
+    ],
+    "fighter_ids": [
+      "5537efc6e496dd84",
+      "5b43d68174b6e2ab"
+    ],
+    "winner": "Aaron Pico",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:14",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Aaron Pico",
+            "Losene Keita"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "6 of 10",
+            "2 of 4"
+          ],
+          "Sig. str. %": [
+            "60%",
+            "50%"
+          ],
+          "Total str.": [
+            "12 of 16",
+            "3 of 5"
+          ],
+          "Td": [
+            "1 of 2",
+            "0 of 0"
+          ],
+          "Td %": [
+            "50%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:37",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Aaron Pico",
+        "Losene Keita"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 6 of 10 - 60% 2 of 4 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Aaron Pico L Losene Keita \"Black Panther\" Featherweight Bout Method: KO/TKO Round: 1 Time: 1:14 Time format: 3 Rnd (5-5-5) Referee: Lukasz Bosacki Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Aaron Pico Losene Keita 1 0 6 of 10 2 of 4 60% 50% 12 of 16 3 of 5 1 of 2 0 of 0 50% --- 0 0 0 0 0:37 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Aaron Pico Losene Keita 1 0 6 of 10 2 of 4 60% 50% 12 of 1"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/c6bcc7e9fb90da47",
+    "fighter_names": [
+      "Azamat Murzakanov",
+      "Dominick Reyes"
+    ],
+    "fighter_ids": [
+      "e90a2f22417af68e",
+      "2e19380f34871c6a"
+    ],
+    "winner": "Dominick Reyes",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:40",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Azamat Murzakanov",
+            "Dominick Reyes"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "3 of 7",
+            "14 of 24"
+          ],
+          "Sig. str. %": [
+            "42%",
+            "58%"
+          ],
+          "Total str.": [
+            "3 of 7",
+            "14 of 24"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:04"
+          ]
+        }
+      ],
+      "fighters": [
+        "Azamat Murzakanov",
+        "Dominick Reyes"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 3 of 7 - 42% 14 of 24 - 58% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev L Azamat Murzakanov \"The Professional\" W Dominick Reyes \"The Devastator\" Light Heavyweight Bout Method: KO/TKO Round: 1 Time: 2:40 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Azamat Murzakanov Dominick Reyes 0 1 3 of 7 14 of 24 42% 58% 3 of 7 14 of 24 0 of 1 0 of 0 0% --- 0 0 0 0 0:00 0:04 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Azamat Murzakanov "
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/6193cd89b1cd9a9e",
+    "fighter_names": [
+      "Nikita Krylov",
+      "Abdul Rakhman Yakhyaev"
+    ],
+    "fighter_ids": [
+      "1091d4d957141094",
+      "95aff2fd8d09a5f0"
+    ],
+    "winner": "Abdul Rakhman Yakhyaev",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "2:38",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Nikita Krylov",
+            "Abdul Rakhman Yakhyaev"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "4 of 6",
+            "6 of 9"
+          ],
+          "Sig. str. %": [
+            "66%",
+            "66%"
+          ],
+          "Total str.": [
+            "7 of 9",
+            "19 of 24"
+          ],
+          "Td": [
+            "0 of 1",
+            "1 of 1"
+          ],
+          "Td %": [
+            "0%",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:29",
+            "0:44"
+          ]
+        }
+      ],
+      "fighters": [
+        "Nikita Krylov",
+        "Abdul Rakhman Yakhyaev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 4 of 6 - 66% 6 of 9 - 66% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev L Nikita Krylov \"The Miner\" W Abdul Rakhman Yakhyaev \"The Hunter\" Light Heavyweight Bout Method: KO/TKO Round: 1 Time: 2:38 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Knee to Head In Clinch Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Nikita Krylov Abdul Rakhman Yakhyaev 0 1 4 of 6 6 of 9 66% 66% 7 of 9 19 of 24 0 of 1 1 of 1 0% 100% 0 1 0 0 1:29 0:44 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Nikita Krylov Abdul Rakhm"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/69aec85e917d47e6",
+    "fighter_names": [
+      "Abus Magomedov",
+      "Cam Rowston"
+    ],
+    "fighter_ids": [
+      "36b8f265bcd1b7a4",
+      "8ebc3a8da015d70c"
+    ],
+    "winner": "Abus Magomedov",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "1:44",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Abus Magomedov",
+            "Cam Rowston"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "11 of 15",
+            "1 of 11"
+          ],
+          "Sig. str. %": [
+            "73%",
+            "9%"
+          ],
+          "Total str.": [
+            "11 of 15",
+            "1 of 11"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 1"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:07",
+            "0:06"
+          ]
+        }
+      ],
+      "fighters": [
+        "Abus Magomedov",
+        "Cam Rowston"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 15 - 73% 1 of 11 - 9% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Abus Magomedov L Cam Rowston \"The Battle Giraffe\" Middleweight Bout Method: Submission Round: 1 Time: 1:44 Time format: 3 Rnd (5-5-5) Referee: Saman Amidi Details: Guillotine Choke From Bottom Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Abus Magomedov Cam Rowston 0 0 11 of 15 1 of 11 73% 9% 11 of 15 1 of 11 0 of 0 1 of 1 --- 100% 1 0 0 0 0:07 0:06 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Abus Magomedov Cam Rowston 0 0 11 o"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/c70b4b6a8a5a3abb",
+    "fighter_names": [
+      "Grant Dawson",
+      "Nurullo Aliev"
+    ],
+    "fighter_ids": [
+      "99bd51917728c25d",
+      "ca28cdf526d6b6e9"
+    ],
+    "winner": "Grant Dawson",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Grant Dawson",
+            "Nurullo Aliev"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "95 of 188",
+            "65 of 106"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "61%"
+          ],
+          "Total str.": [
+            "147 of 242",
+            "96 of 138"
+          ],
+          "Td": [
+            "5 of 7",
+            "1 of 2"
+          ],
+          "Td %": [
+            "71%",
+            "50%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "6:18",
+            "1:26"
+          ]
+        }
+      ],
+      "fighters": [
+        "Grant Dawson",
+        "Nurullo Aliev"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 32 of 63 - 50% 33 of 52 - 63% RD2 33 of 74 - 44% 18 of 30 - 60% RD3 30 of 51 - 58% 14 of 24 - 58% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Grant Dawson \"KGD\" L Nurullo Aliev \"Tajik Eagle\" Lightweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Marc Goddard Details: Tolly Plested 27 - 29. Jacob Montalvo 27 - 29. Clemens Werner 27 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Grant Dawson Nurullo Aliev 0 0 95 of 188 65 of 106 50% 61% 147 of 242 96 of 138 5 of 7 1 of 2 71% 50% 1 0 0 0 6:18 1:26 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att R"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/411ec0a245687c49",
+    "fighter_names": [
+      "Colby Thicknesse",
+      "Asaf Chopurov"
+    ],
+    "fighter_ids": [
+      "ed7d329d7c29428d",
+      "a24bc9922ee76e9f"
+    ],
+    "winner": "Colby Thicknesse",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Colby Thicknesse",
+            "Asaf Chopurov"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "77 of 135",
+            "54 of 96"
+          ],
+          "Sig. str. %": [
+            "57%",
+            "56%"
+          ],
+          "Total str.": [
+            "107 of 171",
+            "71 of 117"
+          ],
+          "Td": [
+            "1 of 15",
+            "8 of 12"
+          ],
+          "Td %": [
+            "6%",
+            "66%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "3:14",
+            "5:01"
+          ]
+        }
+      ],
+      "fighters": [
+        "Colby Thicknesse",
+        "Asaf Chopurov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 20 of 31 - 64% 22 of 33 - 66% RD2 37 of 62 - 59% 20 of 41 - 48% RD3 20 of 42 - 47% 12 of 22 - 54% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Colby Thicknesse \"Slickness\" L Asaf Chopurov \"The Honey Badger\" Bantamweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Mike Beltran Details: Ben Cartlidge 28 - 29. Darryl Ransom 29 - 28. David Lethaby 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Colby Thicknesse Asaf Chopurov 0 0 77 of 135 54 of 96 57% 56% 107 of 171 71 of 117 1 of 15 8 of 12 6% 66% 0 0 0 0 3:14 5:01 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % T"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/23a6bddecfa23fcd",
+    "fighter_names": [
+      "Abubakar Vagaev",
+      "Jacob Malkoun"
+    ],
+    "fighter_ids": [
+      "f7adc1fd115f8fdd",
+      "d4270315cbcf2569"
+    ],
+    "winner": "Abubakar Vagaev",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Abubakar Vagaev",
+            "Jacob Malkoun"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "71 of 139",
+            "106 of 202"
+          ],
+          "Sig. str. %": [
+            "51%",
+            "52%"
+          ],
+          "Total str.": [
+            "92 of 162",
+            "113 of 212"
+          ],
+          "Td": [
+            "6 of 12",
+            "0 of 4"
+          ],
+          "Td %": [
+            "50%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:07",
+            "0:12"
+          ]
+        }
+      ],
+      "fighters": [
+        "Abubakar Vagaev",
+        "Jacob Malkoun"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 26 of 53 - 49% 30 of 61 - 49% RD2 26 of 48 - 54% 45 of 85 - 52% RD3 19 of 38 - 50% 31 of 56 - 55% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Abubakar Vagaev L Jacob Malkoun \"Mamba\" Middleweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Lukasz Bosacki Details: Tolly Plested 28 - 29. Jacob Montalvo 28 - 29. Vito Paolillo 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Abubakar Vagaev Jacob Malkoun 0 0 71 of 139 106 of 202 51% 52% 92 of 162 113 of 212 6 of 12 0 of 4 50% 0% 0 0 0 0 2:07 0:12 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev."
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1fa88509d87cc05e",
+    "fighter_names": [
+      "Bolaji Oki",
+      "Daniel Santos"
+    ],
+    "fighter_ids": [
+      "4bdedbdeedff7d1d",
+      "b67d6bacc68d4c92"
+    ],
+    "winner": "Daniel Santos",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Bolaji Oki",
+            "Daniel Santos"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "69 of 107",
+            "76 of 159"
+          ],
+          "Sig. str. %": [
+            "64%",
+            "47%"
+          ],
+          "Total str.": [
+            "70 of 108",
+            "87 of 172"
+          ],
+          "Td": [
+            "2 of 3",
+            "2 of 5"
+          ],
+          "Td %": [
+            "66%",
+            "40%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:43",
+            "1:40"
+          ]
+        }
+      ],
+      "fighters": [
+        "Bolaji Oki",
+        "Daniel Santos"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 17 of 25 - 68% 14 of 30 - 46% RD2 14 of 23 - 60% 23 of 50 - 46% RD3 38 of 59 - 64% 39 of 79 - 49% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev L Bolaji Oki \"The Zulu Warrior\" W Daniel Santos \"Willycat\" Featherweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: David Lethaby 28 - 29. Darryl Ransom 28 - 29. Clemens Werner 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Bolaji Oki Daniel Santos 0 0 69 of 107 76 of 159 64% 47% 70 of 108 87 of 172 2 of 3 2 of 5 66% 40% 0 1 0 0 2:43 1:40 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub."
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/02df66c779a72260",
+    "fighter_names": [
+      "Kody Steele",
+      "Noah Gugnon"
+    ],
+    "fighter_ids": [
+      "aebaa8cec15b083d",
+      "6266abf6e4245c72"
+    ],
+    "winner": "Kody Steele",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "3:54",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Kody Steele",
+            "Noah Gugnon"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "25 of 52",
+            "31 of 57"
+          ],
+          "Sig. str. %": [
+            "48%",
+            "54%"
+          ],
+          "Total str.": [
+            "25 of 52",
+            "32 of 58"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "33%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:22",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Kody Steele",
+        "Noah Gugnon"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 52 - 48% 31 of 57 - 54% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Kody Steele L Noah Gugnon \"Guns\" Lightweight Bout Method: KO/TKO Round: 1 Time: 3:54 Time format: 3 Rnd (5-5-5) Referee: Saman Amidi Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Kody Steele Noah Gugnon 1 0 25 of 52 31 of 57 48% 54% 25 of 52 32 of 58 1 of 3 0 of 0 33% --- 0 0 0 0 0:22 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Kody Steele Noah Gugnon 1 0 25 of 52 31 of 57 48% 54% 25 of 52 32"
+  },
+  {
+    "event_name": "UFC 333: Volkanovski vs. Evloev",
+    "event_url": "http://ufcstats.com/event-details/cc18abc046b382c9",
+    "event_date": "October 24, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/4081a5fe66569321",
+    "fighter_names": [
+      "Iasmin Lucindo",
+      "Nicolle Caliari"
+    ],
+    "fighter_ids": [
+      "abcf2cc6efc42031",
+      "fc0a4053eb8a3a59"
+    ],
+    "winner": "Iasmin Lucindo",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Iasmin Lucindo",
+            "Nicolle Caliari"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "31 of 49",
+            "27 of 36"
+          ],
+          "Sig. str. %": [
+            "63%",
+            "75%"
+          ],
+          "Total str.": [
+            "57 of 80",
+            "54 of 67"
+          ],
+          "Td": [
+            "3 of 4",
+            "2 of 4"
+          ],
+          "Td %": [
+            "75%",
+            "50%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "9:27",
+            "2:15"
+          ]
+        }
+      ],
+      "fighters": [
+        "Iasmin Lucindo",
+        "Nicolle Caliari"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 11 - 63% 2 of 5 - 40% RD2 16 of 30 - 53% 16 of 20 - 80% RD3 8 of 8 - 100% 9 of 11 - 81% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Iasmin Lucindo L Nicolle Caliari Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Lukasz Bosacki Details: Tolly Plested 27 - 30. Ben Cartlidge 27 - 30. Vito Paolillo 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Iasmin Lucindo Nicolle Caliari 0 0 31 of 49 27 of 36 63% 75% 57 of 80 54 of 67 3 of 4 2 of 4 75% 50% 0 0 0 0 9:27 2:15 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl "
   }
 ]

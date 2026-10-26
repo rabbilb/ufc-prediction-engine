@@ -49930,5 +49930,23 @@
     "TD Acc.": "33%",
     "TD Def.": "0%",
     "Sub. Avg.": "0.0"
+  },
+  {
+    "fighter_id": "a24bc9922ee76e9f",
+    "name": "Asaf Chopurov",
+    "record": "11-1-0",
+    "Height": "5' 7\"",
+    "Weight": "135 lbs.",
+    "Reach": "67\"",
+    "STANCE": "Orthodox",
+    "DOB": "Nov 17, 2001",
+    "SLpM": "3.60",
+    "Str. Acc.": "56%",
+    "SApM": "5.13",
+    "Str. Def": "42%",
+    "TD Avg.": "8.00",
+    "TD Acc.": "66%",
+    "TD Def.": "93%",
+    "Sub. Avg.": "0.0"
   }
 ]
