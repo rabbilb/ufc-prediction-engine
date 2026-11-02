@@ -644377,5 +644377,869 @@
     },
     "per_round_breakdown": "Per round RD1 7 of 11 - 63% 2 of 5 - 40% RD2 16 of 30 - 53% 16 of 20 - 80% RD3 8 of 8 - 100% 9 of 11 - 81% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC 333: Volkanovski vs. Evloev W Iasmin Lucindo L Nicolle Caliari Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Lukasz Bosacki Details: Tolly Plested 27 - 30. Ben Cartlidge 27 - 30. Vito Paolillo 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Iasmin Lucindo Nicolle Caliari 0 0 31 of 49 27 of 36 63% 75% 57 of 80 54 of 67 3 of 4 2 of 4 75% 50% 0 0 0 0 9:27 2:15 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl "
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/6d7244be5589953c",
+    "fighter_names": [
+      "Renato Moicano",
+      "Tom Nolan"
+    ],
+    "fighter_ids": [
+      "b6452706b373eea1",
+      "6c3b2525436cf5d4"
+    ],
+    "winner": "Tom Nolan",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "1:28",
+    "weight_class": "Lightweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Renato Moicano",
+            "Tom Nolan"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "9 of 12",
+            "69 of 92"
+          ],
+          "Sig. str. %": [
+            "75%",
+            "75%"
+          ],
+          "Total str.": [
+            "47 of 60",
+            "177 of 214"
+          ],
+          "Td": [
+            "3 of 5",
+            "1 of 1"
+          ],
+          "Td %": [
+            "60%",
+            "100%"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "7:17",
+            "1:10"
+          ]
+        }
+      ],
+      "fighters": [
+        "Renato Moicano",
+        "Tom Nolan"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 2 of 2 - 100% 4 of 8 - 50% RD2 4 of 7 - 57% 25 of 35 - 71% RD3 3 of 3 - 100% 40 of 49 - 81% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan L Renato Moicano W Tom Nolan \"Big Train\" Lightweight Bout Method: KO/TKO Round: 3 Time: 1:28 Time format: 5 Rnd (5-5-5-5-5) Referee: Dan Miragliotta Details: Elbows to Head From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Renato Moicano Tom Nolan 0 1 9 of 12 69 of 92 75% 75% 47 of 60 177 of 214 3 of 5 1 of 1 60% 100% 1 0 0 1 7:17 1:10 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Renato Moicano Tom Nolan 0 0 2 of 2 4 of 8"
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d37d3af2529c3fd5",
+    "fighter_names": [
+      "Randy Brown",
+      "Jacobe Smith"
+    ],
+    "fighter_ids": [
+      "c6aee362c7a7d482",
+      "85497ffd934ecf7e"
+    ],
+    "winner": "Jacobe Smith",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Randy Brown",
+            "Jacobe Smith"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "16 of 37",
+            "40 of 66"
+          ],
+          "Sig. str. %": [
+            "43%",
+            "60%"
+          ],
+          "Total str.": [
+            "39 of 60",
+            "153 of 186"
+          ],
+          "Td": [
+            "0 of 0",
+            "3 of 3"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "8:53"
+          ]
+        }
+      ],
+      "fighters": [
+        "Randy Brown",
+        "Jacobe Smith"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 17 - 58% 11 of 18 - 61% RD2 3 of 9 - 33% 22 of 33 - 66% RD3 3 of 11 - 27% 7 of 15 - 46% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan L Randy Brown \"Rudeboy\" W Jacobe Smith \"Cobe\" Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Mike Bell 26 - 30. Eric Colon 26 - 30. Junichiro Kamijo 26 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Randy Brown Jacobe Smith 0 0 16 of 37 40 of 66 43% 60% 39 of 60 153 of 186 0 of 0 3 of 3 --- 100% 0 0 0 0 0:00 8:53 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round"
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/b74a628c5fa4ce55",
+    "fighter_names": [
+      "Ode Osbourne",
+      "Cody Durden"
+    ],
+    "fighter_ids": [
+      "6d68c1afe954f121",
+      "7f6ed67d3ed3c036"
+    ],
+    "winner": "Cody Durden",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Ode Osbourne",
+            "Cody Durden"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "15 of 36",
+            "35 of 47"
+          ],
+          "Sig. str. %": [
+            "41%",
+            "74%"
+          ],
+          "Total str.": [
+            "54 of 86",
+            "73 of 101"
+          ],
+          "Td": [
+            "0 of 0",
+            "6 of 8"
+          ],
+          "Td %": [
+            "---",
+            "75%"
+          ],
+          "Sub. att": [
+            "1",
+            "1"
+          ],
+          "Rev.": [
+            "2",
+            "1"
+          ],
+          "Ctrl": [
+            "4:10",
+            "6:51"
+          ]
+        }
+      ],
+      "fighters": [
+        "Ode Osbourne",
+        "Cody Durden"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 2 of 7 - 28% 27 of 32 - 84% RD2 10 of 24 - 41% 5 of 11 - 45% RD3 3 of 5 - 60% 3 of 4 - 75% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan L Ode Osbourne \"The Jamaican Sensation\" W Cody Durden \"Custom Made\" Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Derek Cleary 28 - 29. Sal D'amato 28 - 29. Bryan Miner 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Ode Osbourne Cody Durden 0 0 15 of 36 35 of 47 41% 74% 54 of 86 73 of 101 0 of 0 6 of 8 --- 75% 1 1 2 1 4:10 6:51 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. "
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d08ad0f685b82b5b",
+    "fighter_names": [
+      "Yana Santos",
+      "Luana Santos"
+    ],
+    "fighter_ids": [
+      "3143bf892608139a",
+      "5078e1dacf9d25f4"
+    ],
+    "winner": "Luana Santos",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Yana Santos",
+            "Luana Santos"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "17 of 54",
+            "15 of 34"
+          ],
+          "Sig. str. %": [
+            "31%",
+            "44%"
+          ],
+          "Total str.": [
+            "97 of 160",
+            "40 of 62"
+          ],
+          "Td": [
+            "0 of 0",
+            "5 of 16"
+          ],
+          "Td %": [
+            "---",
+            "31%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:01",
+            "7:35"
+          ]
+        }
+      ],
+      "fighters": [
+        "Yana Santos",
+        "Luana Santos"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 13 of 26 - 50% 5 of 9 - 55% RD2 2 of 17 - 11% 7 of 16 - 43% RD3 2 of 11 - 18% 3 of 9 - 33% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan L Yana Santos \"Foxy\" W Luana Santos Women's Bantamweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Derek Cleary 28 - 29. Eric Colon 28 - 29. Sal D'amato 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Yana Santos Luana Santos 0 0 17 of 54 15 of 34 31% 44% 97 of 160 40 of 62 0 of 0 5 of 16 --- 31% 0 0 0 0 4:01 7:35 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round "
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a7b3c1386172d083",
+    "fighter_names": [
+      "Jean-Paul Lebosnoyani",
+      "Farman Hasanov"
+    ],
+    "fighter_ids": [
+      "a3dda21be645be93",
+      "c88f8a9c1ea7165d"
+    ],
+    "winner": "Jean-Paul Lebosnoyani",
+    "result_raw": "win",
+    "method": "TKO - Doctor's Stoppage",
+    "round": "3",
+    "time": "2:11",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jean-Paul Lebosnoyani",
+            "Farman Hasanov"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "104 of 186",
+            "53 of 156"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "33%"
+          ],
+          "Total str.": [
+            "119 of 202",
+            "55 of 161"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 6"
+          ],
+          "Td %": [
+            "---",
+            "33%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:36"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jean-Paul Lebosnoyani",
+        "Farman Hasanov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 30 of 55 - 54% 18 of 60 - 30% RD2 55 of 99 - 55% 27 of 68 - 39% RD3 19 of 32 - 59% 8 of 28 - 28% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan W Jean-Paul Lebosnoyani \"JPL\" L Farman Hasanov \"The Lion\" Welterweight Bout Method: TKO - Doctor's Stoppage Round: 3 Time: 2:11 Time format: 3 Rnd (5-5-5) Referee: Dan Miragliotta Details: Facial cut Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jean-Paul Lebosnoyani Farman Hasanov 0 0 104 of 186 53 of 156 55% 33% 119 of 202 55 of 161 0 of 0 2 of 6 --- 33% 0 0 0 0 0:00 0:36 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jean-Paul Lebos"
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/b7f8e619c7d9a7de",
+    "fighter_names": [
+      "Francis Marshall",
+      "Dakota Hope"
+    ],
+    "fighter_ids": [
+      "5d495dec23d7c68e",
+      "6142edbd477d20c9"
+    ],
+    "winner": "Dakota Hope",
+    "result_raw": "win",
+    "method": "Decision - Split",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Francis Marshall",
+            "Dakota Hope"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "25 of 61",
+            "44 of 111"
+          ],
+          "Sig. str. %": [
+            "40%",
+            "39%"
+          ],
+          "Total str.": [
+            "62 of 100",
+            "72 of 143"
+          ],
+          "Td": [
+            "1 of 5",
+            "0 of 3"
+          ],
+          "Td %": [
+            "20%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "1:34",
+            "4:41"
+          ]
+        }
+      ],
+      "fighters": [
+        "Francis Marshall",
+        "Dakota Hope"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 24 - 45% 15 of 33 - 45% RD2 11 of 27 - 40% 12 of 49 - 24% RD3 3 of 10 - 30% 17 of 29 - 58% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan L Francis Marshall \"Fire\" W Dakota Hope \"Huracan\" Featherweight Bout Method: Decision - Split Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Derek Cleary 29 - 28. Eric Colon 28 - 29. Sal D'amato 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Francis Marshall Dakota Hope 0 0 25 of 61 44 of 111 40% 39% 62 of 100 72 of 143 1 of 5 0 of 3 20% 0% 0 0 0 0 1:34 4:41 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Rou"
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/8b2fcf7f83bf72b6",
+    "fighter_names": [
+      "Rodrigo Sezinando",
+      "Theodor Berggren"
+    ],
+    "fighter_ids": [
+      "c06d6b18862f9a53",
+      "feef5f8f5629e5e7"
+    ],
+    "winner": "Rodrigo Sezinando",
+    "result_raw": "win",
+    "method": "TKO - Doctor's Stoppage",
+    "round": "2",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Rodrigo Sezinando",
+            "Theodor Berggren"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "29 of 58",
+            "18 of 37"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "48%"
+          ],
+          "Total str.": [
+            "67 of 116",
+            "52 of 76"
+          ],
+          "Td": [
+            "3 of 11",
+            "0 of 0"
+          ],
+          "Td %": [
+            "27%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "5:40",
+            "2:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Rodrigo Sezinando",
+        "Theodor Berggren"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 8 of 24 - 33% 11 of 23 - 47% RD2 21 of 34 - 61% 7 of 14 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan W Rodrigo Sezinando L Theodor Berggren \"Simba\" Welterweight Bout Method: TKO - Doctor's Stoppage Round: 2 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Facial cut Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Rodrigo Sezinando Theodor Berggren 0 0 29 of 58 18 of 37 50% 48% 67 of 116 52 of 76 3 of 11 0 of 0 27% --- 0 0 0 0 5:40 2:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Rodrigo Sezinando Theodor Berggren "
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/52d61656f77f6650",
+    "fighter_names": [
+      "Julian Erosa",
+      "JeongYeong Lee"
+    ],
+    "fighter_ids": [
+      "902ec2cc48c8ae8a",
+      "d008d785f6347dc2"
+    ],
+    "winner": "Julian Erosa",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:31",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Julian Erosa",
+            "JeongYeong Lee"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "16 of 27",
+            "9 of 24"
+          ],
+          "Sig. str. %": [
+            "59%",
+            "37%"
+          ],
+          "Total str.": [
+            "17 of 28",
+            "10 of 27"
+          ],
+          "Td": [
+            "0 of 2",
+            "0 of 0"
+          ],
+          "Td %": [
+            "0%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:36",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Julian Erosa",
+        "JeongYeong Lee"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 16 of 27 - 59% 9 of 24 - 37% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan W Julian Erosa \"Juicy J\" L JeongYeong Lee \"Korean Tiger\" Featherweight Bout Method: KO/TKO Round: 1 Time: 1:31 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Julian Erosa JeongYeong Lee 1 0 16 of 27 9 of 24 59% 37% 17 of 28 10 of 27 0 of 2 0 of 0 0% --- 0 0 0 0 0:36 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Julian Erosa JeongYeong Lee 1 0 16 o"
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/b6cee8bf625cc566",
+    "fighter_names": [
+      "Zach Reese",
+      "Mickey Gall"
+    ],
+    "fighter_ids": [
+      "23dec7c47cb418f8",
+      "9e50097a89442158"
+    ],
+    "winner": "Zach Reese",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Zach Reese",
+            "Mickey Gall"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "110 of 201",
+            "67 of 138"
+          ],
+          "Sig. str. %": [
+            "54%",
+            "48%"
+          ],
+          "Total str.": [
+            "113 of 205",
+            "68 of 140"
+          ],
+          "Td": [
+            "0 of 1",
+            "0 of 2"
+          ],
+          "Td %": [
+            "0%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:10",
+            "0:01"
+          ]
+        }
+      ],
+      "fighters": [
+        "Zach Reese",
+        "Mickey Gall"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 57 - 43% 14 of 33 - 42% RD2 28 of 52 - 53% 22 of 35 - 62% RD3 57 of 92 - 61% 31 of 70 - 44% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan W Zach Reese \"Savage\" L Mickey Gall Middleweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Mike Bell 27 - 29. Derek Cleary 27 - 29. Bryan Miner 27 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Zach Reese Mickey Gall 0 0 110 of 201 67 of 138 54% 48% 113 of 205 68 of 140 0 of 1 0 of 2 0% 0% 0 0 0 0 0:10 0:01 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Zach Reese "
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/f9bda28454d49c78",
+    "fighter_names": [
+      "Nick Klein",
+      "Joe Kropschot"
+    ],
+    "fighter_ids": [
+      "7eaa5e31c2dd86aa",
+      "8a81a0707350c4a8"
+    ],
+    "winner": "Joe Kropschot",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "2",
+    "time": "1:25",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Nick Klein",
+            "Joe Kropschot"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "13 of 34",
+            "17 of 24"
+          ],
+          "Sig. str. %": [
+            "38%",
+            "70%"
+          ],
+          "Total str.": [
+            "16 of 37",
+            "32 of 42"
+          ],
+          "Td": [
+            "2 of 2",
+            "1 of 1"
+          ],
+          "Td %": [
+            "100%",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "3"
+          ],
+          "Rev.": [
+            "0",
+            "1"
+          ],
+          "Ctrl": [
+            "3:01",
+            "1:47"
+          ]
+        }
+      ],
+      "fighters": [
+        "Nick Klein",
+        "Joe Kropschot"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 30 - 36% 15 of 21 - 71% RD2 2 of 4 - 50% 2 of 3 - 66% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan L Nick Klein W Joe Kropschot \"The Land Animal\" Middleweight Bout Method: Submission Round: 2 Time: 1:25 Time format: 3 Rnd (5-5-5) Referee: Dan Miragliotta Details: Triangle Armbar From Back Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Nick Klein Joe Kropschot 0 0 13 of 34 17 of 24 38% 70% 16 of 37 32 of 42 2 of 2 1 of 1 100% 100% 0 3 0 1 3:01 1:47 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Nick Klein Joe Kropschot 0 0 11 "
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/78b166a244a2b534",
+    "fighter_names": [
+      "Talita Alencar",
+      "Piera Rodriguez"
+    ],
+    "fighter_ids": [
+      "d35298b6df168456",
+      "e375cb5caf4717b6"
+    ],
+    "winner": "Piera Rodriguez",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Talita Alencar",
+            "Piera Rodriguez"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "44 of 104",
+            "89 of 190"
+          ],
+          "Sig. str. %": [
+            "42%",
+            "46%"
+          ],
+          "Total str.": [
+            "57 of 120",
+            "102 of 203"
+          ],
+          "Td": [
+            "3 of 8",
+            "0 of 2"
+          ],
+          "Td %": [
+            "37%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:05",
+            "1:16"
+          ]
+        }
+      ],
+      "fighters": [
+        "Talita Alencar",
+        "Piera Rodriguez"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 10 of 22 - 45% 14 of 48 - 29% RD2 17 of 34 - 50% 29 of 60 - 48% RD3 17 of 48 - 35% 46 of 82 - 56% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan L Talita Alencar \"Problem Child\" W Piera Rodriguez \"La Fiera\" Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Kerry Hatley Details: Mike Bell 27 - 30. Derek Cleary 27 - 30. Sal D'amato 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Talita Alencar Piera Rodriguez 0 0 44 of 104 89 of 190 42% 46% 57 of 120 102 of 203 3 of 8 0 of 2 37% 0% 0 0 0 0 4:05 1:16 Per round Fighter KD Sig. str. Sig. str. % Total str. Td %"
+  },
+  {
+    "event_name": "UFC Fight Night: Moicano vs. Nolan",
+    "event_url": "http://ufcstats.com/event-details/0a66de3a797cf73a",
+    "event_date": "October 31, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1bf2edb30de4c976",
+    "fighter_names": [
+      "Lucia Szabova",
+      "Tainara Lisboa"
+    ],
+    "fighter_ids": [
+      "184f6ec4ee712e9f",
+      "2c5f5749569eef66"
+    ],
+    "winner": "Lucia Szabova",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "3:20",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Lucia Szabova",
+            "Tainara Lisboa"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "70 of 96",
+            "14 of 26"
+          ],
+          "Sig. str. %": [
+            "72%",
+            "53%"
+          ],
+          "Total str.": [
+            "145 of 186",
+            "17 of 30"
+          ],
+          "Td": [
+            "5 of 8",
+            "1 of 9"
+          ],
+          "Td %": [
+            "62%",
+            "11%"
+          ],
+          "Sub. att": [
+            "1",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "9:03",
+            "2:13"
+          ]
+        }
+      ],
+      "fighters": [
+        "Lucia Szabova",
+        "Tainara Lisboa"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 25 of 34 - 73% 7 of 8 - 87% RD2 14 of 28 - 50% 5 of 13 - 38% RD3 31 of 34 - 91% 2 of 5 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan W Lucia Szabova \"Silent Killer\" L Tainara Lisboa \"Thai Panther\" Women's Flyweight Bout Method: KO/TKO Round: 3 Time: 3:20 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Punches to Head From Back Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Lucia Szabova Tainara Lisboa 0 0 70 of 96 14 of 26 72% 53% 145 of 186 17 of 30 5 of 8 1 of 9 62% 11% 1 1 0 0 9:03 2:13 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Lucia Szabov"
   }
 ]

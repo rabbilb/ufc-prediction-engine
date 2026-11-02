@@ -49948,5 +49948,41 @@
     "TD Acc.": "66%",
     "TD Def.": "93%",
     "Sub. Avg.": "0.0"
+  },
+  {
+    "fighter_id": "184f6ec4ee712e9f",
+    "name": "Lucia Szabova",
+    "record": "13-0-0",
+    "Height": "5' 7\"",
+    "Weight": "135 lbs.",
+    "Reach": "67\"",
+    "STANCE": "Orthodox",
+    "DOB": "Dec 23, 1997",
+    "SLpM": "5.25",
+    "Str. Acc.": "72%",
+    "SApM": "1.05",
+    "Str. Def": "46%",
+    "TD Avg.": "5.63",
+    "TD Acc.": "62%",
+    "TD Def.": "88%",
+    "Sub. Avg.": "1.1"
+  },
+  {
+    "fighter_id": "8a81a0707350c4a8",
+    "name": "Joe Kropschot",
+    "record": "10-3-0",
+    "Height": "6' 3\"",
+    "Weight": "185 lbs.",
+    "Reach": "79\"",
+    "STANCE": "Orthodox",
+    "DOB": "Jun 19, 1995",
+    "SLpM": "6.35",
+    "Str. Acc.": "62%",
+    "SApM": "3.36",
+    "Str. Def": "62%",
+    "TD Avg.": "1.40",
+    "TD Acc.": "66%",
+    "TD Def.": "33%",
+    "Sub. Avg.": "4.2"
   }
 ]
