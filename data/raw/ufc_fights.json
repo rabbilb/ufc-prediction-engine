@@ -645241,5 +645241,1013 @@
     },
     "per_round_breakdown": "Per round RD1 25 of 34 - 73% 7 of 8 - 87% RD2 14 of 28 - 50% 5 of 13 - 38% RD3 31 of 34 - 91% 2 of 5 - 40% Landed Attempted",
     "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Moicano vs. Nolan W Lucia Szabova \"Silent Killer\" L Tainara Lisboa \"Thai Panther\" Women's Flyweight Bout Method: KO/TKO Round: 3 Time: 3:20 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Punches to Head From Back Control Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Lucia Szabova Tainara Lisboa 0 0 70 of 96 14 of 26 72% 53% 145 of 186 17 of 30 5 of 8 1 of 9 62% 11% 1 1 0 0 9:03 2:13 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Lucia Szabov"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/4e6c304705f82ce0",
+    "fighter_names": [
+      "Waldo Cortes Acosta",
+      "Johnny Walker"
+    ],
+    "fighter_ids": [
+      "fc08099550072fe4",
+      "c21f26bbde777573"
+    ],
+    "winner": "Johnny Walker",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "2:27",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Waldo Cortes Acosta",
+            "Johnny Walker"
+          ],
+          "KD": [
+            "1",
+            "1"
+          ],
+          "Sig. str.": [
+            "40 of 89",
+            "51 of 77"
+          ],
+          "Sig. str. %": [
+            "44%",
+            "66%"
+          ],
+          "Total str.": [
+            "67 of 117",
+            "61 of 87"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "4:24",
+            "0:09"
+          ]
+        }
+      ],
+      "fighters": [
+        "Waldo Cortes Acosta",
+        "Johnny Walker"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 20 of 47 - 42% 25 of 36 - 69% RD2 15 of 27 - 55% 11 of 21 - 52% RD3 5 of 15 - 33% 15 of 20 - 75% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Waldo Cortes Acosta \"Salsa Boy\" W Johnny Walker Heavyweight Bout Method: KO/TKO Round: 3 Time: 2:27 Time format: 5 Rnd (5-5-5-5-5) Referee: Jason Herzog Details: Punch to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Waldo Cortes Acosta Johnny Walker 1 1 40 of 89 51 of 77 44% 66% 67 of 117 61 of 87 0 of 0 0 of 0 --- --- 0 0 0 0 4:24 0:09 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Waldo Cortes Acosta Johnny"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/588347615984ec29",
+    "fighter_names": [
+      "Tatiana Suarez",
+      "Virna Jandiroba"
+    ],
+    "fighter_ids": [
+      "b08012bbe542592a",
+      "7dda2cf308f24a02"
+    ],
+    "winner": "Tatiana Suarez",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Strawweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Tatiana Suarez",
+            "Virna Jandiroba"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "28 of 56",
+            "17 of 45"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "37%"
+          ],
+          "Total str.": [
+            "98 of 135",
+            "45 of 74"
+          ],
+          "Td": [
+            "0 of 8",
+            "1 of 5"
+          ],
+          "Td %": [
+            "0%",
+            "20%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "9:12",
+            "0:06"
+          ]
+        }
+      ],
+      "fighters": [
+        "Tatiana Suarez",
+        "Virna Jandiroba"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 11 of 17 - 64% 6 of 19 - 31% RD2 6 of 16 - 37% 7 of 16 - 43% RD3 11 of 23 - 47% 4 of 10 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker W Tatiana Suarez L Virna Jandiroba \"Carcara\" Women's Strawweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Keith Peterson Details: Eric Colon 27 - 30. Ron McCarthy 27 - 30. David Lethaby 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Tatiana Suarez Virna Jandiroba 0 0 28 of 56 17 of 45 50% 37% 98 of 135 45 of 74 0 of 8 1 of 5 0% 20% 0 1 0 0 9:12 0:06 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1f9c3310eeb1fb93",
+    "fighter_names": [
+      "Davey Grant",
+      "Elijah Smith"
+    ],
+    "fighter_ids": [
+      "113df4fde64735c6",
+      "7478b7f959ba61f5"
+    ],
+    "winner": "Elijah Smith",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "1:00",
+    "weight_class": "Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Davey Grant",
+            "Elijah Smith"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "8 of 10",
+            "11 of 18"
+          ],
+          "Sig. str. %": [
+            "80%",
+            "61%"
+          ],
+          "Total str.": [
+            "8 of 10",
+            "11 of 18"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:03"
+          ]
+        }
+      ],
+      "fighters": [
+        "Davey Grant",
+        "Elijah Smith"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 8 of 10 - 80% 11 of 18 - 61% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Davey Grant \"Dangerous\" W Elijah Smith \"Swift\" Bantamweight Bout Method: KO/TKO Round: 1 Time: 1:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Punches to Head On Ground Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Davey Grant Elijah Smith 0 1 8 of 10 11 of 18 80% 61% 8 of 10 11 of 18 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:03 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Davey Grant Elijah Smith 0 1 8 of 10 11 of 18"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1955773d3e42a616",
+    "fighter_names": [
+      "Billy Elekana",
+      "Lucas Fernando"
+    ],
+    "fighter_ids": [
+      "07a74004d964c7f4",
+      "3df223aeaacecf3f"
+    ],
+    "winner": "Lucas Fernando",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Light Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Billy Elekana",
+            "Lucas Fernando"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "20 of 39",
+            "64 of 106"
+          ],
+          "Sig. str. %": [
+            "51%",
+            "60%"
+          ],
+          "Total str.": [
+            "39 of 65",
+            "92 of 139"
+          ],
+          "Td": [
+            "1 of 3",
+            "0 of 0"
+          ],
+          "Td %": [
+            "33%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "5:59",
+            "2:51"
+          ]
+        }
+      ],
+      "fighters": [
+        "Billy Elekana",
+        "Lucas Fernando"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 7 of 17 - 41% 40 of 64 - 62% RD2 3 of 10 - 30% 19 of 32 - 59% RD3 10 of 12 - 83% 5 of 10 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Billy Elekana \"Son of Susie\" W Lucas Fernando Light Heavyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Eric Colon 28 - 29. Chris Lee 28 - 29. David Lethaby 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Billy Elekana Lucas Fernando 0 0 20 of 39 64 of 106 51% 60% 39 of 65 92 of 139 1 of 3 0 of 0 33% --- 0 0 0 0 5:59 2:51 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. a"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/d5bb4cadca484a31",
+    "fighter_names": [
+      "Priscila Cachoeira",
+      "Nina Milosevic"
+    ],
+    "fighter_ids": [
+      "b1e5bcaad32a3cac",
+      "eabece0edc2d62ca"
+    ],
+    "winner": "Nina Milosevic",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "3:40",
+    "weight_class": "Women's Bantamweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Priscila Cachoeira",
+            "Nina Milosevic"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "11 of 38",
+            "45 of 73"
+          ],
+          "Sig. str. %": [
+            "28%",
+            "61%"
+          ],
+          "Total str.": [
+            "15 of 46",
+            "162 of 214"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 8"
+          ],
+          "Td %": [
+            "---",
+            "25%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "6:29"
+          ]
+        }
+      ],
+      "fighters": [
+        "Priscila Cachoeira",
+        "Nina Milosevic"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 1 of 1 - 100% 4 of 10 - 40% RD2 10 of 37 - 27% 41 of 63 - 65% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Priscila Cachoeira \"Zombie Girl\" W Nina Milosevic \"Queen Beast\" Women's Bantamweight Bout Method: KO/TKO Round: 2 Time: 3:40 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Elbows to Head From Mount Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Priscila Cachoeira Nina Milosevic 0 0 11 of 38 45 of 73 28% 61% 15 of 46 162 of 214 0 of 0 2 of 8 --- 25% 0 0 0 0 0:00 6:29 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Pris"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/beda278798850354",
+    "fighter_names": [
+      "Mitch Raposo",
+      "Marcos Degli"
+    ],
+    "fighter_ids": [
+      "0be6776db31d98ec",
+      "0575068a0f83f963"
+    ],
+    "winner": "Mitch Raposo",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mitch Raposo",
+            "Marcos Degli"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "71 of 197",
+            "48 of 137"
+          ],
+          "Sig. str. %": [
+            "36%",
+            "35%"
+          ],
+          "Total str.": [
+            "72 of 198",
+            "54 of 143"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 2"
+          ],
+          "Td %": [
+            "100%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:05",
+            "0:27"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mitch Raposo",
+        "Marcos Degli"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 19 of 48 - 39% 7 of 27 - 25% RD2 28 of 66 - 42% 13 of 42 - 30% RD3 24 of 83 - 28% 28 of 68 - 41% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker W Mitch Raposo L Marcos Degli \"Tailandes\" Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Keith Peterson Details: David Lethaby 28 - 29. Ron McCarthy 28 - 29. Mark Smith 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mitch Raposo Marcos Degli 0 0 71 of 197 48 of 137 36% 35% 72 of 198 54 of 143 1 of 1 0 of 2 100% 0% 0 0 0 0 0:05 0:27 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctr"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/85d62e821823ba69",
+    "fighter_names": [
+      "Keiichiro Nakamura",
+      "Ollie Schmid"
+    ],
+    "fighter_ids": [
+      "3618e0632ecdba9c",
+      "b701f095e6ccb149"
+    ],
+    "winner": "Ollie Schmid",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Keiichiro Nakamura",
+            "Ollie Schmid"
+          ],
+          "KD": [
+            "1",
+            "0"
+          ],
+          "Sig. str.": [
+            "94 of 189",
+            "71 of 165"
+          ],
+          "Sig. str. %": [
+            "49%",
+            "43%"
+          ],
+          "Total str.": [
+            "101 of 198",
+            "72 of 166"
+          ],
+          "Td": [
+            "0 of 0",
+            "1 of 6"
+          ],
+          "Td %": [
+            "---",
+            "16%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:17",
+            "0:23"
+          ]
+        }
+      ],
+      "fighters": [
+        "Keiichiro Nakamura",
+        "Ollie Schmid"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 21 of 44 - 47% 18 of 44 - 40% RD2 20 of 51 - 39% 27 of 56 - 48% RD3 53 of 94 - 56% 26 of 65 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Keiichiro Nakamura W Ollie Schmid \"The Hungarian Stallion\" Featherweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Chris Flores 28 - 29. Chris Lee 28 - 29. Ron McCarthy 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Keiichiro Nakamura Ollie Schmid 1 0 94 of 189 71 of 165 49% 43% 101 of 198 72 of 166 0 of 0 1 of 6 --- 16% 0 0 0 0 0:17 0:23 Per round Fighter KD Sig. str. Sig. str. % Total str. Td %"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/a21a21810258623e",
+    "fighter_names": [
+      "Gabriel Lorenco",
+      "Thomas Petersen"
+    ],
+    "fighter_ids": [
+      "e3fc6c1fab298561",
+      "764d39074a352e33"
+    ],
+    "winner": "Thomas Petersen",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "3",
+    "time": "4:47",
+    "weight_class": "Heavyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Gabriel Lorenco",
+            "Thomas Petersen"
+          ],
+          "KD": [
+            "1",
+            "1"
+          ],
+          "Sig. str.": [
+            "53 of 89",
+            "57 of 80"
+          ],
+          "Sig. str. %": [
+            "59%",
+            "71%"
+          ],
+          "Total str.": [
+            "97 of 139",
+            "130 of 170"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 2"
+          ],
+          "Td %": [
+            "---",
+            "100%"
+          ],
+          "Sub. att": [
+            "0",
+            "1"
+          ],
+          "Rev.": [
+            "1",
+            "0"
+          ],
+          "Ctrl": [
+            "2:01",
+            "6:58"
+          ]
+        }
+      ],
+      "fighters": [
+        "Gabriel Lorenco",
+        "Thomas Petersen"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 43 of 69 - 62% 6 of 13 - 46% RD2 7 of 14 - 50% 21 of 29 - 72% RD3 3 of 6 - 50% 30 of 38 - 78% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Gabriel Lorenco \"The Black Mamba\" W Thomas Petersen \"The Train\" Heavyweight Bout Method: KO/TKO Round: 3 Time: 4:47 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Punches to Head From Half Guard Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Gabriel Lorenco Thomas Petersen 1 1 53 of 89 57 of 80 59% 71% 97 of 139 130 of 170 0 of 0 2 of 2 --- 100% 0 1 1 0 2:01 6:58 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Gabrie"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/1452e906a169875d",
+    "fighter_names": [
+      "Karine Silva",
+      "Gabriella Fernandes"
+    ],
+    "fighter_ids": [
+      "9d62c2d8ee151f08",
+      "a6eb54ae17a551be"
+    ],
+    "winner": "Karine Silva",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Women's Flyweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Karine Silva",
+            "Gabriella Fernandes"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "52 of 103",
+            "44 of 99"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "44%"
+          ],
+          "Total str.": [
+            "159 of 211",
+            "69 of 129"
+          ],
+          "Td": [
+            "0 of 2",
+            "0 of 1"
+          ],
+          "Td %": [
+            "0%",
+            "0%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "2:06",
+            "6:09"
+          ]
+        }
+      ],
+      "fighters": [
+        "Karine Silva",
+        "Gabriella Fernandes"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 8 of 14 - 57% 11 of 11 - 100% RD2 16 of 33 - 48% 13 of 39 - 33% RD3 28 of 56 - 50% 20 of 49 - 40% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker W Karine Silva \"Killer\" L Gabriella Fernandes \"Gabi\" Women's Flyweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Mike Bell 28 - 29. Eric Colon 28 - 29. Sal D'amato 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Karine Silva Gabriella Fernandes 0 0 52 of 103 44 of 99 50% 44% 159 of 211 69 of 129 0 of 2 0 of 1 0% 0% 0 0 0 0 2:06 6:09 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % "
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/9f33576489a0370c",
+    "fighter_names": [
+      "Jose Delano",
+      "Murtazali Magomedov"
+    ],
+    "fighter_ids": [
+      "d7c4956d61ae76a9",
+      "d436f5d55156a521"
+    ],
+    "winner": "Murtazali Magomedov",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jose Delano",
+            "Murtazali Magomedov"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "86 of 178",
+            "43 of 93"
+          ],
+          "Sig. str. %": [
+            "48%",
+            "46%"
+          ],
+          "Total str.": [
+            "102 of 196",
+            "63 of 116"
+          ],
+          "Td": [
+            "0 of 0",
+            "4 of 8"
+          ],
+          "Td %": [
+            "---",
+            "50%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:27",
+            "4:30"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jose Delano",
+        "Murtazali Magomedov"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 34 of 47 - 72% 14 of 25 - 56% RD2 23 of 52 - 44% 11 of 32 - 34% RD3 29 of 79 - 36% 18 of 36 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Jose Delano W Murtazali Magomedov \"The Highlight\" Featherweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Keith Peterson Details: Adalaide Byrd 28 - 29. Eric Colon 28 - 29. David Lethaby 28 - 29. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jose Delano Murtazali Magomedov 0 1 86 of 178 43 of 93 48% 46% 102 of 196 63 of 116 0 of 0 4 of 8 --- 50% 0 0 0 0 0:27 4:30 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % T"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/397399a62874a00e",
+    "fighter_names": [
+      "Austin Bashi",
+      "Carlos Calderon"
+    ],
+    "fighter_ids": [
+      "d3f89fa685bd8420",
+      "7d4d7583df7eebf9"
+    ],
+    "winner": "Austin Bashi",
+    "result_raw": "win",
+    "method": "Submission",
+    "round": "1",
+    "time": "1:07",
+    "weight_class": "Featherweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Austin Bashi",
+            "Carlos Calderon"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "2 of 6",
+            "1 of 6"
+          ],
+          "Sig. str. %": [
+            "33%",
+            "16%"
+          ],
+          "Total str.": [
+            "3 of 8",
+            "1 of 6"
+          ],
+          "Td": [
+            "1 of 1",
+            "0 of 0"
+          ],
+          "Td %": [
+            "100%",
+            "---"
+          ],
+          "Sub. att": [
+            "1",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:40",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Austin Bashi",
+        "Carlos Calderon"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 2 of 6 - 33% 1 of 6 - 16% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker W Austin Bashi L Carlos Calderon \"Chief\" Featherweight Bout Method: Submission Round: 1 Time: 1:07 Time format: 3 Rnd (5-5-5) Referee: Herb Dean Details: Rear Naked Choke Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Austin Bashi Carlos Calderon 0 0 2 of 6 1 of 6 33% 16% 3 of 8 1 of 6 1 of 1 0 of 0 100% --- 1 0 0 0 0:40 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Austin Bashi Carlos Calderon 0 0 2 of 6 1 of 6 33% 16% 3 o"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/869c3394cadfb23c",
+    "fighter_names": [
+      "Mantas Kondratavicius",
+      "Andre Petroski"
+    ],
+    "fighter_ids": [
+      "3cc506f115cbb9d5",
+      "5f61780fe5e9b6d0"
+    ],
+    "winner": "Andre Petroski",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "2",
+    "time": "4:39",
+    "weight_class": "Middleweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Mantas Kondratavicius",
+            "Andre Petroski"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "23 of 48",
+            "56 of 84"
+          ],
+          "Sig. str. %": [
+            "47%",
+            "66%"
+          ],
+          "Total str.": [
+            "34 of 60",
+            "85 of 120"
+          ],
+          "Td": [
+            "0 of 0",
+            "2 of 5"
+          ],
+          "Td %": [
+            "---",
+            "40%"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:58",
+            "5:18"
+          ]
+        }
+      ],
+      "fighters": [
+        "Mantas Kondratavicius",
+        "Andre Petroski"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 18 of 38 - 47% 15 of 28 - 53% RD2 5 of 10 - 50% 41 of 56 - 73% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Mantas Kondratavicius W Andre Petroski Middleweight Bout Method: KO/TKO Round: 2 Time: 4:39 Time format: 3 Rnd (5-5-5) Referee: Chris Tognoni Details: Punches to Head From Mount Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Mantas Kondratavicius Andre Petroski 0 0 23 of 48 56 of 84 47% 66% 34 of 60 85 of 120 0 of 0 2 of 5 --- 40% 0 0 0 0 0:58 5:18 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Mantas Kondratavicius Andre Petro"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/cd446b8759b30093",
+    "fighter_names": [
+      "Seokhyeon Ko",
+      "Wellington Turman"
+    ],
+    "fighter_ids": [
+      "4a07b1988477502c",
+      "4dcfb28c011c11b2"
+    ],
+    "winner": "Seokhyeon Ko",
+    "result_raw": "win",
+    "method": "Decision - Unanimous",
+    "round": "3",
+    "time": "5:00",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Seokhyeon Ko",
+            "Wellington Turman"
+          ],
+          "KD": [
+            "0",
+            "0"
+          ],
+          "Sig. str.": [
+            "54 of 98",
+            "36 of 76"
+          ],
+          "Sig. str. %": [
+            "55%",
+            "47%"
+          ],
+          "Total str.": [
+            "99 of 148",
+            "74 of 117"
+          ],
+          "Td": [
+            "6 of 10",
+            "0 of 0"
+          ],
+          "Td %": [
+            "60%",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "9:01",
+            "0:00"
+          ]
+        }
+      ],
+      "fighters": [
+        "Seokhyeon Ko",
+        "Wellington Turman"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 19 of 32 - 59% 15 of 32 - 46% RD2 24 of 47 - 51% 20 of 42 - 47% RD3 11 of 19 - 57% 1 of 2 - 50% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker W Seokhyeon Ko \"Technical\" L Wellington Turman \"The Prodigy\" Welterweight Bout Method: Decision - Unanimous Round: 3 Time: 5:00 Time format: 3 Rnd (5-5-5) Referee: Jason Herzog Details: Mike Bell 27 - 30. Sal D'amato 27 - 30. Ron McCarthy 27 - 30. Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Seokhyeon Ko Wellington Turman 0 0 54 of 98 36 of 76 55% 47% 99 of 148 74 of 117 6 of 10 0 of 0 60% --- 0 0 0 0 9:01 0:00 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % T"
+  },
+  {
+    "event_name": "UFC Fight Night: Cortes Acosta vs. Walker",
+    "event_url": "http://ufcstats.com/event-details/110404b505fb562c",
+    "event_date": "November 07, 2026",
+    "fight_url": "http://ufcstats.com/fight-details/e2cd8521c8ba55b2",
+    "fighter_names": [
+      "Jonny Parsons",
+      "Jose Souza"
+    ],
+    "fighter_ids": [
+      "2975297f505e9447",
+      "20a0e4cc5227c117"
+    ],
+    "winner": "Jose Souza",
+    "result_raw": "win",
+    "method": "KO/TKO",
+    "round": "1",
+    "time": "4:16",
+    "weight_class": "Welterweight",
+    "totals": {
+      "rows": [
+        {
+          "Fighter": [
+            "Jonny Parsons",
+            "Jose Souza"
+          ],
+          "KD": [
+            "0",
+            "1"
+          ],
+          "Sig. str.": [
+            "15 of 30",
+            "33 of 42"
+          ],
+          "Sig. str. %": [
+            "50%",
+            "78%"
+          ],
+          "Total str.": [
+            "16 of 31",
+            "33 of 42"
+          ],
+          "Td": [
+            "0 of 0",
+            "0 of 0"
+          ],
+          "Td %": [
+            "---",
+            "---"
+          ],
+          "Sub. att": [
+            "0",
+            "0"
+          ],
+          "Rev.": [
+            "0",
+            "0"
+          ],
+          "Ctrl": [
+            "0:00",
+            "0:02"
+          ]
+        }
+      ],
+      "fighters": [
+        "Jonny Parsons",
+        "Jose Souza"
+      ]
+    },
+    "per_round_breakdown": "Per round RD1 15 of 30 - 50% 33 of 42 - 78% Landed Attempted",
+    "raw_text_excerpt": "Stats | UFC EVENTS & FIGHTS FIGHTERS STAT LEADERS UFC Fight Night: Cortes Acosta vs. Walker L Jonny Parsons \"The Sluggernaut\" W Jose Souza \"Canela\" Welterweight Bout Method: KO/TKO Round: 1 Time: 4:16 Time format: 3 Rnd (5-5-5) Referee: Keith Peterson Details: Punches to Head At Distance Totals Fighter KD Sig. str. Sig. str. % Total str. Td Td % Sub. att Rev. Ctrl Jonny Parsons Jose Souza 0 1 15 of 30 33 of 42 50% 78% 16 of 31 33 of 42 0 of 0 0 of 0 --- --- 0 0 0 0 0:00 0:02 Per round Fighter KD Sig. str. Sig. str. % Total str. Td % Td % Sub. att Rev. Ctrl Round 1 Jonny Parsons Jose Souza 0 1 "
   }
 ]
